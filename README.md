@@ -577,7 +577,7 @@
 <tr><td>[数据集][目标检测]垃圾桶溢出数据集VOC+YOLO格式3类别3493张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/133842375">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[目标检测][数据集]电瓶车进电梯电动车入梯电动车进电梯数据集727张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/133612343">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]消火栓目标检测数据集VOC格式2600张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/133420370">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]裸土识别裸土未覆盖目标检测数据集VOC格式857张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132698616">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]裸土识别裸土未覆盖目标检测数据集VOC+YOLO格式857张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132698616">详情</a></td><td><a href="https://mbd.pub/o/bread/mbd-Z52Tmppt">下载</a></td></tr>
 <tr><td>[数据集][目标检测]疲劳驾驶数据集VOC格式4类别-4362张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132481642">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]垃圾目标检测数据集VOC格式14963张44类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132437059">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]骑电动车摩托车不戴头盔数据集VOC格式1385张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132266119">详情</a></td><td><a href="info.md">下载</a></td></tr>
