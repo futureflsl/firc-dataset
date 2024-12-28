@@ -2,9 +2,9 @@
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>矿场工业传送带检测石块缺陷检测数据集VOC+YOLO格式2262张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Vlplv">下载</a></td></tr>
-<tr><td>目标系列数据集导弹检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmplv">下载</a></td></tr>
-<tr><td>目标系列数据集水下潜艇检测数据集VOC+YOLO格式428张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZ1y">下载</a></td></tr>
-<tr><td>目标系列数据集坦克装甲车检测数据集VOC+YOLO格式1464张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZpv">下载</a></td></tr>
+<tr><td>军事目标系列数据集导弹检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmplv">下载</a></td></tr>
+<tr><td>军事目标系列数据集水下潜艇检测数据集VOC+YOLO格式428张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZ1y">下载</a></td></tr>
+<tr><td>军事目标系列数据集坦克装甲车检测数据集VOC+YOLO格式1464张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZpv">下载</a></td></tr>
 <tr><td>钢材生锈铁生锈腐蚀识别分割数据集labelme格式3899张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52TlJ1s">下载</a></td></tr>
 <tr><td>钢材缺陷识别分割数据集labelme格式693张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Tk55q">下载</a></td></tr>
 <tr><td>钢材缺陷识别分割数据集labelme格式5597张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Tk5dr">下载</a></td></tr>
