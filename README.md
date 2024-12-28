@@ -1,14 +1,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>矿场工业传送带检测石块缺陷检测数据集VOC+YOLO格式2262张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Vlplv">下载</a></td></tr>
+<tr><td>目标系列数据集导弹检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmplv">下载</a></td></tr>
+<tr><td>目标系列数据集水下潜艇检测数据集VOC+YOLO格式428张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZ1y">下载</a></td></tr>
+<tr><td>目标系列数据集坦克装甲车检测数据集VOC+YOLO格式1464张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZpv">下载</a></td></tr>
 <tr><td>钢材生锈铁生锈腐蚀识别分割数据集labelme格式3899张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52TlJ1s">下载</a></td></tr>
 <tr><td>钢材缺陷识别分割数据集labelme格式693张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Tk55q">下载</a></td></tr>
 <tr><td>钢材缺陷识别分割数据集labelme格式5597张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Tk5dr">下载</a></td></tr>
 <tr><td>天空分割数据集labelme格式1843张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Tkppp">下载</a></td></tr>
 <tr><td>盲道识别及损坏分割数据集labelme格式995张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycm5tv">下载</a></td></tr>
-<tr><td>军事目标系列数据集导弹检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmplv">下载</a></td></tr>
-<tr><td>军事目标系列数据集水下潜艇检测数据集VOC+YOLO格式428张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZ1y">下载</a></td></tr>
-<tr><td>军事目标系列数据集坦克装甲车检测数据集VOC+YOLO格式1464张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZpv">下载</a></td></tr>
 <tr><td>头发分割数据集labelme格式3970张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmJxt">下载</a></td></tr>
 <tr><td>智慧交通道路积水分割数据集labelme格式8481张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycl5xq">下载</a></td></tr>
 <tr><td>智慧交通道路积水检测数据集VOC+YOLO格式8474张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycl5xr">下载</a></td></tr>
