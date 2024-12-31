@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>螺栓松动丢失腐蚀生锈检测数据集VOC+YOLO格式504张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Wl5ts">下载</a></td></tr>
+<tr><td>衣物褶皱织物褶皱检测数据集VOC+YOLO格式939张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Wlp1u">下载</a></td></tr>
 <tr><td>电力场景输电路杆塔上的鸟巢检测数据集VOC+YOLO格式1000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52VmZxx">下载</a></td></tr>
 <tr><td>电力场景输电线路异物检测数据集VOC+YOLO格式4370张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52VmJ9y">下载</a></td></tr>
 <tr><td>电力场景配网缺陷系列之销钉缺失检测数据集VOC+YOLO格式3095张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52VmJ5s">下载</a></td></tr>
