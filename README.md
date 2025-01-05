@@ -1,6 +1,18 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力巡检检测数据集VOC+YOLO格式9400张32类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZlJxx">下载</a></td></tr>
+<tr><td>人字梯检测数据集VOC+YOLO格式2190张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZlJpv">下载</a></td></tr>
+<tr><td>电路板导线缺陷检测数据集VOC+YOLO格式7367张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52YmZlu">下载</a></td></tr>
+<tr><td>人字梯检测数据集VOC+YOLO格式937张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZlJlu">下载</a></td></tr>
+<tr><td>棉花杂质异物检测数据集VOC+YOLO格式1998张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZlJhw">下载</a></td></tr>
+<tr><td>土豆病害检测数据集VOC+YOLO格式8908张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZlJhv">下载</a></td></tr>
+<tr><td>特殊车辆检测数据集VOC+YOLO格式2730张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Ym5pq">下载</a></td></tr>
+<tr><td>辣椒病害检测数据集VOC+YOLO格式2161张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Ymp9t">下载</a></td></tr>
+<tr><td>电路板PCB缺陷检测数据集VOC+YOLO格式9666张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Ymp5y">下载</a></td></tr>
+<tr><td>齿轮缺陷检测数据集VOC+YOLO格式485张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52YmJxt">下载</a></td></tr>
+<tr><td>芯片引脚类型检测数据集VOC+YOLO格式582张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52YmJpy">下载</a></td></tr>
+<tr><td>芯片引脚缺陷检测数据集VOC+YOLO格式203张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52YmJlw">下载</a></td></tr>
 <tr><td>大豆叶子虫害检测数据集VOC+YOLO格式1794张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5yVlZ9r">下载</a></td></tr>
 <tr><td>泥石流检测数据集VOC+YOLO格式4732张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Xl5hw">下载</a></td></tr>
 <tr><td>红外图像火点检测数据集VOC+YOLO格式2510张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52XlpZy">下载</a></td></tr>
