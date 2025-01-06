@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>遥感图像塔吊检测数据集VOC+YOLO格式1567张1类</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ak5hu">下载</a></td></tr>
+<tr><td>起重机检测数据集VOC+YOLO格式2815张1类</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ak5Zy">下载</a></td></tr>
+<tr><td>农田焚烧秸秆烟雾明火检测数据集VOC+YOLO格式7879张2类</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZmZ9x">下载</a></td></tr>
+<tr><td>遛狗不牵绳检测数据集VOC+YOLO格式12076张3类</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZmZhq">下载</a></td></tr>
 <tr><td>电力巡检检测数据集VOC+YOLO格式9400张32类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZlJxx">下载</a></td></tr>
 <tr><td>人字梯检测数据集VOC+YOLO格式2190张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZlJpv">下载</a></td></tr>
 <tr><td>电路板导线缺陷检测数据集VOC+YOLO格式7367张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52YmZlu">下载</a></td></tr>
@@ -23,9 +27,9 @@
 <tr><td>电力场景配网缺陷系列之销钉缺失检测数据集VOC+YOLO格式3095张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52VmJ5s">下载</a></td></tr>
 <tr><td>军事目标系列数据集地雷检测数据集VOC+YOLO格式1023张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Vl5lw">下载</a></td></tr>
 <tr><td>矿场工业传送带检测石块缺陷检测数据集VOC+YOLO格式2262张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Vlplv">下载</a></td></tr>
-<tr><td>军事目标系列数据集导弹检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmplv">下载</a></td></tr>
-<tr><td>军事目标系列数据集水下潜艇检测数据集VOC+YOLO格式428张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZ1y">下载</a></td></tr>
-<tr><td>军事目标系列数据集坦克装甲车检测数据集VOC+YOLO格式1464张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZpv">下载</a></td></tr>
+<tr><td>目标系列数据集导弹检测数据集VOC+YOLO格式969张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmplv">下载</a></td></tr>
+<tr><td>目标系列数据集水下潜艇检测数据集VOC+YOLO格式428张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZ1y">下载</a></td></tr>
+<tr><td>目标系列数据集坦克装甲车检测数据集VOC+YOLO格式1464张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z5ycmZpv">下载</a></td></tr>
 <tr><td>钢材生锈铁生锈腐蚀识别分割数据集labelme格式3899张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52TlJ1s">下载</a></td></tr>
 <tr><td>钢材缺陷识别分割数据集labelme格式693张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Tk55q">下载</a></td></tr>
 <tr><td>钢材缺陷识别分割数据集labelme格式5597张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52Tk5dr">下载</a></td></tr>
@@ -395,7 +399,7 @@
 <tr><td>widerface人脸检测数据集VOC+YOLO格式16094张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139538306">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]厨房积水检测数据集VOC+YOLO格式88张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139525543">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]路边倒树检测数据集VOC+YOLO格式1238张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139519893">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][图像分类]城市异常情况路边倒树火灾水灾交通事故分类数据集15223张8类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139510187">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][图像分类]城市异常情况路边倒树火灾水灾交通事故分类数据集15223张8类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139510187">详情</a></td><td><a href="https://mbd.pub/o/bread/Z52Zm5hu">下载</a></td></tr>
 <tr><td>[数据集][目标检测]攀墙攀越墙壁数据集VOC格式-701张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139507886">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]十二生肖分类数据集8492张12类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139476160">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景电表类型检测数据集VOC+YOLO格式3232张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139474963">详情</a></td><td><a href="info.md">下载</a></td></tr>
@@ -796,4 +800,3 @@
 <tr><td>昆虫检测数据集VOC+YOLO格式1873张7类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/136741747">详情</a></td><td><a href="info.md">下载</a></td></tr>
 </tbody>
 </table>
-
