@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>交通事故车辆分割数据集labelme格式3467张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52am59s">下载</a></td></tr>
+<tr><td>电力场景输电线覆冰分割数据集labelme格式1227张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52alZdr">下载</a></td></tr>
 <tr><td>遥感图像塔吊检测数据集VOC+YOLO格式1567张1类</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ak5hu">下载</a></td></tr>
 <tr><td>起重机检测数据集VOC+YOLO格式2815张1类</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ak5Zy">下载</a></td></tr>
 <tr><td>农田焚烧秸秆烟雾明火检测数据集VOC+YOLO格式7879张2类</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ZmZ9x">下载</a></td></tr>
