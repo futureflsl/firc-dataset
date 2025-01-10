@@ -1,6 +1,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>商店异常行为检测数据集VOC+YOLO格式9667张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bl5du">下载</a></td></tr>
+<tr><td>坦克检测数据集VOC+YOLO格式3469张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bl5dq">下载</a></td></tr>
+<tr><td>智慧厨房不规范行为检测数据集VOC+YOLO格式7510张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blp9r">下载</a></td></tr>
+<tr><td>热成像老鼠检测数据集VOC+YOLO格式3309张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blp5v">下载</a></td></tr>
+<tr><td>电力场景输电杆塔关节检测数据集VOC+YOLO格式969张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blp5p">下载</a></td></tr>
+<tr><td>电力场景输电线电缆线灼伤烧伤破皮脱皮损伤缺陷检测数据集VOC+YOLO格式2054张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blpxy">下载</a></td></tr>
+<tr><td>稻田虫害识别分割数据集labelme格式7533张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blZlp">下载</a></td></tr>
+<tr><td>昆虫分割数据集labelme格式9484张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blJxt">下载</a></td></tr>
+<tr><td>老鼠分割数据集labelme格式1000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blJhy">下载</a></td></tr>
+<tr><td>玻璃屏幕缺陷检测数据集VOC+YOLO格式2504张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blJdr">下载</a></td></tr>
 <tr><td>交通事故车辆分割数据集labelme格式3467张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52am59s">下载</a></td></tr>
 <tr><td>电力场景输电线覆冰分割数据集labelme格式1227张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52alZdr">下载</a></td></tr>
 <tr><td>遥感图像塔吊检测数据集VOC+YOLO格式1567张1类</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52ak5hu">下载</a></td></tr>
