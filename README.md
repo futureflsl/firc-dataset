@@ -497,7 +497,7 @@
 <tr><td>[数据集][图像分类]抽烟打电话分类数据集6150张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138784040">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]手扶电梯地铁电梯缺陷检测数据集VOC+YOLO格式67张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138783556">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景鸟巢垃圾风筝气球检测数据集VOC+YOLO格式1300张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138783278">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]电力场景遥感数电杆塔检测数据集VOC+YOLO格式400张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138782041">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]电力场景遥感输电杆塔检测数据集VOC+YOLO格式400张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138782041">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景安全帽检测数据集VOC+YOLO格式295张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138781397">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>电力场景设备漏油检测数据集VOC+YOLO格式338张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138780921">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]垃圾检测数据集VOC+YOLO格式1814张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138766240">详情</a></td><td><a href="info.md">下载</a></td></tr>
