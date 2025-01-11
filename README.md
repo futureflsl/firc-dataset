@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景变电站绝缘手套佩戴规范检测数据集VOC+YOLO格式2084张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bmZpt">下载</a></td></tr>
+<tr><td>电力场景变电站火灾检测数据集VOC+YOLO格式3098张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bmJlp">下载</a></td></tr>
 <tr><td>商店异常行为检测数据集VOC+YOLO格式9667张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bl5du">下载</a></td></tr>
 <tr><td>坦克检测数据集VOC+YOLO格式3469张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bl5dq">下载</a></td></tr>
 <tr><td>智慧厨房不规范行为检测数据集VOC+YOLO格式7510张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52blp9r">下载</a></td></tr>
