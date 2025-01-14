@@ -1,6 +1,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景输电线塔倒塌检测数据集VOC+YOLO格式4086张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52clp1u">下载</a></td></tr>
+<tr><td>电力场景输电线高压铁塔检测数据集VOC+YOLO格式1023张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52clpxx">下载</a></td></tr>
+<tr><td>电力场景红外测温图像均压环下的避雷器识别分割数据集labelme格式2436张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52clZ1q">下载</a></td></tr>
+<tr><td>电力场景水泥电线杆缺陷检测数据集VOC+YOLO格式2052张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bm5px">下载</a></td></tr>
+<tr><td>链条缺陷检测数据集VOC+YOLO格式1422张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bm5pw">下载</a></td></tr>
+<tr><td>电力场景螺栓螺帽销钉丢失检测数据集VOC+YOLO格式1494张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bmp5q">下载</a></td></tr>
+<tr><td>电力场景绝缘子绑扎规范检测数据集VOC+YOLO格式1140张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bmppu">下载</a></td></tr>
+<tr><td>电力场景电力设备漏油检测数据集VOC+YOLO格式1114张36类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bmZ1v">下载</a></td></tr>
 <tr><td>电力场景变电站绝缘手套佩戴规范检测数据集VOC+YOLO格式2084张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bmZpt">下载</a></td></tr>
 <tr><td>电力场景变电站火灾检测数据集VOC+YOLO格式3098张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bmJlp">下载</a></td></tr>
 <tr><td>商店异常行为检测数据集VOC+YOLO格式9667张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bl5du">下载</a></td></tr>
