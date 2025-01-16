@@ -11,7 +11,6 @@
 <tr><td>28种常见建筑风格分类图像数据集22975张28类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52cmJly">下载</a></td></tr>
 <tr><td>电力场景隔离开关状态检测数据集VOC+YOLO格式600张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52cl5hv">下载</a></td></tr>
 <tr><td>电力场景输电线塔倒塌检测数据集VOC+YOLO格式4086张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52clp1u">下载</a></td></tr>
-<tr><td>电力场景输电线塔倒塌检测数据集VOC+YOLO格式4086张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52clp1u">下载</a></td></tr>
 <tr><td>电力场景输电线高压铁塔检测数据集VOC+YOLO格式1023张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52clpxx">下载</a></td></tr>
 <tr><td>电力场景红外测温图像绝缘套管分割数据集labelme格式2436张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52clZ1q">下载</a></td></tr>
 <tr><td>电力场景水泥电线杆缺陷检测数据集VOC+YOLO格式2052张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52bm5px">下载</a></td></tr>
