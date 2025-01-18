@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>残障人员物件检测数据集VOC+YOLO格式7385张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tlp9v">下载</a></td></tr>
+<tr><td>医院照护和病人状态检测数据集VOC+YOLO格式2004张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tlp9s">下载</a></td></tr>
+<tr><td>清洁员清扫状态检测数据集VOC+YOLO格式10330张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tlp9p">下载</a></td></tr>
+<tr><td>航拍工程车辆检测数据集VOC+YOLO格式9121张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tlphw">下载</a></td></tr>
+<tr><td>X射线底片焊缝缺陷检测数据集VOC+YOLO格式3056张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56TlZ5q">下载</a></td></tr>
 <tr><td>无人机视角道路缺陷损害损坏裂缝检测数据集VOC+YOLO格式2422张7类别</td><td>无</td><<td><a href="https://mbd.pub/o/bread/Z56Tkpxp">下载</a></td></tr>
 <tr><td>航拍工程车辆检测数据集VOC+YOLO格式1263张1类别</td><td>无</td><<td><a href="https://mbd.pub/o/bread/Z56Tkptu">下载</a></td></tr>
 <tr><td>水稻穗检测数据集VOC+YOLO格式6038张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tkphr">下载</a></td></tr>
