@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>木材缺陷检测数据集VOC+YOLO格式8961张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tmphx">下载</a></td></tr>
+<tr><td>木材缺陷分割数据集labelme格式1548张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56TmZ5w">下载</a></td></tr>
+<tr><td>医疗显微图像结核杆菌检测数据集VOC+YOLO格式1218张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56TmJZy">下载</a></td></tr>
 <tr><td>残障人员物件检测数据集VOC+YOLO格式7385张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tlp9v">下载</a></td></tr>
 <tr><td>医院照护和病人状态检测数据集VOC+YOLO格式2004张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tlp9s">下载</a></td></tr>
 <tr><td>清洁员清扫状态检测数据集VOC+YOLO格式10330张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tlp9p">下载</a></td></tr>
