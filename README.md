@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>煤矿场景下安全帽检测数据集VOC+YOLO格式179张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56UmZtv">下载</a></td></tr>
+<tr><td>煤矿传送带大煤块检测数据集VOC+YOLO格式20925张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56UmZtt">下载</a></td></tr>
+<tr><td>自然灾害检测数据集VOC+YOLO格式19151张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56UmZhw">下载</a></td></tr>
+<tr><td>遥感图像尾矿库检测数据集VOC+YOLO格式1183张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56UmZhp">下载</a></td></tr>
+<tr><td>煤矿井下钻场钻机卡盘煤矿工人安全帽检测数据集VOC+YOLO格式70677张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56UmJ5x">下载</a></td></tr>
 <tr><td>木材缺陷检测数据集VOC+YOLO格式8961张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Tmphx">下载</a></td></tr>
 <tr><td>木材缺陷分割数据集labelme格式1548张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56TmZ5w">下载</a></td></tr>
 <tr><td>医疗显微图像结核杆菌检测数据集VOC+YOLO格式1218张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56TmJZy">下载</a></td></tr>
