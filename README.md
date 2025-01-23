@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>煤矿场景下拖链检测数据集VOC+YOLO格式21407张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vk55q">下载</a></td></tr>
+<tr><td>煤矿场景下矿工行为检测数据集VOC+YOLO格式24709张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vkppq">下载</a></td></tr>
+<tr><td>煤矿场景下安全帽检测数据集VOC+YOLO格式20097张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vkpdq">下载</a></td></tr>
+<tr><td>煤矿场景下的液压支撑角度异常检测数据集VOC+YOLO格式20024张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Um59q">下载</a></td></tr>
+<tr><td>煤矿场景下矿工检测数据集VOC+YOLO格式30691张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Um55u">下载</a></td></tr>
 <tr><td>煤矿场景下安全帽检测数据集VOC+YOLO格式179张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56UmZtv">下载</a></td></tr>
 <tr><td>煤矿传送带大煤块检测数据集VOC+YOLO格式20925张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56UmZtt">下载</a></td></tr>
 <tr><td>自然灾害检测数据集VOC+YOLO格式19151张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56UmZhw">下载</a></td></tr>
