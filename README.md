@@ -621,7 +621,6 @@
 <tr><td>[数据集][目标检测]课堂行为数据集VOC+YOLO格式671张6类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136298711">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]游泳者溺水数据集VOC+YOLO格式2类别895张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136285420">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]垃圾图片分类数据集史上最全233类别共计3.7w张图片</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136276446">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[labelme]labelme如何将标注的json格式转成png的mask文件掩码文件</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135640007">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]茶叶病害数据集VOC+YOLO格式883张8类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135592849">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]玩手机检测数据集VOC+YOLO格式8200张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135458013">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]白细胞检测数据集VOC+YOLO格式343张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/135441873">详情</a></td><td><a href="info.md">下载</a></td></tr>
