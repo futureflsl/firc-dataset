@@ -1,6 +1,30 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景红外图像变电站液体泄漏检测数据集VOC+YOLO格式5034张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wmphp">下载</a></td></tr>
+<tr><td>田地杂草检测数据集VOC+YOLO格式4040张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wk5Zv">下载</a></td></tr>
+<tr><td>田间杂草检测数据集VOC+YOLO格式4790张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wk5Zr">下载</a></td></tr>
+<tr><td>显微镜下浮游藻类生物检测数据集VOC+YOLO格式16239张80类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wk5Zp">下载</a></td></tr>
+<tr><td>草莓成熟度检测数据集VOC+YOLO格式3294张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wkp9y">下载</a></td></tr>
+<tr><td>毛桃病害分割数据集labelme格式212张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wkp9v">下载</a></td></tr>
+<tr><td>毛桃病害检测数据集VOC+YOLO格式2780张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wkp9q">下载</a></td></tr>
+<tr><td>货车上集装箱编号文字检测数据集VOC+YOLO格式1847张35类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wkp5y">下载</a></td></tr>
+<tr><td>超声波图像甲状腺结节检测数据集VOC+YOLO格式1882张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wkpds">下载</a></td></tr>
+<tr><td>电力场景红外图像变电站目标检测数据集VOC+YOLO格式1175张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wkpdq">下载</a></td></tr>
+<tr><td>天上飞行目标检测飞鸟飞机检测数据集VOC+YOLO格式3993张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vm55y">下载</a></td></tr>
+<tr><td>各种鱼类检测数据集VOC+YOLO格式2967张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vm51u">下载</a></td></tr>
+<tr><td>蟑螂检测数据集VOC+YOLO格式2051张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vm5lt">下载</a></td></tr>
+<tr><td>排水管道裂缝腐蚀异常检测数据集VOC+YOLO格式3053张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vm5lp">下载</a></td></tr>
+<tr><td>地下排水管道损害缺陷检测数据集VOC+YOLO格式2051张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vm5hs">下载</a></td></tr>
+<tr><td>人行横道指示灯状态检测数据集VOC+YOLO格式4950张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vm5hq">下载</a></td></tr>
+<tr><td>汽车表面划痕刮伤检测数据集VOC+YOLO格式1221张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vmp9y">下载</a></td></tr>
+<tr><td>汽车表面划痕刮伤检测数据集VOC+YOLO格式1221张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vm5Zp">下载</a></td></tr>
+<tr><td>高质量工程车辆检测数据集VOC+YOLO格式5067张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vmp5p">下载</a></td></tr>
+<tr><td>工程车辆检测数据集VOC+YOLO格式1239张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vmp1r">下载</a></td></tr>
+<tr><td>自卸车和泵车检测数据集VOC+YOLO格式4863张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vmpxy">下载</a></td></tr>
+<tr><td>车厢货物状态检测数据集VOC+YOLO格式2313张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vmppu">下载</a></td></tr>
+<tr><td>飞鸟小目标检测数据集VOC+YOLO格式1657张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vmpps">下载</a></td></tr>
+<tr><td>毛桃病害检测数据集VOC+YOLO格式142张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vl5ts">下载</a></td></tr>
 <tr><td>煤矿场景下拖链检测数据集VOC+YOLO格式21407张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vk55q">下载</a></td></tr>
 <tr><td>煤矿场景下矿工行为检测数据集VOC+YOLO格式24709张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vkppq">下载</a></td></tr>
 <tr><td>煤矿场景下安全帽检测数据集VOC+YOLO格式20097张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Vkpdq">下载</a></td></tr>
