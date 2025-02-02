@@ -1,6 +1,24 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>超市商品检测数据集VOC+YOLO格式9498张105类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56XmJht">下载</a></td></tr>
+<tr><td>医疗废弃物垃圾检测数据集VOC+YOLO格式2643张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl51w">下载</a></td></tr>
+<tr><td>网球比赛检测数据集VOC+YOLO格式6648张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl5xq">下载</a></td></tr>
+<tr><td>夜晚场景下的人车检测数据集VOC+YOLO格式4199张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl5tr">下载</a></td></tr>
+<tr><td>测压表压力表计量表针头针尾检测数据集VOC+YOLO格式4862张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl5pu">下载</a></td></tr>
+<tr><td>蘑菇毒蘑菇检测数据集VOC+YOLO格式9247张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl5pt">下载</a></td></tr>
+<tr><td>城市道路车辆自行车摩托车公交车检测数据集VOC+YOLO格式5236张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl5hs">下载</a></td></tr>
+<tr><td>马铃薯叶子病害检测数据集VOC+YOLO格式1332张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl5Zv">下载</a></td></tr>
+<tr><td>中式快餐食物检测数据集VOC+YOLO格式6675张36类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xlp5s">下载</a></td></tr>
+<tr><td>田间常见农作物幼苗检测数据集VOC+YOLO格式7705张24类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56XlpZr">下载</a></td></tr>
+<tr><td>玉米苗和杂草检测数据集VOC+YOLO格式1250张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xlpdr">下载</a></td></tr>
+<tr><td>玉米苗和杂草识别分割数据集labelme格式1997张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56XlZxp">下载</a></td></tr>
+<tr><td>显微镜下寄生虫卵类型检测数据集VOC+YOLO格式4400张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56XlZht">下载</a></td></tr>
+<tr><td>水稻和杂草检测数据集VOC+YOLO格式1356张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56XlJ1v">下载</a></td></tr>
+<tr><td>遥感图像建筑房屋树木水体分割数据集labelme格式2026张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xk5lx">下载</a></td></tr>
+<tr><td>室内家具检测数据集VOC+YOLO格式2543张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xk5dx">下载</a></td></tr>
+<tr><td>室内家具检测数据集VOC+YOLO格式7928张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xk5dv">下载</a></td></tr>
+<tr><td>超声波图像阿尔兹海默症严重程度检测数据集VOC+YOLO格式3288张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xk5dp">下载</a></td></tr>
 <tr><td>电力场景红外图像变电站液体泄漏检测数据集VOC+YOLO格式5034张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wmphp">下载</a></td></tr>
 <tr><td>田地杂草检测数据集VOC+YOLO格式4040张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wk5Zv">下载</a></td></tr>
 <tr><td>田间杂草检测数据集VOC+YOLO格式4790张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Wk5Zr">下载</a></td></tr>
