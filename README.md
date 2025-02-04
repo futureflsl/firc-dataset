@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>瓶盖缺陷检测数据集VOC+YOLO格式4516张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Ylplv">下载</a></td></tr>
+<tr><td>酒瓶缺陷检测数据集VOC+YOLO格式2668张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Ylplq">下载</a></td></tr>
+<tr><td>丝网印刷电路缺陷分类数据集3439张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Ylphs">下载</a></td></tr>
+<tr><td>手扶电梯缺陷检测数据集VOC+YOLO格式67张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Ylpdv">下载</a></td></tr>
+<tr><td>快餐盘食物菜品检测数据集VOC+YOLO格式1027张73类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56YlpZx">下载</a></td></tr>
 <tr><td>超市商品检测数据集VOC+YOLO格式9498张105类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56XmJht">下载</a></td></tr>
 <tr><td>医疗废弃物垃圾检测数据集VOC+YOLO格式2643张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl51w">下载</a></td></tr>
 <tr><td>网球比赛检测数据集VOC+YOLO格式6648张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Xl5xq">下载</a></td></tr>
