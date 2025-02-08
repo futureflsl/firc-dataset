@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>布料布匹缺陷检测数据集VOC+YOLO格式1938张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56ZmZls">下载</a></td></tr>
+<tr><td>牛姿态检测数据集VOC+YOLO格式2750张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56ZmZht">下载</a></td></tr>
+<tr><td>渣土车检测数据集VOC+YOLO格式826张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56ZmZhr">下载</a></td></tr>
 <tr><td>智慧工地施工工具检测数据集VOC+YOLO格式1869张49类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56ZmJdq">下载</a></td></tr>
 <tr><td>多种蝴蝶识别分割数据集labelme格式784张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56Ym5hs">下载</a></td></tr>
 <tr><td>液晶屏仪表文字ocr检测数据集VOC+YOLO格式4682张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56YmZ9q">下载</a></td></tr>
