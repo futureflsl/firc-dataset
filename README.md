@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>陶器陶瓷盘子缺陷检测数据集VOC+YOLO格式1399张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56alZ5u">下载</a></td></tr>
+<tr><td>智慧医疗宫腔镜图像病变检测数据集VOC+YOLO格式3381张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56alZ1x">下载</a></td></tr>
 <tr><td>布料布匹缺陷检测数据集VOC+YOLO格式1938张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56ZmZls">下载</a></td></tr>
 <tr><td>牛姿态检测数据集VOC+YOLO格式2750张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56ZmZht">下载</a></td></tr>
 <tr><td>渣土车检测数据集VOC+YOLO格式826张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56ZmZhr">下载</a></td></tr>
