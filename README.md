@@ -1,6 +1,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>树上橘子检测数据集VOC+YOLO格式5215张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ9w">下载</a></td></tr>
+<tr><td>噬菌体活性检测数据集VOC+YOLO格式1402张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ9s">下载</a></td></tr>
+<tr><td>工业缺陷铸件工件缺陷检测数据集VOC+YOLO格式1445张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ9p">下载</a></td></tr>
+<tr><td>膝关节损伤程度检测数据集VOC+YOLO格式7212张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ5t">下载</a></td></tr>
+<tr><td>眼球疾病检测数据集VCO+YOLO格94张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ5s">下载</a></td></tr>
+<tr><td>建筑物损坏程度分割数据集labelme格式2816张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ5r">下载</a></td></tr>
+<tr><td>可回收垃圾检测数据集VOC+YOLO格式2516张6类别近距离拍摄</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ5p">下载</a></td></tr>
 <tr><td>陶器陶瓷盘子缺陷检测数据集VOC+YOLO格式1399张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56alZ5u">下载</a></td></tr>
 <tr><td>智慧医疗宫腔镜图像病变检测数据集VOC+YOLO格式3381张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56alZ1x">下载</a></td></tr>
 <tr><td>布料布匹缺陷检测数据集VOC+YOLO格式1938张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56ZmZls">下载</a></td></tr>
