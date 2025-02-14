@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通道路路面状态干燥潮湿分割数据集labelme格式1115张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56bmp5p">下载</a></td></tr>
+<tr><td>中国少数民族服饰分类数据集10320张56类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56bmZ5w">下载</a></td></tr>
+<tr><td>中国少数民族服饰检测数据集VOC+YOLO格式2469张55类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56bmZ1u">下载</a></td></tr>
 <tr><td>树上橘子检测数据集VOC+YOLO格式5215张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ9w">下载</a></td></tr>
 <tr><td>噬菌体活性检测数据集VOC+YOLO格式1402张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ9s">下载</a></td></tr>
 <tr><td>工业缺陷铸件工件缺陷检测数据集VOC+YOLO格式1445张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56amJ9p">下载</a></td></tr>
