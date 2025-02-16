@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧工地施工安全自动化监测检测数据集VOC+YOLO格式7164张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56clptu">下载</a></td></tr>
+<tr><td>电力场景电工验电断电操作规范检测数据集VOC+YOLO格式2084张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56clZtp">下载</a></td></tr>
 <tr><td>智慧交通道路路面状态干燥潮湿分割数据集labelme格式1115张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56bmp5p">下载</a></td></tr>
 <tr><td>中国少数民族服饰分类数据集10320张56类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56bmZ5w">下载</a></td></tr>
 <tr><td>中国少数民族服饰检测数据集VOC+YOLO格式2469张55类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56bmZ1u">下载</a></td></tr>
