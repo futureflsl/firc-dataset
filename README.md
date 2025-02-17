@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗胃肠道息肉检测数据集VOC+YOLO格式3410张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmply">下载</a></td></tr>
+<tr><td>课堂行为数据集VOC+YOLO格式671张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmphw">下载</a></td></tr>
+<tr><td>智慧医疗胃肠道息肉分割数据集labelme格式1000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmZ1u">下载</a></td></tr>
 <tr><td>智慧农业田间常见24种杂草检测数据集VOC+YOLO格式3095张24类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmZhw">下载</a></td></tr>
 <tr><td>柑橘叶子病害检测数据集VOC+YOLO格900张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmJpr">下载</a></td></tr>
 <tr><td>贝壳和鹅卵石分类数据集4250张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmJlx">下载</a></td></tr>
