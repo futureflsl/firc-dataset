@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗心脏超声图像间隔壁分割数据集labelme格式3092张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkp9p">下载</a></td></tr>
 <tr><td>口罩佩戴规范三分类检测数据集VOC+YOLO格式4946张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpdw">下载</a></td></tr>
 <tr><td>苹果成熟度检测数据集VOC+YOLO格式2039张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpdv">下载</a></td></tr>
 <tr><td>船舶类型检测数据集VOC+YOLO格式1177张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpdr">下载</a></td></tr>
