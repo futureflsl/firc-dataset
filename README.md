@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>口罩佩戴规范三分类检测数据集VOC+YOLO格式4946张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpdw">下载</a></td></tr>
+<tr><td>苹果成熟度检测数据集VOC+YOLO格式2039张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpdv">下载</a></td></tr>
+<tr><td>船舶类型检测数据集VOC+YOLO格式1177张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpdr">下载</a></td></tr>
+<tr><td>番茄成熟度检测数据集VOC+YOLO格式1521张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpZu">下载</a></td></tr>
+<tr><td>植物病虫害检测数据集VOC+YOLO格式7673张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpZr">下载</a></td></tr>
 <tr><td>智慧医疗胃肠道息肉检测数据集VOC+YOLO格式3410张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmply">下载</a></td></tr>
 <tr><td>课堂行为数据集VOC+YOLO格式671张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmphw">下载</a></td></tr>
 <tr><td>智慧医疗胃肠道息肉分割数据集labelme格式1000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z56cmZ1u">下载</a></td></tr>
