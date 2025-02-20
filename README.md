@@ -1,6 +1,23 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>盲道破损损坏检测数据集VOC+YOLO格式4195张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl59w">下载</a></td></tr>
+<tr><td>茶叶叶片叶子品相识别检测数据集VOC+YOLO格式5631张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl59q">下载</a></td></tr>
+<tr><td>田间大豆和杂草检测数据集VOC+YOLO格式1301张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl55w">下载</a></td></tr>
+<tr><td>猫的情绪识别检测数据集VOC+YOLO格式4066张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl51w">下载</a></td></tr>
+<tr><td>菊花蒲公英检测数据集VOC+YOLO格式1800张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl5xw">下载</a></td></tr>
+<tr><td>樱桃成熟度检测数据集VOC+YOLO格式6340张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl5xu">下载</a></td></tr>
+<tr><td>快递面单识别检测数据集VOC+YOLO格式5065张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl5tt">下载</a></td></tr>
+<tr><td>智能手机表面缺陷检测数据集VOC+YOLO格式1857张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl5ps">下载</a></td></tr>
+<tr><td>路桩状态识别检测数据集VOC+YOLO格式4227张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl5Zu">下载</a></td></tr>
+<tr><td>智慧农业梨树叶子病害检测数据集VOC+YOLO格式3006张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTlp9q">下载</a></td></tr>
+<tr><td>台阶垫斜坡垫检测数据集VOC+YOLO格式5783张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTlp1r">下载</a></td></tr>
+<tr><td>水下管道树根检测数据集VOC+YOLO格式352张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTlp1q">下载</a></td></tr>
+<tr><td>电路板芯片缺陷检测数据集VOC+YOLO格式4531张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTlZpw">下载</a></td></tr>
+<tr><td>建筑物渗水漏水痕迹检测数据集VOC+YOLO格式1062张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTlZly">下载</a></td></tr>
+<tr><td>电力场景配网人员安全带识别检测数据集VOC+YOLO格式4651张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTlZls">下载</a></td></tr>
+<tr><td>建筑墙壁损伤缺陷检测数据集VOC+YOLO格式6872张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTlZlq">下载</a></td></tr>
+<tr><td>草莓生长周期检测数据集VOC+YOLO格式2949张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTlJ9u">下载</a></td></tr>
 <tr><td>智慧医疗心脏超声图像间隔壁分割数据集labelme格式3092张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkp9p">下载</a></td></tr>
 <tr><td>口罩佩戴规范三分类检测数据集VOC+YOLO格式4946张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpdw">下载</a></td></tr>
 <tr><td>苹果成熟度检测数据集VOC+YOLO格式2039张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTkpdv">下载</a></td></tr>
