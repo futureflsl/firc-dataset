@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>钻头缺陷检测数据集VOC+YOLO格式1969张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkpdt">下载</a></td></tr>
+<tr><td>棉花成熟度检测数据集VOC+YOLO格式4964张4类别(有漏标注)</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkpdp">下载</a></td></tr>
+<tr><td>电力场景配网绝缘子损坏检测数据集VOC+YOLO格式2384张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTm5pv">下载</a></td></tr>
 <tr><td>盲道破损损坏检测数据集VOC+YOLO格式4195张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl59w">下载</a></td></tr>
 <tr><td>茶叶叶片叶子品相识别检测数据集VOC+YOLO格式5631张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl59q">下载</a></td></tr>
 <tr><td>田间大豆和杂草检测数据集VOC+YOLO格式1301张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTl55w">下载</a></td></tr>
