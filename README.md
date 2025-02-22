@@ -1,6 +1,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>地震后房屋建筑损坏程度分割数据集labelme格式1170张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUk5px">下载</a></td></tr>
+<tr><td>洋葱叶子病害检测数据集VOC+YOLO格式1899张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUk5hq">下载</a></td></tr>
+<tr><td>印刷数字检测数据集VOC+YOLO格式1884张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUk5ds">下载</a></td></tr>
+<tr><td>阀门检测数据集VOC+YOLO格式1647张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUk5Zv">下载</a></td></tr>
+<tr><td>辣椒叶子病害分类数据集2703张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkp9y">下载</a></td></tr>
+<tr><td>辣椒叶子病害检测数据集VOC+YOLO格式5000张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkp9w">下载</a></td></tr>
+<tr><td>辣椒叶子病害检测数据集VOC+YOLO格式874张3类别均为单个叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkp9t">下载</a></td></tr>
+<tr><td>辣椒叶片叶子病害检测数据集VOC+YOLO格式1718张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkp9s">下载</a></td></tr>
+<tr><td>辣椒叶片叶子病害检测数据集VOC+YOLO格式2258张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkp5u">下载</a></td></tr>
+<tr><td>烟叶杂草检测数据集VOC+YOLO格式698张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkptp">下载</a></td></tr>
 <tr><td>钻头缺陷检测数据集VOC+YOLO格式1969张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkpdt">下载</a></td></tr>
 <tr><td>棉花成熟度检测数据集VOC+YOLO格式4964张4类别(有漏标注)</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUkpdp">下载</a></td></tr>
 <tr><td>电力场景配网绝缘子损坏检测数据集VOC+YOLO格式2384张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWTm5pv">下载</a></td></tr>
