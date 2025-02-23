@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗肺部CT检测数据集VOC+YOLO格式4103张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUlZps">下载</a></td></tr>
+<tr><td>垃圾塑料袋检测数据集VOC+YOLO格式993张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUlZpp">下载</a></td></tr>
+<tr><td>智慧医疗X光图像骨折严重程度检测数据集VOC+YOLO格式8000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUlZlu">下载</a></td></tr>
 <tr><td>地震后房屋建筑损坏程度分割数据集labelme格式1170张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUk5px">下载</a></td></tr>
 <tr><td>洋葱叶子病害检测数据集VOC+YOLO格式1899张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUk5hq">下载</a></td></tr>
 <tr><td>印刷数字检测数据集VOC+YOLO格式1884张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUk5ds">下载</a></td></tr>
