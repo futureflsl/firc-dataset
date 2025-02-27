@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>新能源汽车充电插口类型识别检测数据集VOC+YOLO格式2486张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWVmJZq">下载</a></td></tr>
+<tr><td>运动鞋品牌检测数据集VOC+YOLO格式5824张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWVlZps">下载</a></td></tr>
 <tr><td>西瓜叶子病害检测数据集VOC+YOLO格式1000张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWVk59r">下载</a></td></tr>
 <tr><td>电力场景绝缘子串闪络污染破损检测数据集VOC+YOLO格式1600张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWVk55s">下载</a></td></tr>
 <tr><td>智慧医疗肺部CT检测数据集VOC+YOLO格式4103张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWUlZps">下载</a></td></tr>
