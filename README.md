@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>半导体芯片缺陷检测数据集VOC+YOLO格式5874张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWk5tt">下载</a></td></tr>
+<tr><td>糖尿病视网膜病变检测数据集VOC+YOLO格式1785张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWk5Zp">下载</a></td></tr>
+<tr><td>圆形药片缺陷检测数据集VOC+YOLO格式330张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWVmp9v">下载</a></td></tr>
 <tr><td>新能源汽车充电插口类型识别检测数据集VOC+YOLO格式2486张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWVmJZq">下载</a></td></tr>
 <tr><td>运动鞋品牌检测数据集VOC+YOLO格式5824张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWVlZps">下载</a></td></tr>
 <tr><td>西瓜叶子病害检测数据集VOC+YOLO格式1000张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWVk59r">下载</a></td></tr>
