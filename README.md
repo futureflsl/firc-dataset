@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>三种颜色辣椒检测数据集VOC+YOLO格式10006张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWmJ5x">下载</a></td></tr>
+<tr><td>智慧医疗肝脏肿瘤检测数据集VOC+YOLO格式8619张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWmJ1w">下载</a></td></tr>
 <tr><td>地质雷达探地雷达检测数据集VOC+YOLO格式874张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWl5dt">下载</a></td></tr>
 <tr><td>农作物叶子病害检测数据集VOC+YOLO格式5694张30类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWlp5u">下载</a></td></tr>
 <tr><td>农作物叶子病害检测数据集VOC+YOLO格式5169张29类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWlp5t">下载</a></td></tr>
