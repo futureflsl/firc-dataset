@@ -1,6 +1,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>自动扶梯人员摔倒掉落识别检测数据集VOC+YOLO格式5375张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXlZ1x">下载</a></td></tr>
+<tr><td>水稻叶子病害检测数据集VOC+YOLO格式1059张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXlZ1u">下载</a></td></tr>
+<tr><td>水稻叶子病害检测数据集VOC+YOLO格式11290张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXlZ1q">下载</a></td></tr>
+<tr><td>水稻叶子病害检测数据集VOC+YOLO格式6138张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXlZxv">下载</a></td></tr>
 <tr><td>牙齿缺陷分割数据集labelme格式2495张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWmpxy">下载</a></td></tr>
 <tr><td>花生病害检测数据集VOC+YOLO格式7245张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWmpxq">下载</a></td></tr>
 <tr><td>莴笋莴苣叶子病害检测数据集VOC+YOLO格式6011张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWWmptx">下载</a></td></tr>
