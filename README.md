@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗肝病检测数据集VOC+YOLO格式3964张4类别</td>><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXmppv">下载</a></td></tr>
 <tr><td>水管滴水漏水检测数据集VOC+YOLO格式2708张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXmZ5x">下载</a></td></tr>
 <tr><td>举手检测左右手检测数据集VOC+YOLO格式5594张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXmZdt">下载</a></td></tr>
 <tr><td>加油站加油行为规范检测数据集VOC+YOLO格式1136张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXmJ1q">下载</a></td></tr>
