@@ -601,7 +601,7 @@
 <tr><td>[数据集][图像分类]茶叶叶子病害分类数据集304张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139457753">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]蘑菇分类数据集3122张215类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139457731">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]蘑菇分类数据集14689张50类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139457709">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]室内积水检测数据集VOC+YOLO格式761张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139440593">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]室内积水检测数据集VOC+YOLO格式761张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWYkp1y">下载</a></td></tr>
 <tr><td>[数据集][目标检测]csgo头部身体检测数据集VOC+YOLO格式1265张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139428611">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]远距离小目标仰拍无人机检测数据集VOC+YOLO格式10672张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139413557">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力工地场景下的人头检测数据集VOC+YOLO格式7035张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139406158">详情</a></td><td><a href="info.md">下载</a></td></tr>
