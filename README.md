@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>手语检测数据集VOC+YOLO格式9648张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaTlZZp">下载</a></td></tr>
 <tr><td>电力场景绝缘子缺陷分割数据集labelme格式1585张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWck5dw">下载</a></td></tr>
 <tr><td>智慧医疗肝病检测数据集VOC+YOLO格式3964张4类别</td>><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXmppv">下载</a></td></tr>
 <tr><td>水管滴水漏水检测数据集VOC+YOLO格式2708张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJWXmZ5x">下载</a></td></tr>
