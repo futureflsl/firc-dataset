@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>烟火烟雾明火分割数据集labelme格式4065张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaTmZpw">下载</a></td></tr>
 <tr><td>金属缺陷检测数据集VOC+YOLO格式3422张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaTmZZt">下载</a></td></tr>
 <tr><td>智慧工厂轴承齿轮螺栓螺母检测数据集VOC+YOLO格式2249张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaTmZZs">下载</a></td></tr>
 <tr><td>智慧医疗胸肺CT检测数据集VOC+YOLO格式4103张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaTlpxy">下载</a></td></tr>
