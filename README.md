@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>纽扣电池缺陷分割数据集labelme格式28张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUlpxq">下载</a></td></tr>
+<tr><td>纽扣电池缺陷检测数据集VOC+YOLO格式220张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUlpty">下载</a></td></tr>
 <tr><td>半导体晶圆缺陷检测数据集VOC+YOLO格式6174张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUk51q">下载</a></td></tr>
 <tr><td>瓶盖缺陷检测数据集VOC+YOLO格式8524张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUk51p">下载</a></td></tr>
 <tr><td>瓶盖缺陷检测数据集VOC+YOLO格式565张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUk5xw">下载</a></td></tr>
