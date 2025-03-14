@@ -761,7 +761,7 @@
 <tr><td>[数据集][目标检测]芒果叶病害数据集VOC+YOLO格式4000张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136485027">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]芒果叶病害分类数据集4000张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136476288">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]红外行人检测数据集VOC+YOLO格式5838张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136450321">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]无人机高空红外数据集VOC+YOLO格式2866张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136449259">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]无人机高空红外数据集VOC+YOLO格式2866张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136449259">详情</a></td><td><a href="https://mbd.pub/o/bread/aJaUm5tu">下载</a></td></tr>
 <tr><td>[数据集][目标检测]鸡蛋破蛋数据集VOC+YOLO格式792张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136404571">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]葡萄串检测数据集VOC+YOLO格式95张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136390826">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]鲜花分类数据集5735张102类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136390052">详情</a></td><td><a href="info.md">下载</a></td></tr>
