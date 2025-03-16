@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>水稻生长发育周期检测数据集VOC+YOLO格式846张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaVlZZx">下载</a></td></tr>
+<tr><td>智慧医疗蛀牙检测数据集VOC+YOLO格式2792张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaVk5xt">下载</a></td></tr>
+<tr><td>无人机高空红外数据集VOC+YOLO格式2866张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUm5tu">下载</a></td></tr>
 <tr><td>纽扣电池缺陷分割数据集labelme格式28张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUlpxq">下载</a></td></tr>
 <tr><td>纽扣电池缺陷检测数据集VOC+YOLO格式220张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUlpty">下载</a></td></tr>
 <tr><td>半导体晶圆缺陷检测数据集VOC+YOLO格式6174张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaUk51q">下载</a></td></tr>
