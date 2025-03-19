@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>持刀检测数据集VOC+YOLO格式12958张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaWkp9v">下载</a></td></tr>
+<tr><td>智慧城市道路防护栏破损缺陷检测数据集VOC+YOLO格式6939张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaWkp9t">下载</a></td></tr>
 <tr><td>钢筋计数检测数据集VOC+YOLO格式5610张1类别84万个框</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaVmJpv">下载</a></td></tr>
 <tr><td>淡水鱼检测数据集VOC+YOLO格式2967张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaVmJlx">下载</a></td></tr>
 <tr><td>超全动物检测数据集VOC+YOLO格式27652张80类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaVl5ps">下载</a></td></tr>
