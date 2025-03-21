@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>陶瓷碗破碗缺陷检测数据集VOC+YOLO格式266张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaXk5dr">下载</a></td></tr>
 <tr><td>5类URPC2021水下目标检测数据集VOC+YOLO格式7469张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaWm5du">下载</a></td></tr>
 <tr><td>持刀检测数据集VOC+YOLO格式12958张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaWkp9v">下载</a></td></tr>
 <tr><td>智慧城市道路防护栏破损缺陷检测数据集VOC+YOLO格式6939张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaWkp9t">下载</a></td></tr>
