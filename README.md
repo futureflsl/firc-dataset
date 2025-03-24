@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>孕妇怀孕周期检测数据集VOC+YOLO格式615张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZk5lp">下载</a></td></tr>
+<tr><td>残疾人员检测数据集VOC+YOLO格式3168张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZk5hx">下载</a></td></tr>
+<tr><td>医学图像分割数据集肺分割数据labelme格式6299张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZkp9u">下载</a></td></tr>
 <tr><td>中空圆柱形缺陷检测数据集VOC+YOLO格式4130张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaYmpZv">下载</a></td></tr>
 <tr><td>PLC缺陷检测数据集VOC+YOLO格式1346张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaYmpZu">下载</a></td></tr>
 <tr><td>医学图像白血病检测数据集VOC+YOLO格式835张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaYmZlx">下载</a></td></tr>
