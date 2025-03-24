@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>中空圆柱形缺陷检测数据集VOC+YOLO格式4130张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaYmpZv">下载</a></td></tr>
+<tr><td>PLC缺陷检测数据集VOC+YOLO格式1346张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaYmpZu">下载</a></td></tr>
 <tr><td>医学图像白血病检测数据集VOC+YOLO格式835张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaYmZlx">下载</a></td></tr>
 <tr><td>医学图像白血病分割数据集labelme格式245张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaYmZds">下载</a></td></tr>
 <tr><td>电力场景防震锤缺陷检测数据集VOC+YOLO格式2281张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaYlJtw">下载</a></td></tr>
