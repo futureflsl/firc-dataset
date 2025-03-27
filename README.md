@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>PET透明塑料瓶缺陷检测数据集VOC+YOLO格式366张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaak5ls">下载</a></td></tr>
 <tr><td>樱桃检测数据集VOC+YOLO格式153张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZmp1p">下载</a></td></tr>
 <tr><td>棉花品种分类检测数据集VOC+YOLO格式402张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZm5lr">下载</a></td></tr>
 <tr><td>树上油茶果检测数据集VOC+YOLO格式1677张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZm5Zy">下载</a></td></tr>
