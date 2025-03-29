@@ -1,6 +1,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通极端恶劣天气晚上雨天雪天雾天道路目标检测数据集VOC+YOLO格式9636张8类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaamJ1w">下载</a></td></tr>
+<tr><td>道路极端天气下目标检测数据集VOC+YOLO格式3191张7类别夜晚雨天2个场景</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaamJ1u">下载</a></td></tr>
+<tr><td>智慧交通极端恶劣天气晚上雨天雪天雾天道路目标检测数据集VOC+YOLO格式3868张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaamJ1t">下载</a></td></tr>
+<tr><td>恶劣天气极端天气道路车辆目标检测数据集VOC+YOLO格式1026张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaamJtr">下载</a></td></tr>
+<tr><td>树上石榴检测数据集VOC+YOLO格式3421张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaamJpq">下载</a></td></tr>
+<tr><td>树上石榴成熟度生长周期检测数据集VOC+YOLO格式5855张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaamJlr">下载</a></td></tr>
+<tr><td>石榴成熟度检测数据集VOC+YOLO格式960张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaamJhp">下载</a></td></tr>
 <tr><td>无人机树木识别及损伤检测数据集VOC+YOLO格式3171张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaal5dr">下载</a></td></tr>
 <tr><td>无人机海洋沙滩海滩垃圾检测数据集VOC+YOLO格式2982张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaalp9t">下载</a></td></tr>
 <tr><td>无人机拍摄烟雾火灾检测数据集VOC+YOLO格式3245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaalp9q">下载</a></td></tr>
