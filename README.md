@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>DIOR遥感目标检测数据集VOC+YOLO格式23463张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJablZht">下载</a></td></tr>
+<tr><td>道路缺陷裂缝坑洼检测数据集VOC+YOLO格式14569张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJablJ1u">下载</a></td></tr>
+<tr><td>exdark检测数据集VOC+YOLO格式7363张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJablJpr">下载</a></td></tr>
 <tr><td>螺栓螺母检测数据集VOC+YOLO格式408张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaam5ls">下载</a></td></tr>
 <tr><td>石榴病害检测数据集VOC+YOLO格式2356张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaam5dw">下载</a></td></tr>
 <tr><td>智慧交通极端恶劣天气晚上雨天雪天雾天道路目标检测数据集VOC+YOLO格式9636张8类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaamJ1w">下载</a></td></tr>
