@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>攀爬行为识别检测数据集VOC+YOLO格式1634张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeTk55p">下载</a></td></tr>
+<tr><td>攀梯行为攀爬行为识别检测数据集VOC+YOLO格式3580张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeTk51w">下载</a></td></tr>
 <tr><td>分心疲劳驾驶检测数据集VOC+YOLO格式22581张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJacmplp">下载</a></td></tr>
 <tr><td>牛脸分割数据集labelme格式1324张1类别有增强图片</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJack5lr">下载</a></td></tr>
 <tr><td>牛脸检测数据集VOC+YOLO格式2079张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJack5hv">下载</a></td></tr>
