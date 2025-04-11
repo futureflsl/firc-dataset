@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>虾新鲜度检测数据集VOC+YOLO格式6313张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeUm59v">下载</a></td></tr>
+<tr><td>鱼类新鲜度检测数据集VOC+YOLO格式3267张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeUm59u">下载</a></td></tr>
+<tr><td>鱼类新鲜度检测数据集VOC+YOLO格式2569张3类别鱼眼判断新鲜度</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeUm59t">下载</a></td></tr>
 <tr><td>蜱虫检测数据集VOC+YOLO格式2393张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeUlJtw">下载</a></td></tr>
 <tr><td>电力场景输电线路植被被侵占输电线树障检测数据集VOC+YOLO格式2981张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeTm59y">下载</a></td></tr>
 <tr><td>洪涝灾害中人车房建筑检测数据集VOC+YOLO格式9464张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeTm5tx">下载</a></td></tr>
