@@ -776,7 +776,7 @@
 <tr><td>桑叶虫害检测数据集VOC+YOLO格式1787张6类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138334993">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>对虾病害分类数据集889张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138333833">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>稻谷叶子虫害检测数据集VOC+YOLO格式1566张9类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138333614">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][图像分类]道路交通事故分类数据集1070张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/137102439">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][图像分类]道路交通事故分类数据集1070张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/137102439">详情</a></td><td><a href="https://mbd.pub/o/bread/aJeVlpdt">下载</a></td></tr>
 <tr><td>[数据集][目标检测]道路交通事故检测数据集VOC+YOLO格式11819张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/137099966">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]自然灾害分类数据集13306张8类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/137065425">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]公共场所危险物品检测数据集VOC+YOLO格式1431张6类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/137064923">详情</a></td><td><a href="info.md">下载</a></td></tr>
