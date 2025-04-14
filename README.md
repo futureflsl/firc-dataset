@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>监控视角跌倒检测数据集VOC+YOLO格式1963张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVm5Zw">下载</a></td></tr>
+<tr><td>高质量监控视角跌倒检测数据集9599张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVm5Zt">下载</a></td></tr>
 <tr><td>近距离拍摄沙滩海滩垃圾识别分割数据集labelme格式3432张10类别有增强图片</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJxp">下载</a></td></tr>
 <tr><td>水下塑料垃圾识别分割数据集labelme格式2703张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJty">下载</a></td></tr>
 <tr><td>垃圾识别分割数据集labelme格式2937张75类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJtv">下载</a></td></tr>
