@@ -5,7 +5,7 @@
 <tr><td>花卉检测数据集VOC+YOLO格式8402张106类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWlpdt">下载</a></td></tr>
 <tr><td>水果检测多类水果检测数据集13374张67类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWlZ1v">下载</a></td></tr>
 <tr><td>监控视角跌倒检测数据集VOC+YOLO格式1963张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVm5Zw">下载</a></td></tr>
-<tr><td>高质量监控视角跌倒检测数据集9599张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVm5Zt">下载</a></td></tr>
+<tr><td>高质量监控视角跌倒检测数据集VOC+YOLO格式9599张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVm5Zt">下载</a></td></tr>
 <tr><td>近距离拍摄沙滩海滩垃圾识别分割数据集labelme格式3432张10类别有增强图片</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJxp">下载</a></td></tr>
 <tr><td>水下塑料垃圾识别分割数据集labelme格式2703张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJty">下载</a></td></tr>
 <tr><td>垃圾识别分割数据集labelme格式2937张75类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJtv">下载</a></td></tr>
