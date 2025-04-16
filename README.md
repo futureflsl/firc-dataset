@@ -15,7 +15,6 @@
 <tr><td>人体安全帽反光衣检测数据集VOC+YOLO格式4064张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJhx">下载</a></td></tr>
 <tr><td>电动车头盔骑行者检测数据集VOC+YOLO格式2723张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJhu">下载</a></td></tr>
 <tr><td>高质量反光衣反光服数据集VOC+YOLO格式5208张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJhr">下载</a></td></tr>
-<tr><td>人体安全帽反光衣检测数据集VOC+YOLO格式8204张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVmJdv">下载</a></td></tr>
 <tr><td>塑料瓶识别检测数据集VOC+YOLO格式3024张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVlZlw">下载</a></td></tr>
 <tr><td>纸质包装盒纸箱包裹损坏缺陷检测数据集VOC+YOLO格式2397张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVk59u">下载</a></td></tr>
 <tr><td>机场跑道异物检测数据集VOC+YOLO格式33793张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeVk55v">下载</a></td></tr>
