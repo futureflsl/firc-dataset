@@ -57,7 +57,7 @@
 <tr><td>棉花品种分类检测数据集VOC+YOLO格式402张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZm5lr">下载</a></td></tr>
 <tr><td>树上油茶果检测数据集VOC+YOLO格式1677张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZm5Zy">下载</a></td></tr>
 <tr><td>X光图像手骨检测数据集VOC+YOLO格式3839张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZmp1u">下载</a></td></tr>
-<tr><td>SIMD数据集遥感第五目标检测数据集VOC+YOLO格式5000张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZmpxt">下载</a></td></tr>
+<tr><td>SIMD数据集遥感地物目标检测数据集VOC+YOLO格式5000张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZmpxt">下载</a></td></tr>
 <tr><td>3D打印缺陷三维打印缺陷检测数据集VOC+YOLO格式5864张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZmZ9v">下载</a></td></tr>
 <tr><td>孕妇怀孕周期检测数据集VOC+YOLO格式615张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZk5lp">下载</a></td></tr>
 <tr><td>残疾人员检测数据集VOC+YOLO格式3168张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJaZk5hx">下载</a></td></tr>
