@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>虾病害检测数据集VOC+YOLO格式923张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXlJxw">下载</a></td></tr>
+<tr><td>捕鱼船检测数据集VOC+YOLO格式2105张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXk5ts">下载</a></td></tr>
 <tr><td>生菜缺乏症缺钙镁氮磷钾检测数据集VOC+YOLO格式2978张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWm5ls">下载</a></td></tr>
 <tr><td>花卉识别分割数据集labelme格式7111张102类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWlppq">下载</a></td></tr>
 <tr><td>花卉检测数据集VOC+YOLO格式8402张106类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWlpdt">下载</a></td></tr>
