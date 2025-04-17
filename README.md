@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>生菜缺乏症缺钙镁氮磷钾检测数据集VOC+YOLO格式2978张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWm5ls">下载</a></td></tr>
 <tr><td>花卉识别分割数据集labelme格式7111张102类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWlppq">下载</a></td></tr>
 <tr><td>花卉检测数据集VOC+YOLO格式8402张106类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWlpdt">下载</a></td></tr>
 <tr><td>水果检测多类水果检测数据集13374张67类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeWlZ1v">下载</a></td></tr>
