@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>陶瓷绝缘子缺陷检测数据集VOC+YOLO格式2908张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeYkplq">下载</a></td></tr>
+<tr><td>绝缘子缺陷检测数据集VOC+YOLO格式795张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeYkpht">下载</a></td></tr>
 <tr><td>瓷砖缺陷检测数据集VOC+YOLO格式888张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXmp5u">下载</a></td></tr>
 <tr><td>瓷砖缺陷检测数据集VOC+YOLO格式2871张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXmp5s">下载</a></td></tr>
 <tr><td>齿轮缺陷检测数据集VOC+YOLO格式7742张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXmpxx">下载</a></td></tr>
