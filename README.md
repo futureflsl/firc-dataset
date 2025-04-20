@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>瓷砖缺陷检测数据集VOC+YOLO格式888张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXmp5u">下载</a></td></tr>
+<tr><td>瓷砖缺陷检测数据集VOC+YOLO格式2871张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXmp5s">下载</a></td></tr>
+<tr><td>齿轮缺陷检测数据集VOC+YOLO格式7742张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXmpxx">下载</a></td></tr>
 <tr><td>西红柿番茄生长周期检测数据集VOC+YOLO格式4224张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXmJlv">下载</a></td></tr>
 <tr><td>西红柿番茄检测数据集VOC+YOLO格式2320张1类别可用于计数</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXmJls">下载</a></td></tr>
 <tr><td>楼梯上下检测数据集VOC+YOLO格式5462张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeXl5hu">下载</a></td></tr>
