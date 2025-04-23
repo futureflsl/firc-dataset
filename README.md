@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>公路隧道积水检测数据集VOC+YOLO格式207张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJiclJ5u">下载</a></td></tr>
 <tr><td>烟草叶子烟叶病害检测数据集VOC+YOLO格式1555张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJick5dt">下载</a></td></tr>
 <tr><td>陶瓷绝缘子缺陷检测数据集VOC+YOLO格式2908张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeYkplq">下载</a></td></tr>
 <tr><td>绝缘子缺陷检测数据集VOC+YOLO格式795张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJeYkpht">下载</a></td></tr>
