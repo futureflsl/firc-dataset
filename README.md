@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>中草药检测数据集VOC+YOLO格式9673张50类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicmZds">下载</a></td></tr>
 <tr><td>树上落地柑橘橘子检测数据集VOC+YOLO格式579张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicl5tu">下载</a></td></tr>
 <tr><td>手势识别检测数据集VOC+YOLO格式2399张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJiclpZt">下载</a></td></tr>
 <tr><td>公路隧道积水检测数据集VOC+YOLO格式207张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJiclJ5u">下载</a></td></tr>
