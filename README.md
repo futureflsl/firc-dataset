@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>黄瓜叶子病害分割数据集labelme格式1216张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicm5lp">下载</a></td></tr>
+<tr><td>黄瓜及其叶子病害检测数据集VOC+YOLO格式3064张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicm5hr">下载</a></td></tr>
+<tr><td>黄瓜病害叶子病害虫害检测数据集VOC+YOLO格式2532张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicm5du">下载</a></td></tr>
+<tr><td>黄瓜叶子病害检测数据集VOC+YOLO格式471张5类别近距离拍摄</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicm5ds">下载</a></td></tr>
+<tr><td>蚊子检测数据集VOC+YOLO格式6653张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicm5Zy">下载</a></td></tr>
 <tr><td>中草药检测数据集VOC+YOLO格式9673张50类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicmZds">下载</a></td></tr>
 <tr><td>树上落地柑橘橘子检测数据集VOC+YOLO格式579张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJicl5tu">下载</a></td></tr>
 <tr><td>手势识别检测数据集VOC+YOLO格式2399张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJiclpZt">下载</a></td></tr>
