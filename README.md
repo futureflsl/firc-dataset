@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>水表盘数字显示区域分割数据集labelme格式538张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZWTlZZy">下载</a></td></tr>
+<tr><td>圆形数字表盘指针分割数据集labelme格式1097张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZWTlZZr">下载</a></td></tr>
+<tr><td>水表部件分割数据集labelme格式1277张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZWTlZZq">下载</a></td></tr>
 <tr><td>犬鼻子检测数据集VOC+YOLO格式6808张1类别近距离拍摄</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJ2Tk5Zv">下载</a></td></tr>
 <tr><td>犬面部检测数据集VOC+YOLO格式987张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJ2Tk5Zq">下载</a></td></tr>
 <tr><td>犬眼部疾病检测数据集VOC+YOLO格式6364张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aJ2Tkp9t">下载</a></td></tr>
