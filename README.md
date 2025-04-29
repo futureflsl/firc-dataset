@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机航拍羊只检测数据集VOC+YOLO格式6065张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZeWk5Zx">下载</a></td></tr>
+<tr><td>无人机航拍牛只检测数据集VOC+YOLO格式906张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZeWkp9q">下载</a></td></tr>
+<tr><td>无人机航拍牛羊检测数据集VOC+YOLO格式1021张3类别小目标</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZeWkp5u">下载</a></td></tr>
 <tr><td>打火机检测数据集VOC+YOLO格式925张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZWUlJlt">下载</a></td></tr>
 <tr><td>水表盘数字显示区域分割数据集labelme格式538张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZWTlZZy">下载</a></td></tr>
 <tr><td>圆形数字表盘指针分割数据集labelme格式1097张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZWTlZZr">下载</a></td></tr>
