@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>水污染检测数据集VOC+YOLO格式2487张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZeWk5ls">下载</a></td></tr>
+<tr><td>秸秆焚烧烟火烟雾检测数据集VOC+YOLO格式5481张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-aZeWk5ht">下载</a></td></tr>
+<tr><td>花卉病害检测数据集VOC+YOLO格式2163张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-aZeWk5dy">下载</a></td></tr>
 <tr><td>无人机航拍羊只检测数据集VOC+YOLO格式6065张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZeWk5Zx">下载</a></td></tr>
 <tr><td>无人机航拍牛只检测数据集VOC+YOLO格式906张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZeWkp9q">下载</a></td></tr>
 <tr><td>无人机航拍牛羊检测数据集VOC+YOLO格式1021张3类别小目标</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZeWkp5u">下载</a></td></tr>
