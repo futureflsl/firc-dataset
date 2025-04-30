@@ -1,6 +1,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>光伏太阳能板损坏灰尘缺陷检测数据集VOC+YOLO格式4903张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZmUlp5r">下载</a></td></tr>
+<tr><td>动物检测数据集VOC+YOLO格式13025张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZmUlp1r">下载</a></td></tr>
+<tr><td>篮球足球排球三种球类检测数据集VOC+YOLO格式12423张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZmUlpxv">下载</a></td></tr>
+<tr><td>罗非鱼病害检测数据集VOC+YOLO格式1243张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZmUlptu">下载</a></td></tr>
+<tr><td>花椰菜病害检测数据集VOC+YOLO格式594张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZmUlppv">下载</a></td></tr>
+<tr><td>花椰菜病害分类数据集1504张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZmUlpps">下载</a></td></tr>
 <tr><td>水污染检测数据集VOC+YOLO格式2487张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZeWk5ls">下载</a></td></tr>
 <tr><td>秸秆焚烧烟火烟雾检测数据集VOC+YOLO格式5481张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-aZeWk5ht">下载</a></td></tr>
 <tr><td>花卉病害检测数据集VOC+YOLO格式2163张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-aZeWk5dy">下载</a></td></tr>
