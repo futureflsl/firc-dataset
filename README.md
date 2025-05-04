@@ -1,6 +1,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>狗狗未带护具犬未带护具检测数据集VOC+YOLO格式2194张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6blJpv">下载</a></td></tr>
+<tr><td>皮肤癌检测数据集VOC+YOLO格式3296张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-aZ6bkpts">下载</a></td></tr>
 <tr><td>野生动物检测数据集VOC+YOLO格式7119张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bkpdw">下载</a></td></tr>
 <tr><td>陶瓷陶器缺陷检测VOC+YOLO格式938张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bkpds">下载</a></td></tr>
 <tr><td>白蚁检测数据集VOC+YOLO格式949张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6Wmp5y">下载</a></td></tr>
