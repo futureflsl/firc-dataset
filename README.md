@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>偷钱包行为检测数据集VOC+YOLO格式922张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bmZxr">下载</a></td></tr>
+<tr><td>睡岗检测数据集VOC+YOLO格式1198张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bmZZp">下载</a></td></tr>
+<tr><td>灭火器检测数据集VOC+YOLO格式3255张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bl55x">下载</a></td></tr>
+<tr><td>打电话玩手机检测数据集VOC+YOLO格式8061张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6blptx">下载</a></td></tr>
+<tr><td>人员睡岗玩手机检测数据集VOC+YOLO格式3853张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6blZhs">下载</a></td></tr>
 <tr><td>狗狗未带护具犬未带护具检测数据集VOC+YOLO格式2194张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6blJpv">下载</a></td></tr>
 <tr><td>皮肤癌检测数据集VOC+YOLO格式3296张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-aZ6bkpts">下载</a></td></tr>
 <tr><td>野生动物检测数据集VOC+YOLO格式7119张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bkpdw">下载</a></td></tr>
