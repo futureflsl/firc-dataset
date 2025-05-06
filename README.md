@@ -1,6 +1,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>室内烟雾明火检测数据集VOC+YOLO格式2469张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bm59p">下载</a></td></tr>
+<tr><td>明厨亮灶-厨房场景下烟雾明火检测数据集VOC+YOLO格式1175张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bm5xt">下载</a></td></tr>
+<tr><td>行人闯红灯检测数据集VOC+YOLO格式9843张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bmp9u">下载</a></td></tr>
 <tr><td>偷钱包行为检测数据集VOC+YOLO格式922张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bmZxr">下载</a></td></tr>
 <tr><td>睡岗检测数据集VOC+YOLO格式1198张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bmZZp">下载</a></td></tr>
 <tr><td>灭火器检测数据集VOC+YOLO格式3255张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bl55x">下载</a></td></tr>
