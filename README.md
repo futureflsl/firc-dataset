@@ -1,6 +1,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>垃圾食物纸张塑料有害垃圾检测数据集VOC+YOLO格式14957张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6clZxp">下载</a></td></tr>
+<tr><td>垃圾有害可回收有机垃圾检测数据集VOC+YOLO格式12088张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6clZpy">下载</a></td></tr>
+<tr><td>垃圾医疗有害可回收垃圾检测数据集VOC+YOLO格式3996张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6clZlr">下载</a></td></tr>
+<tr><td>垃圾可回收可降解有害垃圾检测数据集VOC+YOLO格式6019张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6clZpu">下载</a></td></tr>
+<tr><td>垃圾厨余垃圾可回收垃圾有害垃圾检测数据集VOC+YOLO格式2739张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6clZhs">下载</a></td></tr>
 <tr><td>室内烟雾明火检测数据集VOC+YOLO格式2469张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bm59p">下载</a></td></tr>
 <tr><td>明厨亮灶-厨房场景下烟雾明火检测数据集VOC+YOLO格式1175张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bm5xt">下载</a></td></tr>
 <tr><td>行人闯红灯检测数据集VOC+YOLO格式9843张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6bmp9u">下载</a></td></tr>
