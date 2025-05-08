@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>牙齿检测数据集VOC+YOLO格式2001张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6cmJ1r">下载</a></td></tr>
 <tr><td>垃圾食物纸张塑料有害垃圾检测数据集VOC+YOLO格式14957张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6clZxp">下载</a></td></tr>
 <tr><td>垃圾有害可回收有机垃圾检测数据集VOC+YOLO格式12088张4类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6clZpy">下载</a></td></tr>
 <tr><td>垃圾医疗有害可回收垃圾检测数据集VOC+YOLO格式3996张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/aZ6clZlr">下载</a></td></tr>
