@@ -1,6 +1,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通-道路车道线检测数据集VOC+YOLO格式1783张44类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkp1paQ==">下载</a></td></tr>
 <tr><td>玉米叶子病害检测数据集VOC+YOLO格式5997张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkpxpZQ==">下载</a></td></tr>
 <tr><td>排水管道缺陷分割数据集labelme格式1914张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkphxaw==">下载</a></td></tr>
 <tr><td>无人机视角军事目标检测数据集VOC+YOLO格式14126张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkphxZw==">下载</a></td></tr>
