@@ -2,6 +2,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机巡检电力设施缺陷检测数据集VOC+YOLO格式8487张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZg==">下载</a></td></tr>
+<tr><td>电力设备检测数据集VOC+YOLO格式2274张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZA==">下载</a></td></tr>
+<tr><td>智慧电网-插座隐患缺陷检测数据集VOC+YOLO格式6468张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5Zwaw==">下载</a></td></tr>
+<tr><td>西瓜成熟度检测数据集VOC+YOLO格式29810张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZuZw==">下载</a></td></tr>
+<tr><td>棉花杂质异物检测数据集VOC+YOLO格式266张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkp5taw==">下载</a></td></tr>
+<tr><td>棉花杂草检测数据集VOC+YOLO格式4279张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWTkp9pbQ==">下载</a></td></tr>
+<tr><td>马铃薯土豆幼苗与杂草检测数据集VOC+YOLO格式3051张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWTkp5ybA==">下载</a></td></tr>
+<tr><td>茄子幼苗与杂草检测数据集VOC+YOLO格式2194张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWTkp5xZA==">下载</a></td></tr>
+<tr><td>辣椒青椒幼苗和杂草检测数据集VOC+YOLO格式706张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWTkp5wbA==">下载</a></td></tr>
 <tr><td>绝缘子缺陷检测数据集VOC+YOLO格式1566张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkp1wbA==">下载</a></td></tr>
 <tr><td>智慧交通-道路车道线检测数据集VOC+YOLO格式1783张44类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkp1paQ==">下载</a></td></tr>
 <tr><td>玉米叶子病害检测数据集VOC+YOLO格式5997张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTkpxpZQ==">下载</a></td></tr>
