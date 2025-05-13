@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>油桃缺陷检测数据集VOC+YOLO格式559张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5Zyag==">下载</a></td></tr>
 <tr><td>无人机巡检电力设施缺陷检测数据集VOC+YOLO格式8487张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZg==">下载</a></td></tr>
 <tr><td>电力设备检测数据集VOC+YOLO格式2274张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZA==">下载</a></td></tr>
 <tr><td>智慧电网-插座隐患缺陷检测数据集VOC+YOLO格式6468张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5Zwaw==">下载</a></td></tr>
