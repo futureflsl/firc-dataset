@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>人脸表情识别检测数据集VOC+YOLO格式9400张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk51vZw==">下载</a></td></tr>
 <tr><td>建筑物渗水漏水痕迹分割数据集labelme格式1357张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5hpag==">下载</a></td></tr>
 <tr><td>油桃缺陷检测数据集VOC+YOLO格式559张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5Zyag==">下载</a></td></tr>
 <tr><td>无人机巡检电力设施缺陷检测数据集VOC+YOLO格式8487张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk5ZxZg==">下载</a></td></tr>
