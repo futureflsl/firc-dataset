@@ -2,6 +2,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>斑马线人行横道分割数据集labelme格式1300张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhqaA==">下载</a></td></tr>
+<tr><td>遥感图像斑马线人行横道检测数据集VOC+YOLO格式5136张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhqZw==">下载</a></td></tr>
+<tr><td>无人机视角搜索和救援失踪被困人员检测数据集VOC+YOLO格式1976张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJdtZA==">下载</a></td></tr>
 <tr><td>咖啡叶子病害检测数据集VOC+YOLO格式1468张4类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJZuZg==">下载</a></td></tr>
 <tr><td>无人机视角垃圾检测数据集VOC+YOLO格式771张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJZsZw==">下载</a></td></tr>
 <tr><td>垃圾检测数据集VOC+YOLO格式6459张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJZqbA==">下载</a></td></tr>
