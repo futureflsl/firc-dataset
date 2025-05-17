@@ -2,6 +2,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>咖啡叶子病害检测数据集VOC+YOLO格式1468张4类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJZuZg==">下载</a></td></tr>
+<tr><td>无人机视角垃圾检测数据集VOC+YOLO格式771张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJZsZw==">下载</a></td></tr>
+<tr><td>垃圾检测数据集VOC+YOLO格式6459张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJZqbA==">下载</a></td></tr>
 <tr><td>遥感图像露天矿区检测数据集VOC+YOLO格式1542张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk55tZg==">下载</a></td></tr>
 <tr><td>遥感图像非法采矿矿区识别分割数据集labelme格式1818张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk55sbQ==">下载</a></td></tr>
 <tr><td>人脸表情识别检测数据集VOC+YOLO格式9400张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTk51vZw==">下载</a></td></tr>
