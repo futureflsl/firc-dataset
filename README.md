@@ -2,6 +2,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>小麦病害分割数据集labelme格式1882张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhsaA==">下载</a></td></tr>
+<tr><td>玫瑰叶子病害检测数据集VOC+YOLO格式3699张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhsZg==">下载</a></td></tr>
+<tr><td>小麦病害检测数据集VOC+YOLO格式1882张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhsZQ==">下载</a></td></tr>
+<tr><td>水稻虫害检测数据集VOC+YOLO格式5212张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhsZA==">下载</a></td></tr>
 <tr><td>斑马线人行横道分割数据集labelme格式1300张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhqaA==">下载</a></td></tr>
 <tr><td>遥感图像斑马线人行横道检测数据集VOC+YOLO格式5136张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhqZw==">下载</a></td></tr>
 <tr><td>无人机视角搜索和救援失踪被困人员检测数据集VOC+YOLO格式1976张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJdtZA==">下载</a></td></tr>
