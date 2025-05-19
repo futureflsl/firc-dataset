@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>救生圈检测数据集VOC+YOLO格式909张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJtqZQ==">下载</a></td></tr>
+<tr><td>救生衣穿戴检测数据集VOC+YOLO格式2171张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJtpZw==">下载</a></td></tr>
 <tr><td>智慧交通-铁路输电线路异物检测数据集VOC+YOLO格式14615张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJptZg==">下载</a></td></tr>
 <tr><td>输电线鸟巢检测数据集VOC+YOLO格式1000张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJpqbA==">下载</a></td></tr>
 <tr><td>荔枝成熟度分割数据集labelme格式2263张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJhtaw==">下载</a></td></tr>
