@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>军事目标检测数据集VOC+YOLO格式9765张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJtuaw==">下载</a></td></tr>
 <tr><td>航拍视角军事目标检测数据集VOC+YOLO格式3065张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-aJWXm55x">下载</a></td></tr>
 <tr><td>救生圈检测数据集VOC+YOLO格式909张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJtqZQ==">下载</a></td></tr>
 <tr><td>救生衣穿戴检测数据集VOC+YOLO格式2171张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJtpZw==">下载</a></td></tr>
