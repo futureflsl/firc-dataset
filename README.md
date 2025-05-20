@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机拍摄红外图像光伏板缺陷检测数据集VOC+YOLO格式2723张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJ5uaw==">下载</a></td></tr>
+<tr><td>建筑墙壁红外热成像裂缝潮湿检测数据集VOC+YOLO格式306张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJ5sZg==">下载</a></td></tr>
 <tr><td>6类水果好坏检测数据集VOC+YOLO格式5412张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJxyaQ==">下载</a></td></tr>
 <tr><td>6类水果好坏识别分割数据集labelme格式5558张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJxyZw==">下载</a></td></tr>
 <tr><td>火车车轮缺陷检测数据集VOC+YOLO格式829张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJxxbA==">下载</a></td></tr>
