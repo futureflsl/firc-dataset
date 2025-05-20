@@ -2,6 +2,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>6类水果好坏检测数据集VOC+YOLO格式5412张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJxyaQ==">下载</a></td></tr>
+<tr><td>6类水果好坏识别分割数据集labelme格式5558张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJxyZw==">下载</a></td></tr>
+<tr><td>火车车轮缺陷检测数据集VOC+YOLO格式829张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJxxbA==">下载</a></td></tr>
 <tr><td>军事目标检测数据集VOC+YOLO格式9765张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJtuaw==">下载</a></td></tr>
 <tr><td>航拍视角军事目标检测数据集VOC+YOLO格式3065张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-aJWXm55x">下载</a></td></tr>
 <tr><td>救生圈检测数据集VOC+YOLO格式909张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTlJtqZQ==">下载</a></td></tr>
