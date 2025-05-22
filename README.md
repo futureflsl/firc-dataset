@@ -2,6 +2,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>光伏热红外缺陷检测数据集VOC+YOLO格式11529张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZxbQ==">下载</a></td></tr>
+<tr><td>落石滑坡倒树自然灾害检测数据集VOC+YOLO格式958张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZwaw==">下载</a></td></tr>
+<tr><td>无人机海洋或河道水上监测检测数据集VOC+YOLO格式2903张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZvbQ==">下载</a></td></tr>
+<tr><td>无人机热红外视角人车检测数据集VOC+YOLO格式2866张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZubA==">下载</a></td></tr>
+<tr><td>无人机海洋或河道水上监测检测数据集VOC+YOLO格式2903张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZvbA==">下载</a></td></tr>
 <tr><td>西红柿番茄成熟度腐烂检测数据集VOC+YOLO格式2283张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZpag==">下载</a></td></tr>
 <tr><td>辣椒成熟腐烂检测数据集VOC+YOLO格式2644张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZpZw==">下载</a></td></tr>
 <tr><td>遥感建筑物屋顶识别分割数据集labelme格式14327张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZpZQ==">下载</a></td></tr>
