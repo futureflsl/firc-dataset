@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>工业管道焊缝缺陷检测数据集VOC+YOLO格式4159张5类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmZZuaA==">下载</a></td></tr>
+<tr><td>钢板钢材表面缺陷检测数据集VOC+YOLO格式2291张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmZZuaw==">下载</a></td></tr>
 <tr><td>军事目标系列之迷彩作战人员检测数据集VOC+YOLO格式2755张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJhqaQ==">下载</a></td></tr>
 <tr><td>光伏热红外缺陷检测数据集VOC+YOLO格式11529张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZxbQ==">下载</a></td></tr>
 <tr><td>落石滑坡倒树自然灾害检测数据集VOC+YOLO格式958张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmJZwaw==">下载</a></td></tr>
