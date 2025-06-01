@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>落石石头检测数据集VOC+YOLO格式1185张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUkpltaQ==">下载</a></td></tr>
 <tr><td>无人机视角海上漂浮物检测与人员救援检测数据集VOC+YOLO格式2903张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTm59vZg==">下载</a></td></tr>
 <tr><td>智慧城市-无人机视角城市道路旁广告牌检测数据集VOC+YOLO格式1286张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmp9vaw==">下载</a></td></tr>
 <tr><td>工业管道焊缝缺陷检测数据集VOC+YOLO格式4159张5类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWTmZZuaA==">下载</a></td></tr>
