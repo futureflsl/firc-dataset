@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>公路隧道火灾检测数据集VOC+YOLO格式1183张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUk55pbA==">下载</a></td></tr>
+<tr><td>公路隧道交通事故检测数据集VOC+YOLO格式1896张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUk51yaA==">下载</a></td></tr>
 <tr><td>条形码检测数据集VOC+YOLO格式15442张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUk5dtaw==">下载</a></td></tr>
 <tr><td>焊缝缺陷焊接缺陷识别分割数据集labelme格式5543张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUk5ZpZA==">下载</a></td></tr>
 <tr><td>焊缝缺陷焊接缺陷检测数据集VOC+YOLO格式5186张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUkp9ybA==">下载</a></td></tr>
