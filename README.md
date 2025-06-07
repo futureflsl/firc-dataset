@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>半导体晶圆图谱缺陷检测数据集VOC+YOLO格式11720张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlJ5xaA==">下载</a></td></tr>
+<tr><td>钢管连接处腐蚀检测数据集VOC+YOLO格式1194张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlJ5xZw==">下载</a></td></tr>
 <tr><td>岸边垂钓禁止钓鱼检测数据集VOC+YOLO格式1813张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUk55wbQ==">下载</a></td></tr>
 <tr><td>公路隧道火灾检测数据集VOC+YOLO格式1183张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUk55pbA==">下载</a></td></tr>
 <tr><td>公路隧道交通事故检测数据集VOC+YOLO格式1896张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUk51yaA==">下载</a></td></tr>
