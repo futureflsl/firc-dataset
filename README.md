@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>飞鸟小目标检测数据集VOC+YOLO格式9881张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlZdqZQ==">下载</a></td></tr>
 <tr><td>行李箱检测数据集VOC+YOLO格式2083张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlZZuZQ==">下载</a></td></tr>
 <tr><td>半导体晶圆图谱缺陷检测数据集VOC+YOLO格式11720张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlJ5xaA==">下载</a></td></tr>
 <tr><td>钢管连接处腐蚀检测数据集VOC+YOLO格式1194张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlJ5xZw==">下载</a></td></tr>
