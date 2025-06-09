@@ -778,6 +778,7 @@
 <tr><td>[数据集][目标检测]金属架螺栓螺丝有无检测数据集VOC+YOLO格式857张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/140032187">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]游泳者溺水检测数据集VOC+YOLO格式4599张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/140031831">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]游泳者溺水检测数据集VOC+YOLO格式8275张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/140031636">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][视频文件]游泳者溺水视频文件mp4格式30个</td><td>无</td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电缆钢丝绳线缆缺陷检测数据集VOC+YOLO格式1800张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/140021868">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景下电柜箱门把手检测数据集VOC+YOLO格式1167张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/140017250">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]鸡蛋缺陷检测数据集VOC+YOLO格式2918张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139952573">详情</a></td><td><a href="info.md">下载</a></td></tr>
