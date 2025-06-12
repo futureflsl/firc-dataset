@@ -1026,7 +1026,7 @@
 <tr><td>[数据集][目标检测]道路坑洼目标检测数据集VOC格式1510张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132252283">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]钢材表面缺陷目标检测数据集VOC格式2279张10类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132252250">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]条码目标检测数据集VOC格式15442张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132164930">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]二维码目标检测数据集VOC格式2589张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132164907">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>二维码检测数据集VOC+YOLO格式2483张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132164907">详情</a></td><td><a href="https://mbd.pub/o/bread/YZWUl5ZxZw==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]遛狗不牵绳数据集VOC格式-1980张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132086523">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]城市道路井盖破损丢失数据集VOC+YOLO格式1377张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132001075">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]危化品运输车数据集油罐车危化品运输车辆目标检测数据集2007张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/131990607">详情</a></td><td><a href="info.md">下载</a></td></tr>
