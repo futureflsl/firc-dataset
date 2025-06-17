@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>食物种类检测数据集VOC+YOLO格式5576张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJpwbA==">下载</a></td></tr>
+<tr><td>智慧城市-城市道路塌方检测数据集VOC+YOLO格式768张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJpwaA==">下载</a></td></tr>
 <tr><td>红外火检测数据集VOC+YOLO格式4115张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlp9saQ==">下载</a></td></tr>
 <tr><td>工业管道缺陷检测数据集VOC+YOLO格式1528张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlp9raA==">下载</a></td></tr>
 <tr><td>铝片缺陷检测数据集VOC+YOLO格式1397张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUlp9paQ==">下载</a></td></tr>
