@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角塔吊高空作业下方的人员检测数据集VOC+YOLO格式1049张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJ1vaQ==">下载</a></td></tr>
 <tr><td>人字梯人员规范监护检测数据集VOC+YOLO格式315张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJ1vZw==">下载</a></td></tr>
 <tr><td>智慧农业-无人机收割机拖拉机旋耕机常用农机检测数据集VOC+YOLO格式7376张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJxyZg==">下载</a></td></tr>
 <tr><td>道路坑洼识别分割数据集labelme格式1690张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJttZg==">下载</a></td></tr>
