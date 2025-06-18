@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧农业-无人机收割机拖拉机旋耕机常用农机检测数据集VOC+YOLO格式7376张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJxyZg==">下载</a></td></tr>
 <tr><td>道路坑洼识别分割数据集labelme格式1690张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJttZg==">下载</a></td></tr>
 <tr><td>智慧工地-建筑工地安全行为检测数据集VOC+YOLO格式13364张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJtsZA==">下载</a></td></tr>
 <tr><td>食物种类检测数据集VOC+YOLO格式5576张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJpwbA==">下载</a></td></tr>
