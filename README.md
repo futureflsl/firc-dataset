@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>车站行李车辆检测数据集VOC+YOLO格式2270张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZtxZg==">下载</a></td></tr>
 <tr><td>煤气罐检测数据集VOC+YOLO格式1832张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZZubA==">下载</a></td></tr>
 <tr><td>智慧城市-城市占道经营户外摆摊目标数据集VOC+YOLO格式5226张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJ5tZQ==">下载</a></td></tr>
 <tr><td>无人机视角塔吊高空作业下方的人员检测数据集VOC+YOLO格式1049张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJ1vaQ==">下载</a></td></tr>
