@@ -2,6 +2,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景塔材锈蚀识别分割数据集labelme格式1764张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZ1vbQ==">下载</a></td></tr>
+<tr><td>钢索钢缆线绞丝绳缺陷检测数据集VOC+YOLO格式1980张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZ1uaw==">下载</a></td></tr>
+<tr><td>电力场景塔材锈蚀检测数据集VOC+YOLO格式1764张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZ1uaQ==">下载</a></td></tr>
+<tr><td>电力场景导线散股与输电线异物检测数据集VOC+YOLO格式1393张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZ1uZw==">下载</a></td></tr>
+<tr><td>荔枝叶子病害检测数据集VOC+YOLO格式3767张10类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZ1taw==">下载</a></td></tr>
 <tr><td>车站行李车辆检测数据集VOC+YOLO格式2270张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZtxZg==">下载</a></td></tr>
 <tr><td>煤气罐检测数据集VOC+YOLO格式1832张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZZubA==">下载</a></td></tr>
 <tr><td>智慧城市-城市占道经营户外摆摊目标数据集VOC+YOLO格式5226张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmJ5tZQ==">下载</a></td></tr>
