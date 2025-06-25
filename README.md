@@ -889,7 +889,7 @@
 <tr><td>[数据集][目标检测]红外海洋船只检测数据集VOC+YOLO格式8402张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139248900">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>红外成像人员检测数据集VOC+YOLO格式5838张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139247240">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]红外人狗检测数据集VOC+YOLO格式185张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139246576">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]打架检测数据集VOC格式3146张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139245022">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]打架检测数据集VOC格式3146张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/148893766">详情</a></td><td><a href="https://mbd.pub/o/bread/mbd-YZWUmp5raA==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]道路井盖下水道井盖开关闭和检测数据集VOC+YOLO格式407张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139239873">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]伤口检测数据集VOC+YOLO格式2760张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139236297">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]抽烟吸烟检测数据集VOC+YOLO格式1449张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/139185170">详情</a></td><td><a href="info.md">下载</a></td></tr>
