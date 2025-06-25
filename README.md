@@ -2,6 +2,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角不同颜色绵羊检测数据集VOC+YOLO格式1053张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp5paw==">下载</a></td></tr>
+<tr><td>草莓叶子病害检测数据集VOC+YOLO格式6110张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp1yag==">下载</a></td></tr>
+<tr><td>草莓叶子病害识别分割数据集labelme格式6110张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp5pag==">下载</a></td></tr>
+<tr><td>绵羊山羊脸部检测数据集VOC+YOLO格式2412张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp1yZw==">下载</a></td></tr>
 <tr><td>卫星图像遥感图像下船只检测数据集VOC+YOLO格式2368张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmplxZQ==">下载</a></td></tr>
 <tr><td>无人机视角罂粟检测数据集VOC+YOLO格式2801张共3个部分</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmpZpaQ==">下载</a></td></tr>
 <tr><td>军事目标系列之军用车辆检测数据集VOC+YOLO格式5315张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmZ9uaQ==">下载</a></td></tr>
