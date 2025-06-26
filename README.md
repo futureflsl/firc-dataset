@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>羊群行为检测数据集VOC+YOLO格式6415张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp9wbQ==">下载</a></td></tr>
 <tr><td>无人机视角不同颜色绵羊检测数据集VOC+YOLO格式1053张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp5paw==">下载</a></td></tr>
 <tr><td>草莓叶子病害检测数据集VOC+YOLO格式6110张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp1yag==">下载</a></td></tr>
 <tr><td>草莓叶子病害识别分割数据集labelme格式6110张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUmp5pag==">下载</a></td></tr>
