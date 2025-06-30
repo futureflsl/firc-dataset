@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧畜牧-小鸡鸡苗行为状态检测数据集VOC+YOLO格式1698张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm55taw==">下载</a></td></tr>
+<tr><td>智慧畜牧-猪场猪只行为状态检测数据集VOC+YOLO格式3790张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm55sbQ==">下载</a></td></tr>
 <tr><td>无人机视角洪水灾害中人车房子检测数据集VOC+YOLO格式1124张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm5ppZw==">下载</a></td></tr>
 <tr><td>无人机视角果树树木识别分割数据集labelme格式291张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm5lwbQ==">下载</a></td></tr>
 <tr><td>无人机视角河道两边地物检测数据集VOC+YOLO格式508张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm5lwZg==">下载</a></td></tr>
