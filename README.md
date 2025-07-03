@@ -1034,7 +1034,7 @@
 <tr><td>[数据集][目标检测]小型无人机目标检测数据集VOC+YOLO格式3338张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/134982123">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>QQImages头像数据集介绍</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/134913872">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]高质量夜间车辆目标检测数据集VOC+YOLO格式6223张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/134886881">详情</a></td><td><a href="https://mbd.pub/o/bread/mbd-aJaalJdr">下载</a></td></tr>
-<tr><td>[数据集][目标检测]拉横幅识别横幅检测数据集VOC+yolo格式1962张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/134866416">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]拉横幅识别横幅检测数据集VOC+yolo格式1962张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/149092590">详情</a></td><td><a href="https://mbd.pub/o/bread/mbd-YZWVkp5saA==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]动物目标检测数据集VOC格式+yolo格式超80种类动物</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/134488689">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]斑马数据集VOC+yolo格式375张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/134484127">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]犀牛数据集VOC+yolo格式376张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/134484115">详情</a></td><td><a href="info.md">下载</a></td></tr>
