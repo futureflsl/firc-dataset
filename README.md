@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>明厨亮灶-厨房规范检测数据集VOC+YOLO格式16070张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVk5tpZw==">下载</a></td></tr>
+<tr><td>瞳孔颜色检测数据集VOC+YOLO格式3264张7类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVk5pwaA==">下载</a></td></tr>
 <tr><td>大棚番茄西红柿果实成熟度检测数据集YOLO格式279张3类别已划分训练验证集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVk5dtaw==">下载</a></td></tr>
 <tr><td>智慧畜牧-小鸡鸡苗行为状态检测数据集VOC+YOLO格式1698张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm55taw==">下载</a></td></tr>
 <tr><td>智慧畜牧-猪场猪只行为状态检测数据集VOC+YOLO格式3790张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWUm55sbQ==">下载</a></td></tr>
