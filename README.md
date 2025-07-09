@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>钢管管道表面缺陷检测数据集VOC+YOLO格式1159张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVlJ9wbQ==">下载</a></td></tr>
+<tr><td>无人机视角松树病害检测数据集VOC+YOLO格式2177张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVlJ9wbA==">下载</a></td></tr>
 <tr><td>变电站缺陷检测数据集VOC+YOLO格式8307张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVlJhtZg==">下载</a></td></tr>
 <tr><td>无人机视角占道经营摆地摊检测数据集VOC+YOLO格式483张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVk55sZQ==">下载</a></td></tr>
 <tr><td>明厨亮灶-厨房规范检测数据集VOC+YOLO格式16070张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVk5tpZw==">下载</a></td></tr>
