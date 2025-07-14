@@ -1,4 +1,5 @@
-推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10和windows11，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
+推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10及以上，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
+安卓版下载地址：https://aistudio.baidu.com/datasetdetail/350038<br>
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
