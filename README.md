@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>手写数字大小写字母检测数据集VOC+YOLO格式38934张62类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVl5ltbA==">下载</a></td></tr>
+<tr><td>手写数字大小写字母分类数据集10230张62类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVl5hybA==">下载</a></td></tr>
 <tr><td>监控视角下非机动车电动车头盔佩戴检测数据集VOC+YOLO格式11999张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVlZhuaA==">下载</a></td></tr>
 <tr><td>智慧厨房-厨师帽厨师服佩戴口罩检测数据集VOC+YOLO格式4419张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVlZdyag==">下载</a></td></tr>
 <tr><td>钢管管道表面缺陷检测数据集VOC+YOLO格式1159张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVlJ9wbQ==">下载</a></td></tr>
