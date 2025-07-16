@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>背包自行车行人行李箱手推车轮椅检测数据集VOC+YOLO格式1555张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmJluZA==">下载</a></td></tr>
+<tr><td>工业压力表仪表检测数据集VOC+YOLO格式1836张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVl59xZQ==">下载</a></td></tr>
+<tr><td>塔吊检测数据集VOC+YOLO格式2559张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmJluag==">下载</a></td></tr>
 <tr><td>手写数字大小写字母检测数据集VOC+YOLO格式38934张62类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVl5ltbA==">下载</a></td></tr>
 <tr><td>手写数字大小写字母分类数据集10230张62类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVl5hybA==">下载</a></td></tr>
 <tr><td>监控视角下非机动车电动车头盔佩戴检测数据集VOC+YOLO格式11999张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVlZhuaA==">下载</a></td></tr>
@@ -1079,7 +1082,6 @@
 <tr><td>[数据集][目标检测]目标检测数据集大白菜数据集VOC格式1557张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/130897118">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]目标检测数据集黄瓜数据集VOC格式1309张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/130897076">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]篮球数据集VOC格式7398张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/130672746">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]塔吊数据集VOC格式2559张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/130037941">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集介绍][目标检测]城市道路交通事故数据集VOC格式1182张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/129568468">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集介绍][目标检测]城市街道垃圾数据集VOC格式5266张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/129541927">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][VOC][目标检测]河道垃圾水面漂浮物数据集目标检测可用yolo训练-1304张介绍</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/129346242">详情</a></td><td><a href="info.md">下载</a></td></tr>
