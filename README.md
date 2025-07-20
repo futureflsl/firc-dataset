@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>建筑墙壁损伤缺陷分割数据集labelme格式7820张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZlsaQ==">下载</a></td></tr>
 <tr><td>智慧农业-水稻害虫检测数据集VOC+YOLO格式5212张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZlqag==">下载</a></td></tr>
 <tr><td>微藻细胞检测数据集YOLO格式703张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZZxaQ==">下载</a></td></tr>
 <tr><td>打哈欠不打哈欠检测数据集VOC+YOLO格式16300张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmJ1rZQ==">下载</a></td></tr>
