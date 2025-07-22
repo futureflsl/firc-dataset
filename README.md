@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角水体污染检测数据集VOC+YOLO格式2999张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZxsZQ==">下载</a></td></tr>
+<tr><td>盲道损坏检测数据集VOC+YOLO格式4426张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZxrbQ==">下载</a></td></tr>
 <tr><td>建筑墙壁损伤缺陷分割数据集labelme格式7820张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZlsaQ==">下载</a></td></tr>
 <tr><td>智慧农业-水稻害虫检测数据集VOC+YOLO格式5212张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZlqag==">下载</a></td></tr>
 <tr><td>微藻细胞检测数据集YOLO格式703张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZZxaQ==">下载</a></td></tr>
@@ -1104,7 +1106,6 @@
 <tr><td>城市道路井盖破损丢失目标检测数据集VOC+YOLO格式1377张4类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/142626238">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]谢韦尔钢材缺陷检测数据集VOC+YOLO格式6666张4类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/142298872">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>铁路列车手势分类数据集3852张5类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/142282367">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>航拍水体污染检测数据集VOC+YOLO格式2999张5类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/142074396">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]水稻叶片病害检测数据集VOC+YOLO格式1448张3类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/142028050">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>蛋壳裂缝检测数据集VOC+YOLO格式2458张2类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141968764">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>NEU-DET钢材表面缺陷检测数据集VOC+YOLO格式1799张6类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141959313">详情</a></td><td><a href="info.md">下载</a></td></tr>
