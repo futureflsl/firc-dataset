@@ -1,8 +1,9 @@
 推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10及以上，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
-安卓版下载地址：https://aistudio.baidu.com/datasetdetail/350038<br>
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>水面垃圾检测数据集VOC+YOLO格式4273张8类</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVm5ZubQ==">下载</a></td></tr>
+<tr><td>水面垃圾识别分割数据集labelme格式2111张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVm5ZtaQ==">下载</a></td></tr>
 <tr><td>遥感滑坡识别分割数据集labelme格式1893张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmphwZw==">下载</a></td></tr>
 <tr><td>无人机视角水体污染检测数据集VOC+YOLO格式2999张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZxsZQ==">下载</a></td></tr>
 <tr><td>盲道损坏检测数据集VOC+YOLO格式4426张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmZxrbQ==">下载</a></td></tr>
