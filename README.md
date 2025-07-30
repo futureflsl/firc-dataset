@@ -1011,7 +1011,7 @@
 <tr><td>[数据集][图像分类]大白菜幼叶病害分类数据集2878张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136524349">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]昆虫分类数据集75222张102类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136508159">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]黄瓜叶子病害分类数据集172张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136502791">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][图像分类]头发疾病分类数据集12000张10类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136502698">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][图像分类]头发疾病分类数据集12000张10类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136502698">详情</a></td><td><a href="https://mbd.pub/o/bread/mbd-YZWVm5xpZQ==">下载</a></td></tr>
 <tr><td>[数据集][图像分类]香蕉叶子病害分类数据集937张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136502668">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]橙子病害分类数据集1614张4类</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136502659">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]樱桃叶子病害分类数据集4386张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136498361">详情</a></td><td><a href="info.md">下载</a></td></tr>
