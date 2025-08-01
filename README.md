@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>甘蔗叶子病害检测数据集VOC+YOLO格式3582张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkpZyaw==">下载</a></td></tr>
 <tr><td>水面垃圾检测数据集VOC+YOLO格式4273张8类</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVm5ZubQ==">下载</a></td></tr>
 <tr><td>水面垃圾识别分割数据集labelme格式2111张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVm5ZtaQ==">下载</a></td></tr>
 <tr><td>遥感滑坡识别分割数据集labelme格式1893张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWVmphwZw==">下载</a></td></tr>
