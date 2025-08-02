@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>红花检测数据集VOC+YOLO格式1437张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkppqZw==">下载</a></td></tr>
 <tr><td>大棚黄瓜检测数据集VOC+YOLO格式292张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkplwag==">下载</a></td></tr>
 <tr><td>红花识别分割数据集labelme格式144张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkplrZw==">下载</a></td></tr>
 <tr><td>甘蔗叶子病害检测数据集VOC+YOLO格式3582张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkpZyaw==">下载</a></td></tr>
