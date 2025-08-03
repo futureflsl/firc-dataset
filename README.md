@@ -2,6 +2,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通-铁路线路维护植被入侵识别分割数据集labelme格式1341张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1vaQ==">下载</a></td></tr>
+<tr><td>螺栓螺母松动识别分割数据集labelme格式1881张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1uZg==">下载</a></td></tr>
+<tr><td>智慧电网-红外图像电气系统故障检测数据集VOC+YOLO格式1729张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1uZQ==">下载</a></td></tr>
+<tr><td>电阻点焊接处缺陷检测数据集VOC+YOLO格式4134张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1uZA==">下载</a></td></tr>
+<tr><td>花生叶子病害检测数据集VOC+YOLO格式7354张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1tag==">下载</a></td></tr>
+<tr><td>马行为检测数据集VOC+YOLO格式3276张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1tZg==">下载</a></td></tr>
+<tr><td>饮料瓶盖缺陷检测质量检测数据集VOC+YOLO格式1432张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1sbA==">下载</a></td></tr>
+<tr><td>无人机视角城管巡检违规加盖房顶堆积杂物植被裸露检测数据集VOC+YOLO格式3434张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWWkp1rZw==">下载</a></td></tr>
 <tr><td>红花检测数据集VOC+YOLO格式1437张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkppqZw==">下载</a></td></tr>
 <tr><td>大棚黄瓜检测数据集VOC+YOLO格式292张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkplwag==">下载</a></td></tr>
 <tr><td>红花识别分割数据集labelme格式144张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkplrZw==">下载</a></td></tr>
