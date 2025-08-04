@@ -2,6 +2,19 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角河道游泳者检测数据集VOC+YOLO格式2000张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5ZwZA==">下载</a></td></tr>
+<tr><td>无人机视角钓鱼和游泳者溺水检测数据集VOC+YOLO格式1282张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5Zuaw==">下载</a></td></tr>
+<tr><td>红毛丹成熟度检测数据集VOC+YOLO格式5108张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5ZpZQ==">下载</a></td></tr>
+<tr><td>起火源头检测数据集VOC+YOLO格式9059张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9yZQ==">下载</a></td></tr>
+<tr><td>无人机视角岸边垂钓钓鱼检测数据集VOC+YOLO格式14752张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9waA==">下载</a></td></tr>
+<tr><td>洗手步骤检测数据集VOC+YOLO格式9421张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9wZQ==">下载</a></td></tr>
+<tr><td>仓库纸箱清点识别分割数据集labelme格式8328张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9tZg==">下载</a></td></tr>
+<tr><td>室内液体撒漏泄漏识别分割数据集labelme格式2576张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9sag==">下载</a></td></tr>
+<tr><td>电线杆损坏倒塌断裂分割数据集labelme格式2597张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9rZQ==">下载</a></td></tr>
+<tr><td>工业厂房监控视角下叉车检测数据集VOC+YOLO格式7866张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9qZw==">下载</a></td></tr>
+<tr><td>仓库纸箱清点检测数据集VOC+YOLO格式8328张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9pbA==">下载</a></td></tr>
+<tr><td>便民设施检测数据集VOC+YOLO格式8168张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp9pZA==">下载</a></td></tr>
+<tr><td>电线杆损坏倒塌断裂检测数据集VOC+YOLO格式2943张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5yaA==">下载</a></td></tr>
 <tr><td>监控视角红外图像厂区液体泄漏检测数据集VOC+YOLO格式5034张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wbQ==">下载</a></td></tr>
 <tr><td>蚕健康状态检测数据集VOC+YOLO格式8975张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wag==">下载</a></td></tr>
 <tr><td>石油化工火炬燃烧状态检测数据集6889张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wZw==">下载</a></td></tr>
