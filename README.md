@@ -2,6 +2,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>监控视角红外图像厂区液体泄漏检测数据集VOC+YOLO格式5034张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wbQ==">下载</a></td></tr>
+<tr><td>蚕健康状态检测数据集VOC+YOLO格式8975张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wag==">下载</a></td></tr>
+<tr><td>石油化工火炬燃烧状态检测数据集6889张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wZw==">下载</a></td></tr>
+<tr><td>食物浪费检测数据集VOC+YOLO格式6734张32类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wZg==">下载</a></td></tr>
+<tr><td>木瓜成熟度检测数据集VOC+YOLO格式1071张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wZQ==">下载</a></td></tr>
+<tr><td>智慧医疗-孤独症儿童行为检测数据集VOC+YOLO格式7295张34类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5wZA==">下载</a></td></tr>
+<tr><td>地铁车辆维修车间设施设备检测数据集VOC+YOLO格式1928张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp5saQ==">下载</a></td></tr>
 <tr><td>智慧交通-铁路线路维护植被入侵识别分割数据集labelme格式1341张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1vaQ==">下载</a></td></tr>
 <tr><td>螺栓螺母松动识别分割数据集labelme格式1881张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1uZg==">下载</a></td></tr>
 <tr><td>智慧电网-红外图像电气系统故障检测数据集VOC+YOLO格式1729张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWkp1uZQ==">下载</a></td></tr>
