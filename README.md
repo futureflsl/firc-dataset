@@ -1,7 +1,12 @@
 推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10及以上，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
+数据集表格形式访问：https://www.kdocs.cn/l/cgD4Mlip5SF9
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通-道路便携性识别分割数据集labelme格式1552张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5dtbA==">下载</a></td></tr>
+<tr><td>公交车司机客车司机不规范抽烟打电话检测数据集VOC+YOLO格式2047张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5dtaw==">下载</a></td></tr>
+<tr><td>智慧交通-道路便捷性检测数据集VOC+YOLO格式4912张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5dtag==">下载</a></td></tr>
+<tr><td>智慧城市-街道异常路面巡检街道维护杂物检测数据集VOC+YOLO格式3623张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5dtZg==">下载</a></td></tr>
 <tr><td>无人机视角河道游泳者检测数据集VOC+YOLO格式2000张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5ZwZA==">下载</a></td></tr>
 <tr><td>无人机视角钓鱼和游泳者溺水检测数据集VOC+YOLO格式1282张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5Zuaw==">下载</a></td></tr>
 <tr><td>红毛丹成熟度检测数据集VOC+YOLO格式5108张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5ZpZQ==">下载</a></td></tr>
