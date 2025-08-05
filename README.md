@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>打架检测数据集VOC+YOLO格式9168张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5psZg==">下载</a></td></tr>
 <tr><td>智慧交通-道路便携性识别分割数据集labelme格式1552张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5dtbA==">下载</a></td></tr>
 <tr><td>公交车司机客车司机不规范抽烟打电话检测数据集VOC+YOLO格式2047张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5dtaw==">下载</a></td></tr>
 <tr><td>智慧交通-道路便捷性检测数据集VOC+YOLO格式4912张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5dtag==">下载</a></td></tr>
