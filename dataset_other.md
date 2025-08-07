@@ -1,7 +1,6 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
-<tr><td>MATLAB实现距离反权重插值法代码与数据完整指南 </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>开关柜接头红外过热检测图像数据集（3000多张图像，VOC标签，有温度信息） </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>供应链数据集.zip </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>数据仓库应用实例 中国移动经营分析系统数据仓库逻辑数据模型说明 共64页.pdf</td><td><a href="info.md">点我下载</a></td></tr>
@@ -12,7 +11,6 @@
 <tr><td>红外图像非均匀性校正算法-红外图像非均匀性校正数据集-基于深度学习的红外图像非均匀性校正-红外图像去噪算法和数据集 </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>YOLO 医学图像数据集：乳腺癌检测（1类别，包含训练集、验证集） </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>GCN分类基于图卷积神经网络的数据分类预测Matlab完整源码和数据 </td><td><a href="info.md">点我下载</a></td></tr>
-<tr><td>剑指大数据——Flink学习精要（Java版)最终修订版 </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>YOLO苹果目标检测数据集(含1000张图片)+对应voc、coco和yolo三种格式标签+划分脚本+训练教程.rar </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>深度学习 香蕉数据集（带标注）YOLO和VOC格式 3000张图片 </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>MongoDB实验数据集 </td><td><a href="info.md">点我下载</a></td></tr>
@@ -21,7 +19,6 @@
 <tr><td>径向基神经网络（RBFNN）用于数据预测（Python源码+数据集） </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>基于Python启发式特征的钓鱼网站检测系统源码+数据集+详细文档（高分毕业设计）.zip </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>yolov5目标检测数据集：烟草叶片病害检测（15类别，包含训练集、验证集） </td><td><a href="info.md">点我下载</a></td></tr>
-<tr><td>python机器学习期末项目:常用机器学习算法可视化系统(前后端源码 + 数据库 +文档PPT).zip </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>ChineseMnist KNN中文手写字识别 15000张数据集 </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>Matlab实现CPO-LSSVM冠豪猪算法优化最小二乘支持向量机多变量回归预测（完整源码和数据） </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>淘宝Hadoop大数据云计算技术与数据分析详解</td><td><a href="info.md">点我下载</a></td></tr>
