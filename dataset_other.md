@@ -165,7 +165,6 @@
 <tr><td>基于HAM10000数据集实现皮肤癌分类python源码+使用说明.zip </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>水稻成熟度图像数据集及深度学习分类实践</td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>Matlab BP神经网络分类算法 含测试数据集 预测图像和评价指标详细 </td><td><a href="info.md">点我下载</a></td></tr>
-<tr><td>目标检测常见机械零件数据集5900张5类VOC+YOLO.zip </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>BKA-XGBoost(黑翅鸢优化算法优化极限梯度提升树)时间序列预测（Matlab完整源码和数据） </td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>基于python+YOLOV7+DeepLabv3+的图像深度学习算法训练数据实现道路偏离预警系统+语言提醒+开发文档说</td><td><a href="info.md">点我下载</a></td></tr>
 <tr><td>YOLO指针仪表目标检测数据集(含1000张图片)+已标注xml、json和txt三种格式标签.rar </td><td><a href="info.md">点我下载</a></td></tr>
