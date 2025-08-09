@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧农业-无人机视角庄稼倒伏农作物倒伏检测数据集VOC+YOLO格式541张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZtuag==">下载</a></td></tr>
+<tr><td>智慧农业-无人机视角庄稼倒伏农作物倒伏识别分割数据集labelme格式541张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZtuaA==">下载</a></td></tr>
 <tr><td>花生果仁质检损坏缺陷检测数据集VOC+YOLO格式3340张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk55vZQ==">下载</a></td></tr>
 <tr><td>电力施工现场安全检测数据集VOC+YOLO格式9438张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk51xaA==">下载</a></td></tr>
 <tr><td>打架检测数据集VOC+YOLO格式9168张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk5psZg==">下载</a></td></tr>
