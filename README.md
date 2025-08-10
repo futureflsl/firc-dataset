@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>监控视角下外卖与快递车检测数据集VOC+YOLO格式1911张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZ5paA==">下载</a></td></tr>
 <tr><td>建筑设施安全隐患检测数据集VOC+YOLO格式6808张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZ1uag==">下载</a></td></tr>
 <tr><td>智慧交通-道路积雪检测数据集VOC+YOLO格式1985张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZxtbA==">下载</a></td></tr>
 <tr><td>智慧交通-道路积雪识别分割数据集labelme格式1985张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZxtag==">下载</a></td></tr>
