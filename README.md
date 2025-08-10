@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通-道路积雪检测数据集VOC+YOLO格式1985张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZxtbA==">下载</a></td></tr>
+<tr><td>智慧交通-道路积雪识别分割数据集labelme格式1985张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZxtag==">下载</a></td></tr>
 <tr><td>智慧农业-无人机视角庄稼倒伏农作物倒伏检测数据集VOC+YOLO格式541张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZtuag==">下载</a></td></tr>
 <tr><td>智慧农业-无人机视角庄稼倒伏农作物倒伏识别分割数据集labelme格式541张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlZtuaA==">下载</a></td></tr>
 <tr><td>花生果仁质检损坏缺陷检测数据集VOC+YOLO格式3340张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWk55vZQ==">下载</a></td></tr>
