@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>红外图像人员入侵检测数据集VOC+YOLO格式2685张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlppybA==">下载</a></td></tr>
 <tr><td>点焊电焊火星飞溅检测数据集VOC+YOLO格式4621张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlplsZA==">下载</a></td></tr>
 <tr><td>火星飞溅检测数据集VOC+YOLO格式238张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlplraw==">下载</a></td></tr>
 <tr><td>芯片缺陷检测数据集VOC+YOLO格式2037张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlplqZw==">下载</a></td></tr>
