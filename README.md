@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角土地区域类型识别检测数据集VOC+YOLO格式4904张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xvZA==">下载</a></td></tr>
+<tr><td>无人机视角土地区域类型识别分割数据集labelme格式4904张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xuZg==">下载</a></td></tr>
+<tr><td>无人机视角裸土覆盖情况分割数据集labelme格式5888张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xtbQ==">下载</a></td></tr>
+<tr><td>无人机视角裸土覆盖情况检测数据集VOC+YOLO格式5888张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5xtaQ==">下载</a></td></tr>
+<tr><td>无人机视角乱堆垃圾垃圾场地分割数据集labelme格式1501张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5twbQ==">下载</a></td></tr>
+<tr><td>无人机视角乱堆垃圾垃圾场地检测数据集VOC+YOLO格式1501张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5twag==">下载</a></td></tr>
 <tr><td>夹层玻璃缺陷检测数据集VOC+YOLO格式208张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl5ZsaA==">下载</a></td></tr>
 <tr><td>红外图像人员入侵检测数据集VOC+YOLO格式2685张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlppybA==">下载</a></td></tr>
 <tr><td>点焊电焊火星飞溅检测数据集VOC+YOLO格式4621张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWlplsZA==">下载</a></td></tr>
