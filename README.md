@@ -1,4 +1,4 @@
-<img width="667" height="697" alt="image" src="https://github.com/user-attachments/assets/0b985cc2-3336-43a0-8e9e-54b660d66496" />推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10及以上，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
+推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10及以上，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
 数据集表格形式访问：https://www.kdocs.cn/l/cgD4Mlip5SF9
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
