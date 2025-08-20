@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>扑克牌识别目标检测数据集VOC+YOLO格式2w张52类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmJtpZg==">下载</a></td></tr>
 <tr><td>道路车道线分割数据集左车道右车道中线labelme格式3494张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmJpyaw==">下载</a></td></tr>
 <tr><td>全国初中高中小学学校名单2025年9月版csv格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmJpsbQ==">下载</a></td></tr>
 <tr><td>无人机视角违章建筑识别检测数据集VOC+YOLO格式343张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWl55qZw==">下载</a></td></tr>
