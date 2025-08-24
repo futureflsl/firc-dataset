@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>皮肤病数据集黑色素猴痘水痘痤疮疣牛皮癣白癜风湿疹检测数据集VOC+YOLO格式3717张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZrag==">下载</a></td></tr>
+<tr><td>皮肤病黑头暗斑油性皮肤眼袋白头皱纹检测数据集VOC+YOLO格式2347张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZrZw==">下载</a></td></tr>
+<tr><td>脸部皮肤病之色素沉着检测数据集VOC+YOLO格式677张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZqZA==">下载</a></td></tr>
+<tr><td>白癜风皮肤病检测数据集VOC+YOLO格式306张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmZ9xaA==">下载</a></td></tr>
+<tr><td>皮肤病识别分割数据集labelme格式9082张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmZ9xZw==">下载</a></td></tr>
+<tr><td>无人机视角罂粟检测数据集VOC+YOLO格式482张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmZ9xZQ==">下载</a></td></tr>
 <tr><td>智慧电网-变电站巡检异常缺陷检测数据集VOC+YOLO格式8482张113类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmZtqaA==">下载</a></td></tr>
 <tr><td>电力场景变电站缺陷检测数据集VOC+YOLO格式8116张78类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmZpyaA==">下载</a></td></tr>
 <tr><td>电力场景高清无人机视角配网缺陷销钉缺失检测数据集VOC+YOLO格式3484张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmZZwaQ==">下载</a></td></tr>
