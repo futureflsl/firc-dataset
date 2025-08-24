@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>校园异常行为检测数据集VOC+YOLO格式2266张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZyaw==">下载</a></td></tr>
+<tr><td>围栏异常行为检测数据集VOC+YOLO格式1389张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZxZw==">下载</a></td></tr>
 <tr><td>皮肤病数据集黑色素猴痘水痘痤疮疣牛皮癣白癜风湿疹检测数据集VOC+YOLO格式3717张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZrag==">下载</a></td></tr>
 <tr><td>皮肤病黑头暗斑油性皮肤眼袋白头皱纹检测数据集VOC+YOLO格式2347张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZrZw==">下载</a></td></tr>
 <tr><td>脸部皮肤病之色素沉着检测数据集VOC+YOLO格式677张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZqZA==">下载</a></td></tr>
