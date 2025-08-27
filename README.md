@@ -1192,7 +1192,7 @@
 <tr><td>鲜花雏菊蒲公英玫瑰向日葵郁金香分类数据集4326张5类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141871470">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>服装布匹缺陷检测数据集VOC+YOLO格式8073张4类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141863530">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>昆虫检测数据集VOC+YOLO格式9348张102类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141858068">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>煤矸石检测数据集VOC+YOLO格式3090张2类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141829723">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>煤矸石检测数据集VOC+YOLO格式3090张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkppxaQ==">下载</a></td></tr>
 <tr><td>煤矿输送带异物检测数据集VOC+YOLO格式2220张2类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141827883">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>玉米地杂草检测数据集VOC+YOLO格式7436张2类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141822854">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>路面垃圾检测数据集VOC+YOLO格式8097张27类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141819371">详情</a></td><td><a href="info.md">下载</a></td></tr>
