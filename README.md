@@ -1065,7 +1065,7 @@
 <tr><td>[数据集][目标检测]麻雀检测数据集VOC+YOLO格式1157张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136933911">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]高质量铁路轨道缺陷检测数据集VOC+YOLO格式1050张6类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136904126">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]番茄成熟度检测数据集VOC+YOLO格式277张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136796239">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]铁路工人工服安全帽检测数据集VOC+YOLO格式3065张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136790511">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>无人机视角铁路工人工服安全帽检测数据集VOC+YOLO格式3065张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxqZA==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]焊接件表面缺陷检测数据集VOC+YOLO格式2292张10类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136787670">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]铝片表面工业缺陷检测数据集VOC+YOLO格式400张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136787282">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]草莓成熟度检测数据集VOC+YOLO格式412张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136786220">详情</a></td><td><a href="info.md">下载</a></td></tr>
