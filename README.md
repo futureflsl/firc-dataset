@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角太阳能板光伏板识别检测数据集VOC+YOLO格式1979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxxZw==">下载</a></td></tr>
+<tr><td>无人机视角太阳能板光伏板识别分割数据集labelme格式1979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxwbA==">下载</a></td></tr>
+<tr><td>无人机视角工程车渣土车挖掘机起重机检测数据集VOC+YOLO格式926张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxvbQ==">下载</a></td></tr>
 <tr><td>小区楼道杂物堆积检测数据集VOC+YOLO格式690张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxpZg==">下载</a></td></tr>
 <tr><td>校园异常行为检测数据集VOC+YOLO格式2266张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZyaw==">下载</a></td></tr>
 <tr><td>围栏异常行为检测数据集VOC+YOLO格式1389张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWWmpZxZw==">下载</a></td></tr>
