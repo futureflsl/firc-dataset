@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>PPE安全防护工作装备鞋子面罩口罩安全带头盔手套安全背心工作服检测数据集VOC+YOLO格式6399张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkp5wZA==">下载</a></td></tr>
+<tr><td>桃子成熟度未熟半熟已熟检测数据集VOC+YOLO格式3630张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkp5vbA==">下载</a></td></tr>
+<tr><td>桃子成熟度未熟半熟已熟识别分割数据集labelme格式3630张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkp5vag==">下载</a></td></tr>
 <tr><td>无人机视角太阳能板光伏板识别检测数据集VOC+YOLO格式1979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxxZw==">下载</a></td></tr>
 <tr><td>无人机视角太阳能板光伏板识别分割数据集labelme格式1979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxwbA==">下载</a></td></tr>
 <tr><td>无人机视角工程车渣土车挖掘机起重机检测数据集VOC+YOLO格式926张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkpxvbQ==">下载</a></td></tr>
