@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>洪水应急场景洪水车辆电动车和行人检测数据集VOC+YOLO格式6342张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkp9vaA==">下载</a></td></tr>
+<tr><td>洪水应急场景洪水车辆电动车和行人分割数据集labelme格式6342张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkp9vZQ==">下载</a></td></tr>
 <tr><td>PPE安全防护工作装备鞋子面罩口罩安全带头盔手套安全背心工作服检测数据集VOC+YOLO格式6399张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkp5wZA==">下载</a></td></tr>
 <tr><td>桃子成熟度未熟半熟已熟检测数据集VOC+YOLO格式3630张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkp5vbA==">下载</a></td></tr>
 <tr><td>桃子成熟度未熟半熟已熟识别分割数据集labelme格式3630张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXkp5vag==">下载</a></td></tr>
