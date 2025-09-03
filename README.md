@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>俯拍航拍森林火灾检测数据集VOC+YOLO格式6116张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXlJlraQ==">下载</a></td></tr>
 <tr><td>指甲分割数据集labelme格式9339张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXk5ZwZw==">下载</a></td></tr>
 <tr><td>无人机视角城市管理违规加盖顶棚大棚分割数据集labelme格式1184张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXk5ZwZA==">下载</a></td></tr>
 <tr><td>无人机视角城市管理违规加盖顶棚大棚检测数据集VOC+YOLO格式1184张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXk5ZvbQ==">下载</a></td></tr>
@@ -790,7 +791,6 @@
 <tr><td>[数据集][目标检测]智慧交通铁路异物入侵检测数据集VOC+YOLO格式802张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142280171">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]葡萄成熟度检测数据集VOC+YOLO格式1123张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142276677">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]疟疾恶性疟原虫物种目标检测数据集VOC+YOLO格式948张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142275131">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]俯拍航拍森林火灾检测数据集VOC+YOLO格式6116张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142254946">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]车油口挡板开关闭合检测数据集VOC+YOLO格式138张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142219704">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]车窗状态检测车窗开关检测数据集VOC+YOLO格式299张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142219441">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]男女性别检测数据集VOC+YOLO格式9769张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142205585">详情</a></td><td><a href="info.md">下载</a></td></tr>
