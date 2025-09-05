@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>轮船船舶检测数据集VOC+YOLO格式11331张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXlZZybA==">下载</a></td></tr>
 <tr><td>不同药丸形态颜色检测数据集VOC+YOLO格式29277张42类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXlJ9yZA==">下载</a></td></tr>
 <tr><td>无人机视角车辆视角RDD道路瑕疵裂缝病害坑洼检测数据集VOC+YOLO格式27366张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXlJtvaA==">下载</a></td></tr>
 <tr><td>遥感图像风力发电机检测数据集VOC+YOLO格式1249张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXlJtuaw==">下载</a></td></tr>
