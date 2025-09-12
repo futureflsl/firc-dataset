@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>人体各种姿势检测数据集VOC+YOLO格式8804张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJZuZQ==">下载</a></td></tr>
+<tr><td>航拍图片微小目标AI-TOD检测数据集无损压缩版YOLO格式14018张8类别已划分好训练验证集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJZtaw==">下载</a></td></tr>
 <tr><td>无人机视角乱堆垃圾垃圾堆检测数据集VOC+YOLO格式712张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXl59uZA==">下载</a></td></tr>
 <tr><td>生姜叶子病害检测数据集VOC+YOLO格式5515张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXl5tyZQ==">下载</a></td></tr>
 <tr><td>钢管管道计数检测数据集VOC+YOLO格式4651张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXlZ5pZA==">下载</a></td></tr>
