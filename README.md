@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>柑橘缺陷检测数据集VOC+YOLO格式1598张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJxsZg==">下载</a></td></tr>
+<tr><td>柑橘缺陷柑橘病害检测数据集VOC+YOLO格式1075张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJxqbQ==">下载</a></td></tr>
+<tr><td>柑橘叶子病害识别分割数据集labelme格式2476张3类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJxqZg==">下载</a></td></tr>
 <tr><td>牙科疾病检测数据集VOC+YOLO格式2706张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJhsaw==">下载</a></td></tr>
 <tr><td>人体各种姿势检测数据集VOC+YOLO格式8804张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJZuZQ==">下载</a></td></tr>
 <tr><td>航拍图片微小目标AI-TOD检测数据集无损压缩版YOLO格式14018张8类别已划分好训练验证集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJZtaw==">下载</a></td></tr>
