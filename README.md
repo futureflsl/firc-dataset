@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>药片和胶囊检测数据集VOC+YOLO格式2445张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJ5rag==">下载</a></td></tr>
 <tr><td>柑橘缺陷检测数据集VOC+YOLO格式1598张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJxsZg==">下载</a></td></tr>
 <tr><td>柑橘缺陷柑橘病害检测数据集VOC+YOLO格式1075张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJxqbQ==">下载</a></td></tr>
 <tr><td>柑橘叶子病害识别分割数据集labelme格式2476张3类别均为单叶子</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJxqZg==">下载</a></td></tr>
