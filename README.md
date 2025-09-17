@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>工业粉尘烟雾检测数据集VOC+YOLO格式2649张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZhqbA==">下载</a></td></tr>
+<tr><td>工业粉尘烟雾检测数据集labelme格式2649张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZhqZw==">下载</a></td></tr>
 <tr><td>下水管道缺陷检测数据集VOC+YOLO格式980张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZZpbA==">下载</a></td></tr>
 <tr><td>下水道内缺陷检测数据集VOC+YOLO格式2696张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZZpaw==">下载</a></td></tr>
 <tr><td>药片和胶囊检测数据集VOC+YOLO格式2445张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmJ5rag==">下载</a></td></tr>
