@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>手套和徒手检测数据集VOC+YOLO格式1999张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmphsaw==">下载</a></td></tr>
 <tr><td>水下裂纹检测数据集VOC+YOLO格式2313张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZ9qZg==">下载</a></td></tr>
 <tr><td>无人机视角林业树木病害检测数据集VOC+YOLO格式3999张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZ9qZA==">下载</a></td></tr>
 <tr><td>实验室安全行为检测数据集VOC+YOLO格式3996张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZ5ybA==">下载</a></td></tr>
