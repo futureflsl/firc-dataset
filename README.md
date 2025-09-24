@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>人民币面额检测数据集VOC+YOLO格式777张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5ZtZg==">下载</a></td></tr>
 <tr><td>眼底视盘识别分割数据集labeme格式381张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmp9uaA==">下载</a></td></tr>
 <tr><td>手套和徒手检测数据集VOC+YOLO格式1999张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmphsaw==">下载</a></td></tr>
 <tr><td>水下裂纹检测数据集VOC+YOLO格式2313张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmZ9qZg==">下载</a></td></tr>
