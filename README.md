@@ -3,6 +3,16 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>手机检测数据集VOC+YOLO格式4801张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dyZg==">下载</a></td></tr>
+<tr><td>玻璃酒杯检测数据集VOC+YOLO格式2253张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dyZw==">下载</a></td></tr>
+<tr><td>盆栽植物检测数据集VOC+YOLO格式4452张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dyag==">下载</a></td></tr>
+<tr><td>剪子剪刀检测数据集VOC+YOLO格式947张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dyaQ==">下载</a></td></tr>
+<tr><td>各种瓶子检测数据集VOC+YOLO格式8501张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dyaA==">下载</a></td></tr>
+<tr><td>雨伞检测数据集VOC+YOLO格式3968张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dvaw==">下载</a></td></tr>
+<tr><td>手提包检测数据集VOC+YOLO格式6840张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dvag==">下载</a></td></tr>
+<tr><td>领带检测数据集VOC+YOLO格式3807张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dvaQ==">下载</a></td></tr>
+<tr><td>各种鸟类检测数据集VOC+YOLO格式3233张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dvaA==">下载</a></td></tr>
+<tr><td>风筝检测数据集VOC YOLO格式2260张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dvZw==">下载</a></td></tr>
 <tr><td>人民币面额检测数据集VOC+YOLO格式777张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5ZtZg==">下载</a></td></tr>
 <tr><td>眼底视盘识别分割数据集labeme格式381张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmp9uaA==">下载</a></td></tr>
 <tr><td>手套和徒手检测数据集VOC+YOLO格式1999张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXmphsaw==">下载</a></td></tr>
