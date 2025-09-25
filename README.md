@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智能手机背面缺陷检测数据集VOC+YOLO格式5203张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5lpZg==">下载</a></td></tr>
 <tr><td>手机检测数据集VOC+YOLO格式4801张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dyZg==">下载</a></td></tr>
 <tr><td>玻璃酒杯检测数据集VOC+YOLO格式2253张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dyZw==">下载</a></td></tr>
 <tr><td>盆栽植物检测数据集VOC+YOLO格式4452张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5dyag==">下载</a></td></tr>
