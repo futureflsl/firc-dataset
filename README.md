@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>海藻细胞识别分割数据集labelme格式801张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm59xaA==">下载</a></td></tr>
+<tr><td>高通量海藻细胞检测数据集VOC+YOLO格式1690张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm59xZw==">下载</a></td></tr>
 <tr><td>宫颈癌细胞病理检测数据集VOC+YOLO格式7574张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm55sbQ==">下载</a></td></tr>
 <tr><td>口腔病变识别分割数据集labelme格式1317张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm51qZg==">下载</a></td></tr>
 <tr><td>口腔癌检测数据集VOC+YOLO格式690张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWXm5xybA==">下载</a></td></tr>
