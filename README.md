@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>军事决策目标检测数据集VOC+YOLO格式16809张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkpxuZQ==">下载</a></td></tr>
+<tr><td>水下声呐目标物检测数据集VOC+YOLO格式80张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkpxtZg==">下载</a></td></tr>
+<tr><td>金鱼疾病检测数据集VOC+YOLO格式1371张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkpxtZQ==">下载</a></td></tr>
 <tr><td>无人机高空红外热图像人车检测数据集VOC+YOLO格式2866张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkptraQ==">下载</a></td></tr>
 <tr><td>16种粮食谷物分类数据集5300张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkpprag==">下载</a></td></tr>
 <tr><td>蜜蜂大黄蜂检测数据集VOC+YOLO格式2181张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkpZwaQ==">下载</a></td></tr>
