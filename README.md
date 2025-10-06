@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>超声波图像乳腺癌检测数据集VOC+YOLO格式647张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkp9wZQ==">下载</a></td></tr>
+<tr><td>超声波图像乳腺癌识别分割数据集647张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkp9wZA==">下载</a></td></tr>
+<tr><td>红外热成像图片乳腺癌分类识别数据集5283张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkp9uaQ==">下载</a></td></tr>
 <tr><td>军事决策目标检测数据集VOC+YOLO格式16809张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkpxuZQ==">下载</a></td></tr>
 <tr><td>水下声呐目标物检测数据集VOC+YOLO格式80张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkpxtZg==">下载</a></td></tr>
 <tr><td>金鱼疾病检测数据集VOC+YOLO格式1371张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkpxtZQ==">下载</a></td></tr>
