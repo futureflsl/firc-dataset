@@ -2,6 +2,17 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>2024年中国光伏电站矢量数据集CPVPD-2024.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJdsaQ==">下载</a></td></tr>
+<tr><td>2010-2021年中国各省份人口经济基本指标数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZuZg==">下载</a></td></tr>
+<tr><td>1919年- 2022年飞机历史空难数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZuZQ==">下载</a></td></tr>
+<tr><td>台风路径数据集1945-2022csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZtbQ==">下载</a></td></tr>
+<tr><td>1979-2021伦敦历史天气数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZtbA==">下载</a></td></tr>
+<tr><td>地级市城镇化率2000-2022年xlsx格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlJZtaw==">下载</a></td></tr>
+<tr><td>风场风电机组实时数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZtag==">下载</a></td></tr>
+<tr><td>电力变压器数据集 (ETDataset).zip</td><td><a href="https://mbd.pub/o/bread/YZWYlJZtaA==">下载</a></td></tr>
+<tr><td>14w+中文歌曲歌词语料库json格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZtZw==">下载</a></td></tr>
+<tr><td>中国居民人均收入和支出的历年数据 2000-2021年数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlJZtZg==">下载</a></td></tr>
+<tr><td>中国各省加九段线shp文件.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZtZQ==">下载</a></td></tr>
 <tr><td>1960-2020年全球各国GDP数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYk55tZg==">下载</a></td></tr>
 <tr><td>1998-2020年中国县域统计年鉴面板数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYk55tZQ==">下载</a></td></tr>
 <tr><td>中国城市统计年鉴（2010-2019）面板数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYk55tZA==">下载</a></td></tr>
