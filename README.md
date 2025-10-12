@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>手指头检测数据集VOC+YOLO格式3755张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJZqaA==">下载</a></td></tr>
+<tr><td>牛种类检测数据集3488张32类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJZqZg==">下载</a></td></tr>
+<tr><td>牛品种种类检测数据集VOC+YOLO格式2395张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJZqZQ==">下载</a></td></tr>
+<tr><td>乒乓球要素检测球员桌台乒乓球数据集VOC+YOLO格式2721张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJZpbA==">下载</a></td></tr>
 <tr><td>智慧交通-道路交通违规检测数据集13类(MPV、SUV、出租车、面包车、红灯、绿灯等)检测数据集VOC+YOLO格式7426张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYk55wag==">下载</a></td></tr>
 <tr><td>无人机视角城市街道固体垃圾检测数据集VOC+YOLO格式194张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYk55waQ==">下载</a></td></tr>
 <tr><td>超声波图像乳腺癌检测数据集VOC+YOLO格式647张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYkp9wZQ==">下载</a></td></tr>
