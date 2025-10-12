@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>传送带皮带破损检测数据集VOC+YOLO格式583张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJZybA==">下载</a></td></tr>
 <tr><td>手指头检测数据集VOC+YOLO格式3755张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJZqaA==">下载</a></td></tr>
 <tr><td>牛种类检测数据集3488张32类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJZqZg==">下载</a></td></tr>
 <tr><td>牛品种种类检测数据集VOC+YOLO格式2395张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJZqZQ==">下载</a></td></tr>
