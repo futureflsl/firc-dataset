@@ -2,6 +2,10 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>空间动态风力发电预测挑战Baidu KDD CUP 2022数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJtsaw==">下载</a></td></tr>
+<tr><td>电网母线负荷预测数据集csv格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJduaA==">下载</a></td></tr>
+<tr><td>电力负荷数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJdtaw==">下载</a></td></tr>
+<tr><td>电力变压器油色谱数据集xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJdtaQ==">下载</a></td></tr>
 <tr><td>2024年中国光伏电站矢量数据集CPVPD-2024.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJdsaQ==">下载</a></td></tr>
 <tr><td>2010-2021年中国各省份人口经济基本指标数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZuZg==">下载</a></td></tr>
 <tr><td>1919年- 2022年飞机历史空难数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJZuZQ==">下载</a></td></tr>
