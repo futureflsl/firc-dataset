@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>口腔疾病检测数据集VOC+YOLO格式1484张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJxtaQ==">下载</a></td></tr>
 <tr><td>医学皮肤病变分类数据集3794张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJtubA==">下载</a></td></tr>
 <tr><td>空中无人机的检测数据集VOC+YOLO格式7261张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJtsZg==">下载</a></td></tr>
 <tr><td>无人机视角水面油污检测数据集VOC+YOLO格式2177张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJhrZg==">下载</a></td></tr>
