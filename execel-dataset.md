@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>口腔鳞状细胞癌生存数据txt格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlJxsbQ==">下载</a></td></tr>
+<tr><td>李白所有古诗题目和内容数据xls格式共1107首诗</td><td><a href="https://mbd.pub/o/bread/YZWYlJxrZw==">下载</a></td></tr>
 <tr><td>空间动态风力发电预测挑战Baidu KDD CUP 2022数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJtsaw==">下载</a></td></tr>
 <tr><td>电网母线负荷预测数据集csv格式</td><td><a href="https://mbd.pub/o/bread/YZWYlJduaA==">下载</a></td></tr>
 <tr><td>电力负荷数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJdtaw==">下载</a></td></tr>
