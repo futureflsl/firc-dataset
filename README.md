@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>肺癌和结肠癌组织病理学图像分类数据集25000张</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5uZQ==">下载</a></td></tr>
 <tr><td>传送带包裹检测计数检测数据集VOC+YOLO格式8864张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5raQ==">下载</a></td></tr>
 <tr><td>建筑物立面墙体缺陷漆面剥落裂缝鼓包检测数据集VOC+YOLO格式4423张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJ1vZg==">下载</a></td></tr>
 <tr><td>口腔疾病检测数据集VOC+YOLO格式1484张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJxtaQ==">下载</a></td></tr>
