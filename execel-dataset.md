@@ -2,6 +2,20 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>31万条全国医药与采购数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9uZg==">下载</a></td></tr>
+<tr><td>2022年全国2856所高校及专业数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9uZQ==">下载</a></td></tr>
+<tr><td>全国418个地区-绿色金融指数和分项得分2000-2022年数据集xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9uZA==">下载</a></td></tr>
+<tr><td>全国人口数据1990-2001年csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9taQ==">下载</a></td></tr>
+<tr><td>全国各省-环境规制强度2004-2020年数据集xlsx格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9tZA==">下载</a></td></tr>
+<tr><td>全国各地区-农业高质量发展指数2014-2020年数据集xlsx格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9sbA==">下载</a></td></tr>
+<tr><td>全国各地区-绿色发展指数和子指数2011-2019年数据集xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9saw==">下载</a></td></tr>
+<tr><td>全国各城市-商品房屋销售-商品房销售面积1999-2020年数据集xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9sag==">下载</a></td></tr>
+<tr><td>全国各城市-农村-乡村户数1999-2020年数据集xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9saA==">下载</a></td></tr>
+<tr><td>全国各城市-交通运输邮电业-民用汽车拥有量1999-2020年数据集xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9sZg==">下载</a></td></tr>
+<tr><td>全国各城市-幼儿园和小学-普通小学毕业生数1999-2020年数据集xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9sZQ==">下载</a></td></tr>
+<tr><td>全国11970条A级景区数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9sZA==">下载</a></td></tr>
+<tr><td>中国1950-2023年自然灾害全国受灾面积数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9raQ==">下载</a></td></tr>
+<tr><td>2005-2019年全国各市区每天平均气温一共12158个点数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9qaQ==">下载</a></td></tr>
 <tr><td>肺癌患者生存资料数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5uZA==">下载</a></td></tr>
 <tr><td>肺癌患者术后预期分类数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5tbQ==">下载</a></td></tr>
 <tr><td>肺癌数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5tbA==">下载</a></td></tr>
