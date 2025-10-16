@@ -2,6 +2,14 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>肺癌患者生存资料数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5uZA==">下载</a></td></tr>
+<tr><td>肺癌患者术后预期分类数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5tbQ==">下载</a></td></tr>
+<tr><td>肺癌数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5tbA==">下载</a></td></tr>
+<tr><td>光伏发电板的数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ1qaw==">下载</a></td></tr>
+<tr><td>光伏发电功率预测数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ1qZw==">下载</a></td></tr>
+<tr><td>光伏发电和天气参数数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ1qZQ==">下载</a></td></tr>
+<tr><td>2019-2022年全球光伏太阳能电池板数据集shp文件.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ1paA==">下载</a></td></tr>
+<tr><td>口腔疾病检测数据集VOC+YOLO格式1484张4类别</td><td><a href="https://mbd.pub/o/bread/YZWYlJxtaQ==">下载</a></td></tr>
 <tr><td>口腔鳞状细胞癌生存数据txt格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlJxsbQ==">下载</a></td></tr>
 <tr><td>李白所有古诗题目和内容数据xls格式共1107首诗</td><td><a href="https://mbd.pub/o/bread/YZWYlJxrZw==">下载</a></td></tr>
 <tr><td>空间动态风力发电预测挑战Baidu KDD CUP 2022数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJtsaw==">下载</a></td></tr>
