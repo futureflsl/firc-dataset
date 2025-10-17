@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角河道多目标垃圾检测数据集VOC+YOLO格式1736张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZZuZg==">下载</a></td></tr>
 <tr><td>肺癌和结肠癌组织病理学图像分类数据集25000张</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5uZQ==">下载</a></td></tr>
 <tr><td>传送带包裹检测计数检测数据集VOC+YOLO格式8864张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJ5raQ==">下载</a></td></tr>
 <tr><td>建筑物立面墙体缺陷漆面剥落裂缝鼓包检测数据集VOC+YOLO格式4423张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlJ1vZg==">下载</a></td></tr>
