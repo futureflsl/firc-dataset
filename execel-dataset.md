@@ -2,6 +2,12 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>全国5级河流矢量数据集shp文件.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvbA==">下载</a></td></tr>
+<tr><td>共享单车数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvaw==">下载</a></td></tr>
+<tr><td>Advertising-线性回归测试数据集csv格式.rar</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvaA==">下载</a></td></tr>
+<tr><td>大坝水库和湖泊数据集矢量文件.rar</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvZg==">下载</a></td></tr>
+<tr><td>全国县级行政区划shp文件下载.rar</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvZQ==">下载</a></td></tr>
+<tr><td>十万微博数据集csv格式.rar</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvZA==">下载</a></td></tr>
 <tr><td>31万条全国医药与采购数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9uZg==">下载</a></td></tr>
 <tr><td>2022年全国2856所高校及专业数据xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9uZQ==">下载</a></td></tr>
 <tr><td>全国418个地区-绿色金融指数和分项得分2000-2022年数据集xlsx格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlJ9uZA==">下载</a></td></tr>
