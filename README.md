@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角白天夜晚和雾天天气下的车辆检测数据集VOC+YOLO格式27648张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZlpZg==">下载</a></td></tr>
+<tr><td>无人机视角白天夜晚和雾天三种天气条件下的车辆检测数据集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZhtbA==">下载</a></td></tr>
 <tr><td>Xsteel表面缺陷数据集X-SDD热轧钢带缺陷分割数据集labelme格式1331张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZZvbA==">下载</a></td></tr>
 <tr><td>Xsteel表面缺陷数据集X-SDD热轧钢带缺陷检测数据集VOC+YOLO格式1350张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZZvag==">下载</a></td></tr>
 <tr><td>无人机视角河道多目标垃圾检测数据集VOC+YOLO格式1736张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZZuZg==">下载</a></td></tr>
