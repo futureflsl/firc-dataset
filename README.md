@@ -3,6 +3,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电池检测数据集VOC+YOLO格式1795张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsaA==">下载</a></td></tr>
+<tr><td>淋巴细胞检测数据集VOC+YOLO格式864张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsZA==">下载</a></td></tr>
+<tr><td>混凝土风化剥落检测数据集VOC+YOLO格式420张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtqZg==">下载</a></td></tr>
+<tr><td>无人机视角海岸多场景船舶检测数据集VOC+YOLO格式1954张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtpaA==">下载</a></td></tr>
+<tr><td>110kV电力设备目标检测数据集VOC+YOLO格式642张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZpuag==">下载</a></td></tr>
+<tr><td>110kV电力设备识别分割数据集labelme格式642张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZpuaQ==">下载</a></td></tr>
+<tr><td>液滴检测数据集VOC+YOLO格式6389张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZptbQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍下路面坑洞井盖裂纹检测数据集VOC+YOLO格式1687张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZpqZQ==">下载</a></td></tr>
 <tr><td>无人机视角白天夜晚和雾天天气下的车辆检测数据集VOC+YOLO格式27648张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZlpZg==">下载</a></td></tr>
 <tr><td>无人机视角白天夜晚和雾天三种天气条件下的车辆检测数据集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZhtbA==">下载</a></td></tr>
