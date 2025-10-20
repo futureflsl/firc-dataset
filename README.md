@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角鱼塘池塘面积识别分割数据集labelme格式2079张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ1uZw==">下载</a></td></tr>
 <tr><td>灭火器检测数据集VOC+YOLO格式9338张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ1rag==">下载</a></td></tr>
 <tr><td>无人机视角交通目标检测数据集VOC+YOLO格式2980张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxyag==">下载</a></td></tr>
 <tr><td>签名文本二维码印章检测数据集VOC+YOLO格式9777张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxyZA==">下载</a></td></tr>
