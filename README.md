@@ -3,6 +3,19 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角交通目标检测数据集VOC+YOLO格式2980张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxyag==">下载</a></td></tr>
+<tr><td>签名文本二维码印章检测数据集VOC+YOLO格式9777张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxyZA==">下载</a></td></tr>
+<tr><td>手机使用行为检测数据集VOC+YOLO格式1004张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxuag==">下载</a></td></tr>
+<tr><td>瓶体缺陷检测数据集.VOC+YOLO格式2986张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxsaA==">下载</a></td></tr>
+<tr><td>蜜蜂及飞行昆虫多类别检测数据集VOC+YOLO格式3630张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxsZA==">下载</a></td></tr>
+<tr><td>电力设备缺陷检测数据集VOC+YOLO格式3729张12类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxrZw==">下载</a></td></tr>
+<tr><td>街景交通物体多类别检测数据集VOC+YOLO格式2517张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxqbA==">下载</a></td></tr>
+<tr><td>医疗影像碎片检测与结构分析检测数据集VOC+YOLO格式1276张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxpaw==">下载</a></td></tr>
+<tr><td>红外电力设备检测数据集VOC+YOLO格式1473张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxpaQ==">下载</a></td></tr>
+<tr><td>海洋微塑料检测数据集VOC+YOLO格式834张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxpZQ==">下载</a></td></tr>
+<tr><td>智慧农业多类别农业害虫检测数据集VOC+YOLO格式4200张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxpZA==">下载</a></td></tr>
+<tr><td>红外热成像光伏板缺陷检测数据集VOC+YOLO格式961张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtybQ==">下载</a></td></tr>
+<tr><td>骨骼癌检测数据集VOC+YOLO格式984张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtybA==">下载</a></td></tr>
 <tr><td>电池检测数据集VOC+YOLO格式1795张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsaA==">下载</a></td></tr>
 <tr><td>淋巴细胞检测数据集VOC+YOLO格式864张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtsZA==">下载</a></td></tr>
 <tr><td>混凝土风化剥落检测数据集VOC+YOLO格式420张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZtqZg==">下载</a></td></tr>
