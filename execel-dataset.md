@@ -2,6 +2,8 @@
 <table>
 <thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>2016-2019年美国交通事故数据集225万条记录csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlZ9paA==">下载</a></td></tr>
+<tr><td>5万条IT岗位数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5yZg==">下载</a></td></tr>
 <tr><td>全国5级河流矢量数据集shp文件.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvbA==">下载</a></td></tr>
 <tr><td>共享单车数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvaw==">下载</a></td></tr>
 <tr><td>Advertising-线性回归测试数据集csv格式.rar</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvaA==">下载</a></td></tr>
