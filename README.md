@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>工业产品表面缺陷检测数据集VOC+YOLO格式1484张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5vZA==">下载</a></td></tr>
+<tr><td>高空水域分割数据集labelme格式1673张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5ubQ==">下载</a></td></tr>
+<tr><td>输变电设备目标检测数据集VOC+YOLO格式3143张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5uag==">下载</a></td></tr>
+<tr><td>电力绝缘子缺陷检测数据集VOC+YOLO格式3293张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5tbQ==">下载</a></td></tr>
+<tr><td>电力绝缘子缺陷检测数据集VOC+YOLO格式6050张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5taA==">下载</a></td></tr>
+<tr><td>草坪杂草检测数据集VOC+YOLO格式3488张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5sZw==">下载</a></td></tr>
 <tr><td>无人机视角鱼塘池塘面积识别分割数据集labelme格式2079张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ1uZw==">下载</a></td></tr>
 <tr><td>灭火器检测数据集VOC+YOLO格式9338张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ1rag==">下载</a></td></tr>
 <tr><td>无人机视角交通目标检测数据集VOC+YOLO格式2980张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZxyag==">下载</a></td></tr>
