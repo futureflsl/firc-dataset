@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角城市街道场景行人检测数据集VOC+YOLO格式10614张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpZsbQ==">下载</a></td></tr>
+<tr><td>无人机视角烟火火焰火灾烟雾检测数据集VOC+YOLO格式13103张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpZrZQ==">下载</a></td></tr>
 <tr><td>工业产品表面缺陷检测数据集VOC+YOLO格式1484张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5vZA==">下载</a></td></tr>
 <tr><td>高空水域分割数据集labelme格式1673张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5ubQ==">下载</a></td></tr>
 <tr><td>输变电设备目标检测数据集VOC+YOLO格式3143张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5uag==">下载</a></td></tr>
