@@ -1,6 +1,6 @@
 温馨提示：该数据集以txt,xlsx,xls,csv,json格式文本新数据为主<br>
 <table>
-<thead><tr><th>版本名称</th><th>下载地址</th></tr></thead>
+<thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
 <tr><td>2016-2019年美国交通事故数据集225万条记录csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlZ9paA==">下载</a></td></tr>
 <tr><td>5万条IT岗位数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5yZg==">下载</a></td></tr>
