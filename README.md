@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>成人和小孩检测数据集VOC+YOLO格式1738张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpdqag==">下载</a></td></tr>
 <tr><td>无人机视角多种工程车辆检测数据集VOC+YOLO格式1138张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpdqZw==">下载</a></td></tr>
 <tr><td>无人机视角露营帐篷检测数据集VOC+YOLO格式1631张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpdpZQ==">下载</a></td></tr>
 <tr><td>无人机视角城市街道场景行人检测数据集VOC+YOLO格式10614张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpZsbQ==">下载</a></td></tr>
