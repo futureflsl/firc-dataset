@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>墙壁裂纹裂缝缺陷检测数据集VOC+YOLO格式2920张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlppqaQ==">下载</a></td></tr>
+<tr><td>桥梁缺陷渗水长草损坏检测数据集VOC+YOLO格式815张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlppqZA==">下载</a></td></tr>
+<tr><td>桥梁道路裂缝检测数据集VOC+YOLO格式2045张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlplyZg==">下载</a></td></tr>
 <tr><td>电力场景下人员安全帽检测数据集VOC+YOLO格式5000张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlphsZg==">下载</a></td></tr>
 <tr><td>灌装饮料检测数据集VOC+YOLO格式1673张21类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlphrZg==">下载</a></td></tr>
 <tr><td>成人和小孩检测数据集VOC+YOLO格式1738张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpdqag==">下载</a></td></tr>
