@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>苹果叶子病害检测数据集VOC+YOLO格式8223张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpttaw==">下载</a></td></tr>
+<tr><td>建筑工地智能危险检测数据集VOC+YOLO格式5155张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpttZQ==">下载</a></td></tr>
+<tr><td>工地电力设备安全帽佩戴检测数据集VOC+YOLO格式4999张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlptsaQ==">下载</a></td></tr>
 <tr><td>无人机视角建筑工地屋顶盆栽水箱塑料棚子检测数据集VOC+YOLO格式2520张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlppubA==">下载</a></td></tr>
 <tr><td>墙壁裂纹裂缝缺陷检测数据集VOC+YOLO格式2920张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlppqaQ==">下载</a></td></tr>
 <tr><td>桥梁缺陷渗水长草损坏检测数据集VOC+YOLO格式815张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlppqZA==">下载</a></td></tr>
