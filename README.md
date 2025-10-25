@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机山区高海拔高隐蔽地区绵羊检测数据集VOC+YOLO格式4046张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlp9xag==">下载</a></td></tr>
 <tr><td>车辆类型识别检测数据集VOC+YOLO格式2937张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlp5wbQ==">下载</a></td></tr>
 <tr><td>水稻叶子病害检测数据集VOC+YOLO格式1578张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlp5pag==">下载</a></td></tr>
 <tr><td>苹果叶子病害检测数据集VOC+YOLO格式8223张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYlpttaw==">下载</a></td></tr>
