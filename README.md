@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>输电线路绝缘子缺陷检测数据集VOC+YOLO格式4061张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYl5xyZQ==">下载</a></td></tr>
+<tr><td>输电线路绝缘子缺陷检测图像数据集VOC+YOLO格式1578张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYl5xxaA==">下载</a></td></tr>
 <tr><td>无人机视角道路垃圾检测数据集VOC+YOLO格式6232张64类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYl5ptZQ==">下载</a></td></tr>
 <tr><td>输电线路金具检测数据集VOC+YOLO格式6529张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYl5luag==">下载</a></td></tr>
 <tr><td>古籍影文公开古籍OCR检测数据集VOC格式共计8个文件</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYl5lrbQ==">下载</a></td></tr>
