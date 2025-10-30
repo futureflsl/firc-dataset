@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机巡检数据集马路路沿分割识别数据集labelme格式4953张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1paw==">下载</a></td></tr>
 <tr><td>交通违法拍照接打电话不系安全带行为检测数据集VOC+YOLO格式8544张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJppZQ==">下载</a></td></tr>
 <tr><td>打电话玩手机识别检测数据集VOC+YOLO格式1275张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJlyaQ==">下载</a></td></tr>
 <tr><td>细菌弯曲杆菌葡萄球菌肺炎链球菌检测数据集VOC+YOLO格式5936张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJhsaA==">下载</a></td></tr>
