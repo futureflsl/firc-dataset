@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角巡检钢索拉丝大桥桥梁腐蚀缺陷病害检测数据集VOC+YOLO格式1181张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1vZg==">下载</a></td></tr>
+<tr><td>无人机视角山体滑坡检测数据集VOC+YOLO格式3452张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1tZQ==">下载</a></td></tr>
+<tr><td>智慧工地无人机视角卡车工人挖掘机检测数据集VOC+YOLO格式399张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1sbQ==">下载</a></td></tr>
+<tr><td>智慧畜牧业奶牛行为姿态站趟检测数据集VOC+YOLO格式602张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1saw==">下载</a></td></tr>
 <tr><td>无人机巡检数据集马路路沿分割识别数据集labelme格式4953张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1paw==">下载</a></td></tr>
 <tr><td>交通违法拍照接打电话不系安全带行为检测数据集VOC+YOLO格式8544张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJppZQ==">下载</a></td></tr>
 <tr><td>打电话玩手机识别检测数据集VOC+YOLO格式1275张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJlyaQ==">下载</a></td></tr>
