@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角巡检数据集航拍建筑废物垃圾检测数据集VOC+YOLO格式3382张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ5pZA==">下载</a></td></tr>
+<tr><td>无人机视角公园街道垃圾检测数据集VOC+YOLO格式771张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ5qaQ==">下载</a></td></tr>
 <tr><td>无人机视角巡检钢索拉丝大桥桥梁腐蚀缺陷病害检测数据集VOC+YOLO格式1181张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1vZg==">下载</a></td></tr>
 <tr><td>无人机视角山体滑坡检测数据集VOC+YOLO格式3452张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1tZQ==">下载</a></td></tr>
 <tr><td>智慧工地无人机视角卡车工人挖掘机检测数据集VOC+YOLO格式399张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmJ1sbQ==">下载</a></td></tr>
