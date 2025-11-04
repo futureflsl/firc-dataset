@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>空中无人机飞鸟飞机检测数据集VOC+YOLO格式4718张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmZ9pag==">下载</a></td></tr>
 <tr><td>果蔬检测数据集VOC+YOLO格式16099张72类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmZ1paw==">下载</a></td></tr>
 <tr><td>珊瑚白化分类数据集923张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmZxvZQ==">下载</a></td></tr>
 <tr><td>人脸口罩佩戴不规范检测数据集VOC+YOLO格式4976张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmZltZQ==">下载</a></td></tr>
