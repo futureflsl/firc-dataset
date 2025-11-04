@@ -2,6 +2,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>癫痫发作识别数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYmZ9saA==">下载</a></td></tr>
+<tr><td>药物数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYl5ZxZA==">下载</a></td></tr>
+<tr><td>药物数据集用途副作用和用户评论csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYl5Zwaw==">下载</a></td></tr>
+<tr><td>新能源汽车故障诊断数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYl5ZpZw==">下载</a></td></tr>
 <tr><td>2016-2019年美国交通事故数据集225万条记录csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlZ9paA==">下载</a></td></tr>
 <tr><td>5万条IT岗位数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYlZ5yZg==">下载</a></td></tr>
 <tr><td>全国5级河流矢量数据集shp文件.zip</td><td><a href="https://mbd.pub/o/bread/YZWYlZdvbA==">下载</a></td></tr>
