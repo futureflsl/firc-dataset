@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>心电图心跳分类数据集csv格式</td><td><a href="https://mbd.pub/o/bread/mbd-aJeVlZhx">下载</a></td></tr>
 <tr><td>癫痫发作识别数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYmZ9saA==">下载</a></td></tr>
 <tr><td>药物数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYl5ZxZA==">下载</a></td></tr>
 <tr><td>药物数据集用途副作用和用户评论csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYl5Zwaw==">下载</a></td></tr>
