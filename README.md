@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>热成像地雷检测数据集VOC+YOLO格式2909张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpdpZQ==">下载</a></td></tr>
 <tr><td>装甲板检测数据集VOC+YOLO格式1125张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpZyaQ==">下载</a></td></tr>
 <tr><td>水稻种子分类数据集11202张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpZyZw==">下载</a></td></tr>
 <tr><td>无人机视角轨道巡检火车铁轨轨道缺陷检测数据集VOC+YOLO格式1876张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpZvbA==">下载</a></td></tr>
