@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角红外光伏太阳能电板旁路二极管单元故障热斑缺陷检测数据集VOC+YOLO格式2187张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpZsaA==">下载</a></td></tr>
 <tr><td>智慧交通铁轨铁路站台人行道分割数据集labelme格式775张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmZ9uag==">下载</a></td></tr>
 <tr><td>空中无人机飞鸟飞机检测数据集VOC+YOLO格式4718张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmZ9pag==">下载</a></td></tr>
 <tr><td>果蔬检测数据集VOC+YOLO格式16099张72类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmZ1paw==">下载</a></td></tr>
