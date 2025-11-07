@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角巡检露天停车场车位识别车位占用检测数据集VOC+YOLO格式1148张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppqZw==">下载</a></td></tr>
+<tr><td>智慧医疗手术器械针驱动器左右手镊子模拟器检测数据集VOC+YOLO格式505张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpppbA==">下载</a></td></tr>
 <tr><td>智慧医疗牙齿缺失检测数据集VOC+YOLO格式1153张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmphxbA==">下载</a></td></tr>
 <tr><td>热成像地雷检测数据集VOC+YOLO格式2909张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpdpZQ==">下载</a></td></tr>
 <tr><td>装甲板检测数据集VOC+YOLO格式1125张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpZyaQ==">下载</a></td></tr>
