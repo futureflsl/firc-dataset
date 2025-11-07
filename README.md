@@ -1386,7 +1386,7 @@
 <tr><td>电力场景配电变压器检测数据集VOC+YOLO格式2994张1类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141473678">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>电力场景输电线路螺栓销钉缺失检测数据集VOC+YOLO格式2504张4类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141473422">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>电力场景变电站控制柜状态检测数据集VOC+YOLO格式3000张16类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141465891">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]电力场景红外图像开关柜接头过热部件检测数据集VOC+YOLO格式4271张14类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141463857">详情</a></td><td><a href="info.md">下载</a></td></tr>
+<tr><td>[数据集][目标检测]电力场景红外图像开关柜接头过热部件检测数据集VOC+YOLO格式4271张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmptpag==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景配电柜光按钮检测数据集VOC+YOLO格式769张1类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141462620">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>电力场景变电站继电保护控制柜屏幕检测数据集VOC+YOLO格式1103张6类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141462134">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>电力场景红外图像电力设备部件检测数据集VOC+YOLO格式3930张7类别</td><td><a href="https://blog.csdn.net/FL1768317420/article/details/141456060">详情</a></td><td><a href="info.md">下载</a></td></tr>
