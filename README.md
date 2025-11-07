@@ -3,6 +3,17 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>虾识别检测数据集VOC+YOLO格式3077张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppxZA==">下载</a></td></tr>
+<tr><td>虾识别分割数据集labelme格式3077张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppwZw==">下载</a></td></tr>
+<tr><td>食品罐头表面缺陷检测数据集VOC+YOLO格式8095张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppvZA==">下载</a></td></tr>
+<tr><td>食品罐头表面缺陷凹陷生锈检测数据集VOC+YOLO格式6154张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpptaw==">下载</a></td></tr>
+<tr><td>易拉罐缺陷划痕空洞检测数据集VOC+YOLO格式854张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpptaQ==">下载</a></td></tr>
+<tr><td>塑料缺陷检测数据集可识别污垢划痕碎片数据集VOC+YOLO格式5315张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpptaA==">下载</a></td></tr>
+<tr><td>鸡蛋质量检测血斑蛋褐壳蛋钙沉积蛋污渍蛋白壳蛋数据集VOC+YOLO格式122张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpptZQ==">下载</a></td></tr>
+<tr><td>微生物藻类检测数据集VOC+YOLO格式4446张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppsbA==">下载</a></td></tr>
+<tr><td>水源性细菌微生物藻类检测数据集VOC+YOLO格式1438张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppsaw==">下载</a></td></tr>
+<tr><td>睡觉和没睡觉识别检测数据集VOC+YOLO格式511张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppsaQ==">下载</a></td></tr>
+<tr><td>鸡蛋受精未受精识别检测数据集VOC+YOLO格式773张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppqag==">下载</a></td></tr>
 <tr><td>无人机视角巡检露天停车场车位识别车位占用检测数据集VOC+YOLO格式1148张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppqZw==">下载</a></td></tr>
 <tr><td>智慧医疗手术器械针驱动器左右手镊子模拟器检测数据集VOC+YOLO格式505张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpppbA==">下载</a></td></tr>
 <tr><td>智慧医疗牙齿缺失检测数据集VOC+YOLO格式1153张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmphxbA==">下载</a></td></tr>
