@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>PCB板缺陷检测数据集VOC+YOLO格式7971张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpttZQ==">下载</a></td></tr>
 <tr><td>虾识别检测数据集VOC+YOLO格式3077张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppxZA==">下载</a></td></tr>
 <tr><td>虾识别分割数据集labelme格式3077张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppwZw==">下载</a></td></tr>
 <tr><td>食品罐头表面缺陷检测数据集VOC+YOLO格式8095张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppvZA==">下载</a></td></tr>
