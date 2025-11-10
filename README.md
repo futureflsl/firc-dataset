@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角铁路障碍物检测数据集VOC+YOLO格式1913张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5dvaQ==">下载</a></td></tr>
+<tr><td>遥感航拍泥石流滑坡识别分割数据集labelme格式2262张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5dvaA==">下载</a></td></tr>
+<tr><td>葡萄叶子病害检测数据集VOC+YOLO格式1834张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5dvZw==">下载</a></td></tr>
+<tr><td>苹果叶子病害识别分割数据集labelme格式595张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5dvZg==">下载</a></td></tr>
+<tr><td>芸豆叶子病害检测数据集VOC+YOLO格式1762张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5dvZQ==">下载</a></td></tr>
+<tr><td>机油泄露目标检测数据集VOC+YOLO格式103张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpxtbA==">下载</a></td></tr>
 <tr><td>PCB板缺陷检测数据集VOC+YOLO格式7971张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmpttZQ==">下载</a></td></tr>
 <tr><td>虾识别检测数据集VOC+YOLO格式3077张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppxZA==">下载</a></td></tr>
 <tr><td>虾识别分割数据集labelme格式3077张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYmppwZw==">下载</a></td></tr>
