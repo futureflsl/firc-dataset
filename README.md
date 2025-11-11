@@ -1,5 +1,6 @@
 推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10及以上，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
-数据集表格形式访问：https://www.kdocs.cn/l/cgD4Mlip5SF9
+数据集表格形式访问：https://www.kdocs.cn/l/cgD4Mlip5SF9<br>
+温馨提示：如需开具发票的请直接联系微信fl176831购买，备注数据集要发票<br>
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
