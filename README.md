@@ -4,6 +4,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>输电线路红外图像与可见光图像融合数据集含分割标签红外图像为CSV格式需转换可用图像配准</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5xpZA==">下载</a></td></tr>
+<tr><td>鱼身上疾病检测数据集VOC+YOLO格式914张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5twZA==">下载</a></td></tr>
 <tr><td>智慧工地城建塔吊挂钩吊物工地人员检测数据集VOC+YOLO格式1006张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5tsZQ==">下载</a></td></tr>
 <tr><td>无人机视角井盖破损未盖井盖异常状态检测数据集VOC+YOLO格式4617张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5hsZw==">下载</a></td></tr>
 <tr><td>无人机视角铁路障碍物检测数据集VOC+YOLO格式1913张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5dvaQ==">下载</a></td></tr>
