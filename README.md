@@ -4,6 +4,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>煤和传送带皮带识别分割数据集labelme格式970张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm51xag==">下载</a></td></tr>
+<tr><td>智慧工厂红外气体泄漏检测数据集VOC+YOLO格式1612张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm51uaA==">下载</a></td></tr>
+<tr><td>红外气体泄漏分割数据集labelme格式1612张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52cm51u">下载</a></td></tr>
 <tr><td>NBI医学影像喉部疾病检测数据集VOC+YOLO格式8571张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWYm51paA==">下载</a></td></tr>
 <tr><td>176类森林树叶图像分类数据集18352张176类含测试集8801张</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm51qbA==">下载</a></td></tr>
 <tr><td>汽车表面划痕部件损坏缺陷检测数据集VOC YOLO格式7802张31类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm5xtaA==">下载</a></td></tr>
