@@ -2,6 +2,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>全球道路交通事故数据2000-2024年csv格式</td><td><a href="https://mbd.pub/o/bread/YZWYm51pZg==">下载</a></td></tr>
+<tr><td>基于美团医美消费数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYm5lqaw==">下载</a></td></tr>
+<tr><td>上海逐小时气温数据1980-2023ERA5数据集xlsx格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYm5lpbQ==">下载</a></td></tr>
+<tr><td>50w用户购买的数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWYmptwaQ==">下载</a></td></tr>
 <tr><td>心电图心跳分类数据集csv格式</td><td><a href="https://mbd.pub/o/bread/mbd-aJeVlZhx">下载</a></td></tr>
 <tr><td>癫痫发作识别数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYmZ9saA==">下载</a></td></tr>
 <tr><td>药物数据集csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYl5ZxZA==">下载</a></td></tr>
