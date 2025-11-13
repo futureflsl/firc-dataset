@@ -4,6 +4,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角智慧交通拥堵识别分割数据集labelme格式2392张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59sbA==">下载</a></td></tr>
+<tr><td>玉米粒质量好坏检测数据集VOC+YOLO格式1337张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59sZA==">下载</a></td></tr>
+<tr><td>电力场景线缆故障绝缘子缺失生锈检测数据集VOC+YOLO格式8487张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59rbA==">下载</a></td></tr>
+<tr><td>智慧养殖羊圈羊行为识别羊状态检测数据集VOC+YOLO格式9652张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59rag==">下载</a></td></tr>
+<tr><td>真假人脸检测伪人脸检测数据集VOC+YOLO格式4520张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59raA==">下载</a></td></tr>
 <tr><td>煤和传送带皮带识别分割数据集labelme格式970张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm51xag==">下载</a></td></tr>
 <tr><td>智慧工厂红外气体泄漏检测数据集VOC+YOLO格式1612张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm51uaA==">下载</a></td></tr>
 <tr><td>红外气体泄漏分割数据集labelme格式1612张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/Z52cm51u">下载</a></td></tr>
