@@ -4,6 +4,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>皮肤皱纹与无皱纹分类数据集5994张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphvag==">下载</a></td></tr>
+<tr><td>猪圈里的猪行为识别吃喝喝睡觉站立等行为检测数据集VOC+YOLO格式630张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphvaQ==">下载</a></td></tr>
+<tr><td>发霉橙子橘子好坏检测数据集VOC+YOLO格式3039张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpdwaw==">下载</a></td></tr>
+<tr><td>智慧医疗废弃物检测数据集VOC+YOLO格式3809张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpdwZg==">下载</a></td></tr>
+<tr><td>无人机频射信号检测数据集VOC+YOLO格式318张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpZyaw==">下载</a></td></tr>
+<tr><td>针织品瑕疵检测数据集VOC+YOLO格式391张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpZxaA==">下载</a></td></tr>
+<tr><td>肉质评估分类数据集1896张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpZtaQ==">下载</a></td></tr>
+<tr><td>中科大的500-CSL数据集500类中文手语单词数据集已转化为mat格式</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpZrZQ==">下载</a></td></tr>
 <tr><td>电力场景绝缘子缺陷识别检测数据集VOC+YOLO格式1598张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59xbQ==">下载</a></td></tr>
 <tr><td>无人机视角智慧交通拥堵识别分割数据集labelme格式2392张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59sbA==">下载</a></td></tr>
 <tr><td>玉米粒质量好坏检测数据集VOC+YOLO格式1337张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWYm59sZA==">下载</a></td></tr>
