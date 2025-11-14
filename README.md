@@ -4,6 +4,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角车辆检测数据集VOC+YOLO格式9834张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkptuaQ==">下载</a></td></tr>
+<tr><td>煤矿煤质分类数据集3406张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpprag==">下载</a></td></tr>
+<tr><td>红外图像行人车辆检测数据集VOC+YOLO格式7543张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkplxZw==">下载</a></td></tr>
+<tr><td>无人机视角行人车辆检测数据集VOC+YOLO格式9827张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkplraA==">下载</a></td></tr>
 <tr><td>无人机视角航拍巡检河边河道垂钓和人员溺水检测数据集VOC+YOLO格式1371张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphxbA==">下载</a></td></tr>
 <tr><td>智慧医疗舌象舌苔疾病识别检测数据集VOC+YOLO格式2361张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphxZQ==">下载</a></td></tr>
 <tr><td>智慧医疗舌象舌苔疾病识别分割数据集labelme格式2361张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkphwbQ==">下载</a></td></tr>
