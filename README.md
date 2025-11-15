@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>鸡蛋检测数据集VOC+YOLO格式2136张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpxrbQ==">下载</a></td></tr>
 <tr><td>无人机视角车辆检测数据集VOC+YOLO格式9834张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkptuaQ==">下载</a></td></tr>
 <tr><td>煤矿煤质分类数据集3406张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpprag==">下载</a></td></tr>
 <tr><td>红外图像行人车辆检测数据集VOC+YOLO格式7543张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkplxZw==">下载</a></td></tr>
