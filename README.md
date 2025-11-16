@@ -4,6 +4,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>香蕉叶子病害识别分割数据集labelme格式904张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5ZvbQ==">下载</a></td></tr>
+<tr><td>香蕉叶子病害检测数据集VOC+YOLO格式6113张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5ZsaA==">下载</a></td></tr>
+<tr><td>香蕉叶子病害分类数据集898张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5Zpaw==">下载</a></td></tr>
 <tr><td>电力场景无人机训练输电线杆塔缺陷检测数据集VOC+YOLO格式2547张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp9pbQ==">下载</a></td></tr>
 <tr><td>电力场景无人机巡检数据集杆塔缺陷检测数据集VOC+YOLO格式1720张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5xbA==">下载</a></td></tr>
 <tr><td>癌症检测血细胞识别检测数据集VOC+YOLO格式4918张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5qaQ==">下载</a></td></tr>
