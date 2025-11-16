@@ -4,6 +4,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>癌症检测血细胞识别检测数据集VOC+YOLO格式4918张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5qaQ==">下载</a></td></tr>
+<tr><td>癌症检测血细胞识别分割数据集labelme格式4918张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5qaA==">下载</a></td></tr>
+<tr><td>超声图像多囊卵巢综合症检测数据集VOC+YOLO格式4527张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5paw==">下载</a></td></tr>
+<tr><td>口腔癌病理染色组织切片图片分类数据集11303张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5pag==">下载</a></td></tr>
+<tr><td>超声图像多囊卵巢综合症分类数据集4637张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5paQ==">下载</a></td></tr>
+<tr><td>癌症检测血细胞分类数据集499张5类别已划分好训练验证测试集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5paA==">下载</a></td></tr>
+<tr><td>智慧交通自动驾驶场景道路异常检测数据集VOC+YOLO格式8302张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp5pZw==">下载</a></td></tr>
+<tr><td>牡蛎状态检测数据集VOC+YOLO格式1025张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp1taw==">下载</a></td></tr>
+<tr><td>孢子检测数据集VOC+YOLO格式522张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkp1rbQ==">下载</a></td></tr>
 <tr><td>鸡蛋检测数据集VOC+YOLO格式2136张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpxrbQ==">下载</a></td></tr>
 <tr><td>无人机视角车辆检测数据集VOC+YOLO格式9834张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkptuaQ==">下载</a></td></tr>
 <tr><td>煤矿煤质分类数据集3406张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZkpprag==">下载</a></td></tr>
