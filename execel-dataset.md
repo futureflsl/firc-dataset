@@ -2,6 +2,13 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>屏幕时间与心理健康调查2025数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxwZQ==">下载</a></td></tr>
+<tr><td>人工智能对数字媒体的影响 (2020-2025)数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxuaA==">下载</a></td></tr>
+<tr><td>各国GDP数据集2020-2025csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxtZA==">下载</a></td></tr>
+<tr><td>电动汽车规格数据集2025年470+电动汽车规格电池续航充电尺寸和性能数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxsbQ==">下载</a></td></tr>
+<tr><td>1872年至2025年的国际足球比赛结果超过47000场数据csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxsaw==">下载</a></td></tr>
+<tr><td>全球所有国家经纬度xlsx格式和csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxsaQ==">下载</a></td></tr>
+<tr><td>中国所有城市的经纬度json格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxsag==">下载</a></td></tr>
 <tr><td>中国219个地面国际交换站气候值数据集1991-2020年csv格式</td><td><a href="https://mbd.pub/o/bread/YZWZkpdubA==">下载</a></td></tr>
 <tr><td>全球道路交通事故数据2000-2024年csv格式</td><td><a href="https://mbd.pub/o/bread/YZWYm51pZg==">下载</a></td></tr>
 <tr><td>基于美团医美消费数据csv格式.7z</td><td><a href="https://mbd.pub/o/bread/YZWYm5lqaw==">下载</a></td></tr>
