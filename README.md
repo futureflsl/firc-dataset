@@ -4,6 +4,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角森林倒树识别分割数据集labelme格式5018张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5luZA==">下载</a></td></tr>
+<tr><td>无人机视角城市道路树木识别分割数据集labelme格式2029张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5lrbA==">下载</a></td></tr>
+<tr><td>智慧工地裸土未覆盖识别分割数据集labelme格式90张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5lqaQ==">下载</a></td></tr>
 <tr><td>香蕉叶子病害识别分割数据集labelme格式904张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5ZvbQ==">下载</a></td></tr>
 <tr><td>香蕉叶子病害检测数据集VOC+YOLO格式6113张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5ZsaA==">下载</a></td></tr>
 <tr><td>香蕉叶子病害分类数据集898张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5Zpaw==">下载</a></td></tr>
