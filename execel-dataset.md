@@ -2,6 +2,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>韩国电力负荷预测数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwaQ==">下载</a></td></tr>
+<tr><td>电力负载数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwaA==">下载</a></td></tr>
+<tr><td>电力系统故障数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwZw==">下载</a></td></tr>
+<tr><td>巴拿马电力负荷预测数据csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwZg==">下载</a></td></tr>
+<tr><td>智能电网实时负荷监测数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwZQ==">下载</a></td></tr>
 <tr><td>屏幕时间与心理健康调查2025数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxwZQ==">下载</a></td></tr>
 <tr><td>人工智能对数字媒体的影响 (2020-2025)数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxuaA==">下载</a></td></tr>
 <tr><td>各国GDP数据集2020-2025csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZkpxtZA==">下载</a></td></tr>
