@@ -4,6 +4,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景输电线导线散股检测数据集VOC+YOLO格式3890张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5tuaA==">下载</a></td></tr>
+<tr><td>卫星图像变电站检测数据集VOC+YOLO格式1080张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5tuZQ==">下载</a></td></tr>
 <tr><td>无人机视角森林倒树识别分割数据集labelme格式5018张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5luZA==">下载</a></td></tr>
 <tr><td>无人机视角城市道路树木识别分割数据集labelme格式2029张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5lrbA==">下载</a></td></tr>
 <tr><td>智慧工地裸土未覆盖识别分割数据集labelme格式90张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5lqaQ==">下载</a></td></tr>
@@ -1074,7 +1076,6 @@
 <tr><td>[数据集][目标检测]管道漏水泄漏破损检测数据集VOC+YOLO格式2614张4类</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141528555">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景输电线悬垂线夹检测数据集VOC+YOLO格式2538张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141496586">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景输电线防震锤检测数据集VOC+YOLO格式2721张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141496042">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]电力场景输电线导线散股检测数据集VOC+YOLO格式3890张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141474618">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]风力发电机叶片损伤检测数据集VOC+YOLO格式5029张8类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141472971">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电力场景红外图像输电线路绝缘子检测数据集VOC+YOLO格式1846张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141471585">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]考场行为作弊检测数据集VOC+YOLO格式4413张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141467346">详情</a></td><td><a href="info.md">下载</a></td></tr>
