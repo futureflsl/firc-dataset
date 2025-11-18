@@ -4,6 +4,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>山体滑坡落石识别分割数据集labelme格式519张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk55rZQ==">下载</a></td></tr>
+<tr><td>智慧交通地质灾害检测马路边滑坡公路落石倒树检测数据集VOC+YOLO格式958张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk55paA==">下载</a></td></tr>
+<tr><td>智慧铁路巡检隧道渗水地铁隧道漏水检测数据集VOC+YOLO格式2575张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk55pZg==">下载</a></td></tr>
 <tr><td>HazyDet航拍数据集无人机视角雾天车辆检测数据集VOC+YOLO格式11000张3类别已划分好数据集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5xqZQ==">下载</a></td></tr>
 <tr><td>智慧交通道路交通事故检测数据集VOC+YOLO格式1741张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5xpZg==">下载</a></td></tr>
 <tr><td>无人机视角红外图像人员搜救检测数据集VOC+YOLO格式19863张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5tyaA==">下载</a></td></tr>
