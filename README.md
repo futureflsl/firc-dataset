@@ -4,6 +4,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>HazyDet航拍数据集无人机视角雾天车辆检测数据集VOC+YOLO格式11000张3类别已划分好数据集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5xqZQ==">下载</a></td></tr>
+<tr><td>智慧交通道路交通事故检测数据集VOC+YOLO格式1741张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5xpZg==">下载</a></td></tr>
+<tr><td>无人机视角红外图像人员搜救检测数据集VOC+YOLO格式19863张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5tyaA==">下载</a></td></tr>
 <tr><td>电力场景输电线导线散股检测数据集VOC+YOLO格式3890张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5tuaA==">下载</a></td></tr>
 <tr><td>卫星图像变电站检测数据集VOC+YOLO格式1080张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5tuZQ==">下载</a></td></tr>
 <tr><td>无人机视角森林倒树识别分割数据集labelme格式5018张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk5luZA==">下载</a></td></tr>
