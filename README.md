@@ -4,6 +4,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>轮椅拐杖检测数据集VOC+YOLO格式8995张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJxtZw==">下载</a></td></tr>
+<tr><td>轮椅识别检测数据集VOC+YOLO格式5218张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJxrZQ==">下载</a></td></tr>
 <tr><td>大蒜叶子病虫害蒜苗蒜叶病害检测数据集VOC+YOLO格式318张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJZsZg==">下载</a></td></tr>
 <tr><td>智慧医疗脊柱侧弯X射线检测数据集VOC+YOLO格式1736张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk59vZw==">下载</a></td></tr>
 <tr><td>山体滑坡落石识别分割数据集labelme格式519张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZk55rZQ==">下载</a></td></tr>
