@@ -4,6 +4,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>番茄叶片病害识别分割数据集labelme格式5000张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ1qZg==">下载</a></td></tr>
+<tr><td>番茄叶子叶片病害检测数据集VOC+YOLO格式2396张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ1pbQ==">下载</a></td></tr>
+<tr><td>番茄叶片病害检测数据集VOC+YOLO格式4743张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ1pZg==">下载</a></td></tr>
 <tr><td>轮椅拐杖检测数据集VOC+YOLO格式8995张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJxtZw==">下载</a></td></tr>
 <tr><td>轮椅识别检测数据集VOC+YOLO格式5218张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJxrZQ==">下载</a></td></tr>
 <tr><td>大蒜叶子病虫害蒜苗蒜叶病害检测数据集VOC+YOLO格式318张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJZsZg==">下载</a></td></tr>
