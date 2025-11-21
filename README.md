@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通地铁闯闸机翻越闸机地铁逃票检测数据集VOC+YOLO格式125张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlZpqbA==">下载</a></td></tr>
 <tr><td>水渠河道水体识别分割数据集labelme格式2812张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ9raA==">下载</a></td></tr>
 <tr><td>电缆电力设施杆塔识别分割数据集labelme格式2369张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ9qaA==">下载</a></td></tr>
 <tr><td>工业仪表盘指针位置检测数据集VOC+YOLO格式9052张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ5wZw==">下载</a></td></tr>
