@@ -4,6 +4,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>水渠河道水体识别分割数据集labelme格式2812张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ9raA==">下载</a></td></tr>
+<tr><td>电缆电力设施杆塔识别分割数据集labelme格式2369张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ9qaA==">下载</a></td></tr>
+<tr><td>工业仪表盘指针位置检测数据集VOC+YOLO格式9052张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ5wZw==">下载</a></td></tr>
+<tr><td>螺丝型号检测数据集VOC+YOLO格式246张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ5vaw==">下载</a></td></tr>
 <tr><td>番茄叶片病害识别分割数据集labelme格式5000张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ1qZg==">下载</a></td></tr>
 <tr><td>番茄叶子叶片病害检测数据集VOC+YOLO格式2396张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ1pbQ==">下载</a></td></tr>
 <tr><td>番茄叶片病害检测数据集VOC+YOLO格式4743张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlJ1pZg==">下载</a></td></tr>
