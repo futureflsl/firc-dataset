@@ -2,6 +2,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>发动机故障检测数据数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZlppyaA==">下载</a></td></tr>
 <tr><td>韩国电力负荷预测数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwaQ==">下载</a></td></tr>
 <tr><td>电力负载数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwaA==">下载</a></td></tr>
 <tr><td>电力系统故障数据集csv格式.zip</td><td><a href="https://mbd.pub/o/bread/YZWZk5hwZw==">下载</a></td></tr>
