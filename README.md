@@ -4,6 +4,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>水果蔬菜图像分类数据集3825张35类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlptpZA==">下载</a></td></tr>
+<tr><td>猫脸检测12种猫分类数据集2400张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlppsbA==">下载</a></td></tr>
 <tr><td>CT图像脑出血诊断检测数据集VOC+YOLO格式3568张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlppraQ==">下载</a></td></tr>
 <tr><td>电动汽车充电插口定位识别数据集充电设备接口识别分割数据集labelme格式363张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlppqbA==">下载</a></td></tr>
 <tr><td>无人机俯视视角下农村宅基地建筑分割检测数据集labelme格式8510张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlphubA==">下载</a></td></tr>
