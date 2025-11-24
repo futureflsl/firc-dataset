@@ -4,6 +4,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角航拍巡检河道识别分割数据集labelme格式646张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlpxpag==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道漂浮物垃圾识别分割数据集labelme格式256张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlpxpaA==">下载</a></td></tr>
+<tr><td>智慧果园树上苹果检测数据集VOC+YOLO格式4459张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlptwZg==">下载</a></td></tr>
+<tr><td>智慧城市标石电线杆光交箱人井检测数据集VOC+YOLO格式2000张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlptubQ==">下载</a></td></tr>
 <tr><td>水果蔬菜图像分类数据集3825张35类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlptpZA==">下载</a></td></tr>
 <tr><td>猫脸检测12种猫分类数据集2400张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlppsbA==">下载</a></td></tr>
 <tr><td>CT图像脑出血诊断检测数据集VOC+YOLO格式3568张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlppraQ==">下载</a></td></tr>
