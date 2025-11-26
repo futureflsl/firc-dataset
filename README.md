@@ -4,6 +4,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧铁路轨道地面箱体电线分割数据集labelme格式534张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xbQ==">下载</a></td></tr>
+<tr><td>高空作业场景施工人员安全带检测数据集VOC+YOLO格式999张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xZw==">下载</a></td></tr>
+<tr><td>无人机视角棕榈树检测数据集VOC+YOLO格式338张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xZg==">下载</a></td></tr>
+<tr><td>施工人员及安全带检测数据集VOC+YOLO格式2081张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xaQ==">下载</a></td></tr>
 <tr><td>智慧交通高速公路车道抛洒物车道异物检测数据集VOC+YOLO格式232张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlpxvbA==">下载</a></td></tr>
 <tr><td>无人机视角航拍巡检河道识别分割数据集labelme格式646张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlpxpag==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道漂浮物垃圾识别分割数据集labelme格式256张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlpxpaA==">下载</a></td></tr>
