@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>微生物显微图像目标检测数据集VOC+YOLO格式1534张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp9vZA==">下载</a></td></tr>
 <tr><td>智慧铁路轨道地面箱体电线分割数据集labelme格式534张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xbQ==">下载</a></td></tr>
 <tr><td>高空作业场景施工人员安全带检测数据集VOC+YOLO格式999张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xZw==">下载</a></td></tr>
 <tr><td>无人机视角棕榈树检测数据集VOC+YOLO格式338张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZlp5xZg==">下载</a></td></tr>
