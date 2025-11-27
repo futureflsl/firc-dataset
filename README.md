@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>高铁受电弓检测数据集VOC+YOLO格式1245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5hsag==">下载</a></td></tr>
 <tr><td>房屋窗户玻璃损伤缺陷检测数据集VOC+YOLO格式3086张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5ZwaA==">下载</a></td></tr>
 <tr><td>布料外观缺陷检测数据集VOC+YOLO格式2123张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5ZpZA==">下载</a></td></tr>
 <tr><td>布料缺陷检测数据集VOC+YOLO格式1858张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5ZubA==">下载</a></td></tr>
@@ -1066,7 +1067,6 @@
 <tr><td>数据集VOC格式打电话检测数据集-5364张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142179882">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]学生课堂行为检测数据集VOC+YOLO格式5622张7类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142171167">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]烟叶病害检测数据集VOC+YOLO格式612张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142156258">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]高铁受电弓检测数据集VOC+YOLO格式1245张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142151009">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]汽车头部尾部检测数据集VOC+YOLO格式5319张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142144187">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]遗失物遗落物检测数据集VOC+YOLO格式2173张52类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142103516">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]乱堆物料检测数据集VOC+YOLO格式1143张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/142101035">详情</a></td><td><a href="info.md">下载</a></td></tr>
