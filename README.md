@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>房屋窗户玻璃损伤缺陷检测数据集VOC+YOLO格式3086张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5ZwaA==">下载</a></td></tr>
 <tr><td>布料外观缺陷检测数据集VOC+YOLO格式2123张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5ZpZA==">下载</a></td></tr>
 <tr><td>布料缺陷检测数据集VOC+YOLO格式1858张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5ZubA==">下载</a></td></tr>
 <tr><td>布料缺陷破洞油污检测数据集VOC+YOLO格式896张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5Zuag==">下载</a></td></tr>
