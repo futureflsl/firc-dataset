@@ -4,6 +4,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>焊接焊缝缺陷检测数据集VOC+YOLO格式1009张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5pubA==">下载</a></td></tr>
+<tr><td>松树害虫目标检测数据集VOC+YOLO格式1572张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5luZA==">下载</a></td></tr>
 <tr><td>高铁受电弓检测数据集VOC+YOLO格式1245张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5hsag==">下载</a></td></tr>
 <tr><td>房屋窗户玻璃损伤缺陷检测数据集VOC+YOLO格式3086张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5ZwaA==">下载</a></td></tr>
 <tr><td>布料外观缺陷检测数据集VOC+YOLO格式2123张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5ZpZA==">下载</a></td></tr>
