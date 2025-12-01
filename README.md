@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通道路障碍物雪糕筒隔离桩交通桶警示柱识别检测数据集VOC+YOLO格式1911张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl51xaQ==">下载</a></td></tr>
 <tr><td>视障人士辅助移动数据集道路障碍物垃圾桶斑马线盲道三轮车检测数据集VOC+YOLO格式9977张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5xpbA==">下载</a></td></tr>
 <tr><td>森林火灾检测数据集VOC+YOLO格式6077张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl51pZw==">下载</a></td></tr>
 <tr><td>智慧交通非法违规停车检测数据集VOC+YOLO格式2129张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl5pyZA==">下载</a></td></tr>
