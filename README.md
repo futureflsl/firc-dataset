@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>管道焊缝质量好坏检测数据集VOC+YOLO格式1134张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJZvbQ==">下载</a></td></tr>
 <tr><td>桥梁裂缝腐蚀水坝建筑物桥梁泛碱检测数据集VOC+YOLO格式954张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl59tZA==">下载</a></td></tr>
 <tr><td>自动驾驶场景驾驶员注意力安全行为睡驾分心驾驶疲劳驾驶检测数据集VOC+YOLO格式5370张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl59taw==">下载</a></td></tr>
 <tr><td>智慧交通道路障碍物雪糕筒隔离桩交通桶警示柱识别检测数据集VOC+YOLO格式1911张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl51xaQ==">下载</a></td></tr>
@@ -1323,7 +1324,6 @@
 <tr><td>[数据集][目标检测]垃圾检测数据集VOC+YOLO格式1814张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138766240">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>船舶检测数据集VOC+YOLO格式7000张6类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138753859">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]纸箱子检测数据集VOC+YOLO格式8375张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138731068">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]管道焊缝质量检测数据集VOC+YOLO格式1134张2类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138728848">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]光栅检测数据集VOC+YOLO格式153张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138728639">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]交通标志检测数据集VOC+YOLO格式877张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138720122">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]交通灯检测数据集VOC+YOLO格式2600张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/138718921">详情</a></td><td><a href="info.md">下载</a></td></tr>
