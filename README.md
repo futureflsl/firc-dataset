@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>13种植物叶片叶子病害检测数据集VOC+YOLO格式2258张30类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJdsag==">下载</a></td></tr>
 <tr><td>管道焊缝质量好坏检测数据集VOC+YOLO格式1134张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJZvbQ==">下载</a></td></tr>
 <tr><td>桥梁裂缝腐蚀水坝建筑物桥梁泛碱检测数据集VOC+YOLO格式954张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl59tZA==">下载</a></td></tr>
 <tr><td>自动驾驶场景驾驶员注意力安全行为睡驾分心驾驶疲劳驾驶检测数据集VOC+YOLO格式5370张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZl59taw==">下载</a></td></tr>
