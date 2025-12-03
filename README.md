@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电动车入梯进电梯电单车入梯检测数据集VOC+YOLO格式7106张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJhtaA==">下载</a></td></tr>
 <tr><td>电力场景输电线路异物电力巡检异物检测数据集VOC+YOLO格式4165张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJdwZQ==">下载</a></td></tr>
 <tr><td>13种植物叶片叶子病害检测数据集VOC+YOLO格式2258张30类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJdsag==">下载</a></td></tr>
 <tr><td>管道焊缝质量好坏检测数据集VOC+YOLO格式1134张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJZvbQ==">下载</a></td></tr>
@@ -1099,7 +1100,6 @@
 <tr><td>[数据集][目标检测]人脸口罩佩戴目标检测数据集VOC+YOLO格式8068张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141951522">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]井盖丢失未盖破损检测数据集VOC+YOLO格式2890张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141949584">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电动车头盔佩戴检测数据集VOC+YOLO格式4235张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141948794">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]电动车入梯进电梯电单车入梯检测数据集VOC+YOLO格式7106张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141941622">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]电梯内广告牌电动车检测数据集VOC+YOLO格式2787张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141941377">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]西红柿缺陷检测数据集VOC+YOLO格式17318张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141934849">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]西红柿成熟度检测数据集VOC+YOLO格式3241张5类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/141932645">详情</a></td><td><a href="info.md">下载</a></td></tr>
