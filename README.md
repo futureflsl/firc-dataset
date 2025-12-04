@@ -4,6 +4,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>墙面瓷砖裂纹剥落建筑物墙面缺陷检测数据集VOC+YOLO格式2936张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJlqaQ==">下载</a></td></tr>
+<tr><td>红外图像人体姿态弯腰跌倒坐站检测数据集VOC+YOLO格式700张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJlpaQ==">下载</a></td></tr>
+<tr><td>电力设施巡检智慧电网设备数据集电网巡电路安全监测电力设备缺陷电线电缆异物入侵风筝电塔鸟巢检测数据集VOC+YOLO格式9035张25类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJlpaA==">下载</a></td></tr>
+<tr><td>盲道识别分割数据集labelme格式1802张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJlsZA==">下载</a></td></tr>
+<tr><td>工地积水道路路面积水桌面积水检测数据集VOC+YOLO格式5133张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJlqbQ==">下载</a></td></tr>
 <tr><td>电动车入梯进电梯电单车入梯检测数据集VOC+YOLO格式7106张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJhtaA==">下载</a></td></tr>
 <tr><td>电力场景输电线路异物电力巡检异物检测数据集VOC+YOLO格式4165张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJdwZQ==">下载</a></td></tr>
 <tr><td>13种植物叶片叶子病害检测数据集VOC+YOLO格式2258张30类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJdsag==">下载</a></td></tr>
