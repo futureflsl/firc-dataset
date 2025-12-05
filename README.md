@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧工地建筑工地常见装备手推车切割机安全帽检测数据集VOC+YOLO格式13364张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJ5pZg==">下载</a></td></tr>
 <tr><td>流动摊贩占道经营街上摆摊检测数据集VOC+YOLO格式1396张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJ1sZw==">下载</a></td></tr>
 <tr><td>墙面瓷砖裂纹剥落建筑物墙面缺陷检测数据集VOC+YOLO格式2936张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJlqaQ==">下载</a></td></tr>
 <tr><td>红外图像人体姿态弯腰跌倒坐站检测数据集VOC+YOLO格式700张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJlpaQ==">下载</a></td></tr>
