@@ -4,6 +4,14 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧城市道路路面垃圾检测数据集VOC+YOLO格式3321张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZvZw==">下载</a></td></tr>
+<tr><td>无人机视角航拍河道巡检植被淤泥垃圾检测数据集VOC+YOLO格式2777张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZuaQ==">下载</a></td></tr>
+<tr><td>电力场景电杆类型识别分割数据集labelme格式4707张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZxag==">下载</a></td></tr>
+<tr><td>电力场景输电线路电力部件识别分割数据集labelme格式2522张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZxZw==">下载</a></td></tr>
+<tr><td>电力场景输电线路设备部件识别分割数据集labelme格式2752张21类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZwbA==">下载</a></td></tr>
+<tr><td>工业生产场景下的安全帽安全服检测数据集VOC+YOLO格式12369张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZwaQ==">下载</a></td></tr>
+<tr><td>交通道路上电力设施要素高压开关电杆街灯变压器检测数据集VOC+YOLO格式4466张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZubQ==">下载</a></td></tr>
+<tr><td>电信设备设施通信设施腐蚀锈蚀检测数据集VOC+YOLO格式1078张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZuaw==">下载</a></td></tr>
 <tr><td>传送带损伤缺陷检测数据集VOC+YOLO格式918张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZpZQ==">下载</a></td></tr>
 <tr><td>传送带损伤缺陷检测数据集labelme格式918张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJ9xaA==">下载</a></td></tr>
 <tr><td>手语检测数据集VOC+YOLO格式2582张52类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmJ5rag==">下载</a></td></tr>
