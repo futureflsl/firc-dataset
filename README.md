@@ -4,6 +4,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景输电线覆冰识别分割数据集labelme格式1138张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZlwZQ==">下载</a></td></tr>
+<tr><td>电力场景输电线路覆冰检测数据集VOC+YOLO格式109张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZlvbA==">下载</a></td></tr>
 <tr><td>智慧工业施工现场吊车吊起物料物体板材木料钢筋沙袋检测数据集VOC+YOLO格式2011张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZhpaw==">下载</a></td></tr>
 <tr><td>航空飞机表面缺陷裂纹锈蚀凹陷检测数据集VOC+YOLO格式2495张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZdtZA==">下载</a></td></tr>
 <tr><td>智慧城市道路路面垃圾检测数据集VOC+YOLO格式3321张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZvZw==">下载</a></td></tr>
