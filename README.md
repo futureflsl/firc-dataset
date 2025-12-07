@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧工业施工现场吊车吊起物料物体板材木料钢筋沙袋检测数据集VOC+YOLO格式2011张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZhpaw==">下载</a></td></tr>
 <tr><td>航空飞机表面缺陷裂纹锈蚀凹陷检测数据集VOC+YOLO格式2495张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZdtZA==">下载</a></td></tr>
 <tr><td>智慧城市道路路面垃圾检测数据集VOC+YOLO格式3321张17类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZvZw==">下载</a></td></tr>
 <tr><td>无人机视角航拍河道巡检植被淤泥垃圾检测数据集VOC+YOLO格式2777张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZZuaQ==">下载</a></td></tr>
