@@ -4,6 +4,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>传送带大煤块异物检测数据集VOC+YOLO格式3135张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZ1tag==">下载</a></td></tr>
+<tr><td>电力场景输电线异物覆冰损坏缺陷检测数据集VOC+YOLO格式5157张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZ1tbA==">下载</a></td></tr>
 <tr><td>电力场景螺栓锈蚀挂板锈蚀挂环锈蚀耐张线夹锈蚀检测数据集VOC+YOLO格式1576张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxuZw==">下载</a></td></tr>
 <tr><td>电力场景输电线接口处电线传输线接口检测数据集VOC+YOLO格式2367张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxuZQ==">下载</a></td></tr>
 <tr><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式3293张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxtaA==">下载</a></td></tr>
