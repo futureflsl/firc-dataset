@@ -4,6 +4,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景螺栓锈蚀挂板锈蚀挂环锈蚀耐张线夹锈蚀检测数据集VOC+YOLO格式1576张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxuZw==">下载</a></td></tr>
+<tr><td>电力场景输电线接口处电线传输线接口检测数据集VOC+YOLO格式2367张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxuZQ==">下载</a></td></tr>
+<tr><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式3293张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxtaA==">下载</a></td></tr>
+<tr><td>光伏板缺陷检测数据集VOC+YOLO格式9475张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxsag==">下载</a></td></tr>
+<tr><td>智慧交通铁路巡检异常检测缺陷检测铁路设备检测数据集VOC+YOLO格式1695张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZxrZQ==">下载</a></td></tr>
+<tr><td>十三种不同鱼类检测数据集VOC+YOLO格式7798张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZpvZA==">下载</a></td></tr>
 <tr><td>电力场景输电线覆冰识别分割数据集labelme格式1138张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZlwZQ==">下载</a></td></tr>
 <tr><td>电力场景输电线路覆冰检测数据集VOC+YOLO格式109张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZlvbA==">下载</a></td></tr>
 <tr><td>智慧工业施工现场吊车吊起物料物体板材木料钢筋沙袋检测数据集VOC+YOLO格式2011张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZhpaw==">下载</a></td></tr>
