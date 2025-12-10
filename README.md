@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>辣椒病害分类数据集9076张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZ5rZQ==">下载</a></td></tr>
 <tr><td>监控视角下森林火灾烟雾检测数据集VOC+YOLO格式5927张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZ1wZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍森林火灾烟雾检测数据集VOC+YOLO格式6581张2类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZ1vbQ==">下载</a></td></tr>
 <tr><td>传送带大煤块异物检测数据集VOC+YOLO格式3135张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZ1tag==">下载</a></td></tr>
@@ -1404,7 +1405,6 @@
 <tr><td>[数据集][目标检测]小麦病害检测数据集VOC+YOLO格式899张12类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136538494">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][实例分割]小麦病害分割数据集899张12类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136538449">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]小麦病害分类数据集7653张12类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136533130">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][图像分类]辣椒病害分类数据集9076张12类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136531694">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]棉花叶子病害分类数据集2293张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136524790">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]大白菜幼叶病害分类数据集2878张3类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136524349">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][图像分类]昆虫分类数据集75222张102类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/136508159">详情</a></td><td><a href="info.md">下载</a></td></tr>
