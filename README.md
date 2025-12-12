@@ -4,6 +4,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角铁路巡检铁轨异物检测数据集VOC+YOLO格式1100张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpdyZw==">下载</a></td></tr>
+<tr><td>GC10-DET钢材缺陷检测数据集VOC+YOLO格式2283张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpdxaw==">下载</a></td></tr>
+<tr><td>智慧交通城市道路巡检道路损坏坑洞电线杆损坏路牌损坏违章停车涂鸦检测数据集VOC+YOLO格式24000张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpdxaQ==">下载</a></td></tr>
+<tr><td>无人机视角军事目标检测数据集VOC+YOLO格式5239张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpZxaA==">下载</a></td></tr>
 <tr><td>无人机视角五种树木类型识别巡检松树云杉桦树检测数据集VOC+YOLO格式3071张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpZrZg==">下载</a></td></tr>
 <tr><td>辣椒病害分类数据集9076张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZ5rZQ==">下载</a></td></tr>
 <tr><td>监控视角下森林火灾烟雾检测数据集VOC+YOLO格式5927张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmZ1wZQ==">下载</a></td></tr>
