@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>大米虫子大米长虫检测数据集VOC+YOLO格式1719张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmp1paw==">下载</a></td></tr>
 <tr><td>建筑工地建筑物料水泥钢筋木料大理石通箱子检测数据集VOC+YOLO格式405张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpxxaQ==">下载</a></td></tr>
 <tr><td>建筑工地建筑施工异常情况车辆大棚蔬菜烟火检测数据集VOC+YOLO格式3198张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpxwbQ==">下载</a></td></tr>
 <tr><td>电力场景输电线路防外破电线附近车辆检测数据集VOC+YOLO格式1866张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpxvZg==">下载</a></td></tr>
