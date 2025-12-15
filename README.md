@@ -4,6 +4,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>城市道路井盖破损丢失数据集VOC+YOLO格式1377张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmp9rZg==">下载</a></td></tr>
 <tr><td>大米虫子大米长虫检测数据集VOC+YOLO格式1719张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmp1paw==">下载</a></td></tr>
 <tr><td>建筑工地建筑物料水泥钢筋木料大理石通箱子检测数据集VOC+YOLO格式405张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpxxaQ==">下载</a></td></tr>
 <tr><td>建筑工地建筑施工异常情况车辆大棚蔬菜烟火检测数据集VOC+YOLO格式3198张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZmpxwbQ==">下载</a></td></tr>
@@ -1490,7 +1491,6 @@
 <tr><td>[数据集][目标检测]条码目标检测数据集VOC格式15442张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132164930">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>二维码检测数据集VOC+YOLO格式2483张1类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132164907">详情</a></td><td><a href="https://mbd.pub/o/bread/YZWUl5ZxZw==">下载</a></td></tr>
 <tr><td>[数据集][目标检测]遛狗不牵绳数据集VOC格式-1980张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132086523">详情</a></td><td><a href="info.md">下载</a></td></tr>
-<tr><td>[数据集][目标检测]城市道路井盖破损丢失数据集VOC+YOLO格式1377张4类别</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/132001075">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]危化品运输车数据集油罐车危化品运输车辆目标检测数据集2007张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/131990607">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]开车未系安全带目标检测数据集voc-190张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/131990602">详情</a></td><td><a href="info.md">下载</a></td></tr>
 <tr><td>[数据集][目标检测]天牛数据集目标检测数据集VOC格式3050张</td><td><a href="https://blog.csdn.net/FL1623863129/article/details/131990596">详情</a></td><td><a href="info.md">下载</a></td></tr>
