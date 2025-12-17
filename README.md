@@ -1,9 +1,9 @@
 推荐使用我们开发的搜索工具直接搜索下载数据集，软件仅支持windows10及以上，下载地址：https://aistudio.baidu.com/datasetdetail/325626<br>
 数据集表格形式访问：https://www.kdocs.cn/l/cgD4Mlip5SF9<br>
-温馨提示：如需开具发票的请直接联系微信fl176831购买，备注数据集要发票<br>
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>门外监控视角下的人员异常行为检测数据集VOC+YOLO格式2277张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5hyag==">下载</a></td></tr>
 <tr><td>智慧医疗内窥镜息肉检测数据集VOC+YOLO格式9248张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbQ==">下载</a></td></tr>
 <tr><td>智慧医疗消化道息肉检测数据集VOC+YOLO格式9263张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbA==">下载</a></td></tr>
 <tr><td>智慧医疗胃部疾病胃炎出血胃肿瘤检测数据集VOC+YOLO格式199张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsag==">下载</a></td></tr>
