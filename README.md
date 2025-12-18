@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角植物病害检测数据集VOC+YOLO格式1539张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5pybA==">下载</a></td></tr>
 <tr><td>门外监控视角下的人员异常行为检测数据集VOC+YOLO格式2277张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5hyag==">下载</a></td></tr>
 <tr><td>智慧医疗内窥镜息肉检测数据集VOC+YOLO格式9248张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbQ==">下载</a></td></tr>
 <tr><td>智慧医疗消化道息肉检测数据集VOC+YOLO格式9263张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm5dsbA==">下载</a></td></tr>
