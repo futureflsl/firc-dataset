@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>传送带异物检测玻璃碴子检测数据集VOC+YOLO格式156张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakphtZw==">下载</a></td></tr>
+<tr><td>智慧交通道路路面玻璃碴子检测数据集VOC+YOLO格式1276张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakphsZQ==">下载</a></td></tr>
+<tr><td>电力场景输电线路缺陷检测数据集VOC+YOLO格式1111张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakphqag==">下载</a></td></tr>
 <tr><td>摩托车电动车佩戴头盔检测数据集VOC+YOLO格式1677张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakpZyag==">下载</a></td></tr>
 <tr><td>智慧交通桥梁塌陷桥梁倒塌检测数据集VOC+YOLO格式534张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm59xZA==">下载</a></td></tr>
 <tr><td>智慧交通路边山体滑坡检测数据集VOC+YOLO格式2783张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWZm59wbQ==">下载</a></td></tr>
