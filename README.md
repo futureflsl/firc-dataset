@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧医疗膝盖骨关节炎严重程度检测数据集VOC+YOLO格式8000张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakppvbQ==">下载</a></td></tr>
 <tr><td>智慧工地建筑工地各种设备车辆油漆轮胎安全帽火花易燃物检测数据集VOC+YOLO格式3012张19类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakplybQ==">下载</a></td></tr>
 <tr><td>智慧工地建筑工地工程车辆与工人检测数据集VOC+YOLO格式9236张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakplraA==">下载</a></td></tr>
 <tr><td>传送带异物检测玻璃碴子检测数据集VOC+YOLO格式156张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakphtZw==">下载</a></td></tr>
