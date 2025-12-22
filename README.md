@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景电力缺陷检测数据集VOC+YOLO格式5714张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakpxuag==">下载</a></td></tr>
 <tr><td>智慧铁路高铁受电弓电线悬臂识别分割数据集labelme格式687张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakpxpZQ==">下载</a></td></tr>
 <tr><td>智慧铁路高铁受电弓触点支撑杆检测数据集VOC+YOLO格式1836张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakptybQ==">下载</a></td></tr>
 <tr><td>智慧铁路高铁受电弓及其接触部件检测数据集VOC+YOLO格式443张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakptybA==">下载</a></td></tr>
