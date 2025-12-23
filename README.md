@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>红外图像建筑墙面地面缺陷空洞裂纹检测数据集VOC+YOLO格式362张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakp9vZA==">下载</a></td></tr>
+<tr><td>自动驾驶场景乡村小路山林道路小路识别分割数据集labelme格式2397张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakp9wZA==">下载</a></td></tr>
 <tr><td>水表读数检测数据集VOC+YOLO格式3552张12类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakp1qaA==">下载</a></td></tr>
 <tr><td>电力场景电力缺陷检测数据集VOC+YOLO格式5714张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakpxuag==">下载</a></td></tr>
 <tr><td>智慧铁路高铁受电弓电线悬臂识别分割数据集labelme格式687张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakpxpZQ==">下载</a></td></tr>
