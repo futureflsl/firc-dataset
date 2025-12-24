@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角稻田水稻杂草检测数据集VOC+YOLO格式625张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWak5tsag==">下载</a></td></tr>
 <tr><td>电力场景输电线路关键部件绝缘子防震锤间隔棒避雷器检测数据集VOC+YOLO格式1206张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWak5dtZg==">下载</a></td></tr>
 <tr><td>红外图像建筑墙面地面缺陷空洞裂纹检测数据集VOC+YOLO格式362张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakp9vZA==">下载</a></td></tr>
 <tr><td>自动驾驶场景乡村小路山林道路小路识别分割数据集labelme格式2397张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWakp9wZA==">下载</a></td></tr>
