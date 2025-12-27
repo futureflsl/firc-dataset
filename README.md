@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>旋翼无人机检测数据集VOC+YOLO格式9132张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJ5qaQ==">下载</a></td></tr>
+<tr><td>固定翼无人机检测数据集VOC+YOLO格式2388张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJ5qZg==">下载</a></td></tr>
+<tr><td>双旋翼直升机检测数据集VOC+YOLO格式1118张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJ1wZQ==">下载</a></td></tr>
+<tr><td>单旋翼直升机检测数据集VOC+YOLO格式1746张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJ1vaQ==">下载</a></td></tr>
+<tr><td>气球热气球检测数据集VOC+YOLO格式1899张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJtwZw==">下载</a></td></tr>
+<tr><td>玉米叶子病害检测数据集VOC+YOLO格式4154张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJhxaQ==">下载</a></td></tr>
 <tr><td>电力场景高清图片输电线路植被被覆盖检测数据集VOC+YOLO格式447张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWak59vZQ==">下载</a></td></tr>
 <tr><td>电力场景高清图片输电线路鸟巢检测数据集VOC+YOLO格式490张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWak55xbA==">下载</a></td></tr>
 <tr><td>电力场景高清图片输电线路连接处销钉缺失检测数据集VOC+YOLO格式490张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWak55uZg==">下载</a></td></tr>
