@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通道路路面异常缺陷检测数据集VOC+YOLO格式2362张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZlqZw==">下载</a></td></tr>
+<tr><td>智慧交通道路路面异物高速公路抛洒物检测数据集VOC+YOLO格式233张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZlqZg==">下载</a></td></tr>
 <tr><td>智慧交通道路路面缺陷公路损伤检测数据集VOC+YOLO格式7610张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJ5tZA==">下载</a></td></tr>
 <tr><td>盘式绝缘子针式绝缘子瓷瓶缺陷检测数据集VOC+YOLO格式901张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalJ5sZg==">下载</a></td></tr>
 <tr><td>甲骨文文字检测数据集VOC+YOLO格式6079张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZZuaw==">下载</a></td></tr>
