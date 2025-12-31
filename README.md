@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>校园内危险物品持刀棒枪锤子检测数据集VOC+YOLO格式804张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxvZQ==">下载</a></td></tr>
+<tr><td>校园暴力行为打架持刀检测数据集VOC+YOLO格式20991张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWalZxvZA==">下载</a></td></tr>
 <tr><td>危险品分类与标识识别检测数据集VOC+YOLO格式2394张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxuZQ==">下载</a></td></tr>
 <tr><td>树上葡萄成熟度检测数据集VOC+YOLO格式690张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxtZA==">下载</a></td></tr>
 <tr><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式2828张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxsZw==">下载</a></td></tr>
