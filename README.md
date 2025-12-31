@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>甲骨文文字检测数据集VOC+YOLO格式6079张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZZuaw==">下载</a></td></tr>
+<tr><td>电力场景输电线路电缆线异常连接处缺陷金属部件腐蚀检测数据集VOC+YOLO格式3429张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxrbQ==">下载</a></td></tr>
+<tr><td>聚合物电缆线表面缺陷检测数据集VOC+YOLO格式91张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxrbA==">下载</a></td></tr>
+<tr><td>工业电缆缺陷数据集374张8类别可用于分割或分类</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZtxbQ==">下载</a></td></tr>
+<tr><td>电梯内遗留物品遗失物检测数据集VOC+YOLO格式610张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZtvbQ==">下载</a></td></tr>
 <tr><td>遛狗不牵绳检测数据集VOC+YOLO格式1980张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZlsaQ==">下载</a></td></tr>
 <tr><td>智慧交通道路路面异常缺陷检测数据集VOC+YOLO格式2362张20类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZlqZw==">下载</a></td></tr>
 <tr><td>智慧交通道路路面异物高速公路抛洒物检测数据集VOC+YOLO格式233张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZlqZg==">下载</a></td></tr>
