@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>树上葡萄成熟度检测数据集VOC+YOLO格式690张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxtZA==">下载</a></td></tr>
+<tr><td>电力场景绝缘子缺陷检测数据集VOC+YOLO格式2828张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxsZw==">下载</a></td></tr>
 <tr><td>甲骨文文字检测数据集VOC+YOLO格式6079张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZZuaw==">下载</a></td></tr>
 <tr><td>电力场景输电线路电缆线异常连接处缺陷金属部件腐蚀检测数据集VOC+YOLO格式3429张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxrbQ==">下载</a></td></tr>
 <tr><td>聚合物电缆线表面缺陷检测数据集VOC+YOLO格式91张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZxrbA==">下载</a></td></tr>
