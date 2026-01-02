@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>人脸皮肤病脓包雀斑皱纹白头黑头检测数据集VOC+YOLO格式4090张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9saA==">下载</a></td></tr>
+<tr><td>智慧医疗人脸皮肤病检测数据集VOC+YOLO格式8093张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9sZA==">下载</a></td></tr>
+<tr><td>人脸皮肤病痤疮毛囊炎丘疹疤痕检测数据集VOC+YOLO格式5454张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9sZQ==">下载</a></td></tr>
 <tr><td>游泳池内溺水检测数据集VOC+YOLO格式3523张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ5qaA==">下载</a></td></tr>
 <tr><td>游泳溺水检测数据集VOC+YOLO格式5724张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ5pbQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍建筑工地物料垃圾识别分割数据集labelme格式2123张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ1vaQ==">下载</a></td></tr>
