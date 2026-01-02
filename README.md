@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>输电杆塔绝缘子红外测温图像检测数据集VOC+YOLO格式420张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9xZA==">下载</a></td></tr>
 <tr><td>钢绞线导线损伤高压钢索线缺陷检测数据集VOC+YOLO格式1317张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9waA==">下载</a></td></tr>
 <tr><td>电力场景电力设备智能巡检闸刀电缆绝缘子缺陷检测数据集5976张49类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9uZg==">下载</a></td></tr>
 <tr><td>人脸皮肤病脓包雀斑皱纹白头黑头检测数据集VOC+YOLO格式4090张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9saA==">下载</a></td></tr>
