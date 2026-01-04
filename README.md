@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>托盘目标检测数据集VOC+YOLO格式4517张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphyaw==">下载</a></td></tr>
+<tr><td>出租车内遗留物车座上遗留物遗失品检测数据集VOC+YOLO格式1050张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphwag==">下载</a></td></tr>
 <tr><td>智慧工地建筑工地或工业场所常见物体与设施检测数据集VOC+YOLO格式19704张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphqbA==">下载</a></td></tr>
 <tr><td>智慧工地建筑定制的水泥板子梁墙柱子检测数据集1482张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphqZQ==">下载</a></td></tr>
 <tr><td>无人机视角航拍工地各种工程车辆检测数据集VOC+YOLO格式1044张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalpdxZQ==">下载</a></td></tr>
