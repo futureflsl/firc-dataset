@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧工地建筑工地或工业场所常见物体与设施检测数据集VOC+YOLO格式19704张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphqbA==">下载</a></td></tr>
+<tr><td>智慧工地建筑定制的水泥板子梁墙柱子检测数据集1482张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphqZQ==">下载</a></td></tr>
+<tr><td>无人机视角航拍工地各种工程车辆检测数据集VOC+YOLO格式1044张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalpdxZQ==">下载</a></td></tr>
+<tr><td>智慧工地人员反光衣安全帽检测数据集VOC+YOLO格式974张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalpdwbA==">下载</a></td></tr>
 <tr><td>地下停车位处遗失物品遗留物检测数据集VOC+YOLO格式700张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalpZrbQ==">下载</a></td></tr>
 <tr><td>输电杆塔绝缘子红外测温图像检测数据集VOC+YOLO格式420张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9xZA==">下载</a></td></tr>
 <tr><td>钢绞线导线损伤高压钢索线缺陷检测数据集VOC+YOLO格式1317张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalZ9waA==">下载</a></td></tr>
