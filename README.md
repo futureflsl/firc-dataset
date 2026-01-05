@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通铁路巡检铁轨轨道腐蚀断裂压痕严重程度缺陷检测数据集VOC+YOLO格式2324张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalplyag==">下载</a></td></tr>
 <tr><td>托盘目标检测数据集VOC+YOLO格式4517张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphyaw==">下载</a></td></tr>
 <tr><td>出租车内遗留物车座上遗留物遗失品检测数据集VOC+YOLO格式1050张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphwag==">下载</a></td></tr>
 <tr><td>智慧工地建筑工地或工业场所常见物体与设施检测数据集VOC+YOLO格式19704张14类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalphqbA==">下载</a></td></tr>
