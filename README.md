@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智能驾驶疲劳驾驶分心驾驶打哈欠抬低头眼睛状态检测数据集VOC+YOLO格式2661张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5ZxbA==">下载</a></td></tr>
 <tr><td>智慧农业棉花不同生长阶段花蕾棉桃检测数据集VOC+YOLO格式3831张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5ZubA==">下载</a></td></tr>
 <tr><td>熟棉花检测数据集VOC+YOLO格式767张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5ZraA==">下载</a></td></tr>
 <tr><td>智慧交通铁路巡检铁轨轨道腐蚀断裂压痕严重程度缺陷检测数据集VOC+YOLO格式2324张15类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWalplyag==">下载</a></td></tr>
