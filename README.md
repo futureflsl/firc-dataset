@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>监控视角工地建筑施工工程车辆检测数据集VOC+YOLO格式8345张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5txaA==">下载</a></td></tr>
+<tr><td>七十四种不同鸟类图像分类数据集3995张74类别已划分好训练验证测试集</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5tyaQ==">下载</a></td></tr>
+<tr><td>无人机视角红外图像太阳能光伏板热斑阴影缺陷检测数据集VOC+YOLO格式667张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5tvaw==">下载</a></td></tr>
+<tr><td>deepPCB电路板缺陷检测数据集VOC+YOLO格式1500张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5tvZA==">下载</a></td></tr>
 <tr><td>智能驾驶疲劳驾驶分心驾驶打哈欠抬低头眼睛状态检测数据集VOC+YOLO格式2661张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5ZxbA==">下载</a></td></tr>
 <tr><td>智慧农业棉花不同生长阶段花蕾棉桃检测数据集VOC+YOLO格式3831张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5ZubA==">下载</a></td></tr>
 <tr><td>熟棉花检测数据集VOC+YOLO格式767张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal5ZraA==">下载</a></td></tr>
