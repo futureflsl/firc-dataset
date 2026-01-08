@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧养殖猪脸检测数据集VOC+YOLO格式6468张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal51vbA==">下载</a></td></tr>
 <tr><td>无人机视角施工现场人员检测数据集VOC+YOLO格式4058张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal51waA==">下载</a></td></tr>
 <tr><td>X光安检物品检测数据集VOC+YOLO格式7913张13类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal51wZA==">下载</a></td></tr>
 <tr><td>监控视角垂直视角室内人员检测数据集VOC+YOLO格式4255张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal51wZQ==">下载</a></td></tr>
