@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>钢管X射线图像缺陷检测数据集VOC+YOLO格式3337张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal55wZg==">下载</a></td></tr>
+<tr><td>钢管X射线图像缺陷识别分割数据集labelme格式3337张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal55vag==">下载</a></td></tr>
+<tr><td>智慧交通铁路巡检钢轨轨道裂纹检测数据集VOC+YOLO格式698张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal55vaQ==">下载</a></td></tr>
 <tr><td>废料传送机垃圾传送带上的垃圾分类识别检测数据集VOC+YOLO格式1476张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal51yZg==">下载</a></td></tr>
 <tr><td>智慧养殖猪脸检测数据集VOC+YOLO格式6468张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal51vbA==">下载</a></td></tr>
 <tr><td>无人机视角施工现场人员检测数据集VOC+YOLO格式4058张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal51waA==">下载</a></td></tr>
