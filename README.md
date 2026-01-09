@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧矿井安全帽人员指示灯自救器检测数据集VOC+YOLO格式4369张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal59xaQ==">下载</a></td></tr>
+<tr><td>智慧矿井安全帽人员指示灯自救器识别分割数据集labelme格式1974张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal59xag==">下载</a></td></tr>
 <tr><td>钢管X射线图像缺陷检测数据集VOC+YOLO格式3337张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal55wZg==">下载</a></td></tr>
 <tr><td>钢管X射线图像缺陷识别分割数据集labelme格式3337张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal55vag==">下载</a></td></tr>
 <tr><td>智慧交通铁路巡检钢轨轨道裂纹检测数据集VOC+YOLO格式698张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal55vaQ==">下载</a></td></tr>
