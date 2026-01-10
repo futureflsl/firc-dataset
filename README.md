@@ -3,6 +3,11 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>桥梁混凝土损伤损坏裂缝空洞泛碱缺陷检测数据集VOC+YOLO格式9398张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJlsaw==">下载</a></td></tr>
+<tr><td>桥梁混凝土损伤损坏裂缝空洞泛碱缺陷分割数据集labelme格式9398张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJlsaQ==">下载</a></td></tr>
+<tr><td>建筑物混凝土裂缝剥落泛碱碳化缺陷识别检测数据集VOC+YOLO格式5275张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJhraw==">下载</a></td></tr>
+<tr><td>建筑物混凝土裂缝剥落泛碱碳化缺陷识别分割数据集labelme格式5276张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJhpag==">下载</a></td></tr>
+<tr><td>建筑物墙面混凝土裂纹空洞腐蚀缺陷检测数据集VOC+YOLO格式4024张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJdpZw==">下载</a></td></tr>
 <tr><td>智慧矿井安全帽人员指示灯自救器检测数据集VOC+YOLO格式4369张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal59xaQ==">下载</a></td></tr>
 <tr><td>智慧矿井安全帽人员指示灯自救器识别分割数据集labelme格式1974张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal59xag==">下载</a></td></tr>
 <tr><td>钢管X射线图像缺陷检测数据集VOC+YOLO格式3337张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWal55wZg==">下载</a></td></tr>
