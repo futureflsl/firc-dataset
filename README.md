@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>室内厂房火灾检测数据集VOC+YOLO格式920张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJxwaA==">下载</a></td></tr>
 <tr><td>无人机视角电力场景输电线塔植被侵占鸟巢检测数据集VOC+YOLO格式2881张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJxubA==">下载</a></td></tr>
 <tr><td>工业腐蚀各种钢材腐蚀锈蚀检测数据集VOC+YOLO格式2822张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJxuag==">下载</a></td></tr>
 <tr><td>工业腐蚀各种钢材腐蚀锈蚀检测数据集VOC+YOLO格式2822张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJxuZA==">下载</a></td></tr>
