@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>油棕果缺陷检测数据集VOC+YOLO格式1901张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJtvbQ==">下载</a></td></tr>
 <tr><td>非法捕捞非法捕鱼检测数据集VOC+YOLO格式223张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJtvZw==">下载</a></td></tr>
 <tr><td>电力场景螺栓螺丝螺帽缺失检测数据集VOC+YOLO格式857张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJttZA==">下载</a></td></tr>
 <tr><td>无人机视角风力发电机组叶片损伤腐蚀漏油污垢缺陷检测数据集VOC+YOLO格式3584张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJtsbQ==">下载</a></td></tr>
