@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角风力发电机组叶片损伤腐蚀漏油污垢缺陷检测数据集VOC+YOLO格式3584张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJtsbQ==">下载</a></td></tr>
 <tr><td>智慧铁路轨道铁轨异物检测数据集VOC+YOLO格式552张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJpqag==">下载</a></td></tr>
 <tr><td>无人机视角配电线航拍瓷瓶绝缘子检测数据集VOC+YOLO格式71张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJpqZA==">下载</a></td></tr>
 <tr><td>桥梁混凝土损伤损坏裂缝空洞泛碱缺陷检测数据集VOC+YOLO格式9398张18类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJlsaw==">下载</a></td></tr>
