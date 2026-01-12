@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角海洋垃圾河道垃圾漂浮物检测数据集VOC+YOLO格式2669张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ1taw==">下载</a></td></tr>
 <tr><td>室内墙面建筑物墙壁油漆剥落滴痕污渍表面不平检测数据集VOC+YOLO格式3011张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ1tZw==">下载</a></td></tr>
 <tr><td>建筑物墙面墙壁裂缝发霉渗水油漆剥落检测数据集VOC+YOLO格式2920张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ1sag==">下载</a></td></tr>
 <tr><td>室内厂房火灾检测数据集VOC+YOLO格式920张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJxwaA==">下载</a></td></tr>
