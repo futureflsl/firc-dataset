@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通道路路面坑洞车祸垃圾动物检测数据集VOC+YOLO格式4600张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZuag==">下载</a></td></tr>
 <tr><td>农业田间害虫检测数据集VOC+YOLO格式2968张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZsZA==">下载</a></td></tr>
 <tr><td>水稻小麦禾本科类病虫害检测数据集VOC+YOLO格式1003张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZrbA==">下载</a></td></tr>
 <tr><td>智慧农业田间害虫检测数据集VOC+YOLO格式2824张27类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZraw==">下载</a></td></tr>
