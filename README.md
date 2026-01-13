@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>建筑物窗户玻璃破损检测数据集VOC+YOLO格式368张1类别</td><td>无<td><td><a href="https://mbd.pub/o/bread/YZWamJ9xaQ==">下载</a></td></tr>
+<tr><td>隧道裂缝剥落渗水检测数据集VOC+YOLO格式3134张3类别</td><td>无<td><td><a href="https://mbd.pub/o/bread/YZWamJ9xaA==">下载</a></td></tr>
+<tr><td>电梯按钮识别检测数据集VOC+YOLO格式2019张368类别</td><td>无<td><td><a href="https://mbd.pub/o/bread/YZWamJ9wZQ==">下载</a></td></tr>
 <tr><td>无人机视角河道垃圾瓶子树枝易拉罐塑料检测数据集VOC+YOLO格式2247张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ5pZQ==">下载</a></td></tr>
 <tr><td>无人机视角河道垃圾水上漂浮物金属塑料瓶子检测数据集VOC+YOLO格式1297张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ1vZA==">下载</a></td></tr>
 <tr><td>无人机视角海洋垃圾河道垃圾漂浮物检测数据集VOC+YOLO格式2669张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ1taw==">下载</a></td></tr>
