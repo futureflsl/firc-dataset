@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>农业田间害虫检测数据集VOC+YOLO格式2968张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZsZA==">下载</a></td></tr>
+<tr><td>水稻小麦禾本科类病虫害检测数据集VOC+YOLO格式1003张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZrbA==">下载</a></td></tr>
+<tr><td>智慧农业田间害虫检测数据集VOC+YOLO格式2824张27类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZraw==">下载</a></td></tr>
+<tr><td>棉花叶子病虫害检测数据集VOC+YOLO格式5400张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZqbA==">下载</a></td></tr>
 <tr><td>建筑物窗户玻璃破损检测数据集VOC+YOLO格式368张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ9xaQ==">下载</a></td></tr>
 <tr><td>隧道裂缝剥落渗水检测数据集VOC+YOLO格式3134张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ9xaA==">下载</a></td></tr>
 <tr><td>电梯按钮识别检测数据集VOC+YOLO格式2019张368类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamJ9wZQ==">下载</a></td></tr>
