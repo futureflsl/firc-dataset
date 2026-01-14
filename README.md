@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>校园安全设施设备检测数据集VOC+YOLO格式6784张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZybA==">下载</a></td></tr>
+<tr><td>狗狗表情情绪识别检测数据集VOC+YOLO格式1560张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZyaw==">下载</a></td></tr>
 <tr><td>智慧交通道路路面坑洞车祸垃圾动物检测数据集VOC+YOLO格式4600张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZuag==">下载</a></td></tr>
 <tr><td>农业田间害虫检测数据集VOC+YOLO格式2968张16类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZsZA==">下载</a></td></tr>
 <tr><td>水稻小麦禾本科类病虫害检测数据集VOC+YOLO格式1003张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZrbA==">下载</a></td></tr>
