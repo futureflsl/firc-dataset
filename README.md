@@ -3,6 +3,12 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>建筑外墙墙面墙壁裂缝瓷砖确实锈蚀剥落污渍检测数据集VOC+YOLO格式544张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZdwag==">下载</a></td></tr>
+<tr><td>红外图像建筑物墙面发霉检测数据集VOC+YOLO格式142张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZlvZA==">下载</a></td></tr>
+<tr><td>红外图像水管管道破裂漏水检测数据集VOC+YOLO格式93张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZluaw==">下载</a></td></tr>
+<tr><td>智慧交通道路路面液体抛洒物检测数据集VOC+YOLO格式1192张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZluZA==">下载</a></td></tr>
+<tr><td>抽烟打电话吃喝检测数据集VOC+YOLO格式1876张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZlpZA==">下载</a></td></tr>
+<tr><td>金属板材注塑件精密加工件表面缺陷检测数据集VOC+YOLO格式5694张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZhpZw==">下载</a></td></tr>
 <tr><td>校园安全设施设备检测数据集VOC+YOLO格式6784张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZybA==">下载</a></td></tr>
 <tr><td>狗狗表情情绪识别检测数据集VOC+YOLO格式1560张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZyaw==">下载</a></td></tr>
 <tr><td>智慧交通道路路面坑洞车祸垃圾动物检测数据集VOC+YOLO格式4600张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZZuag==">下载</a></td></tr>
