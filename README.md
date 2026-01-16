@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通无人机视角道路路面裂缝坑洞检测数据集VOC+YOLO格式4372张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZtpbQ==">下载</a></td></tr>
 <tr><td>建筑外墙墙面墙壁裂缝瓷砖确实锈蚀剥落污渍检测数据集VOC+YOLO格式544张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZdwag==">下载</a></td></tr>
 <tr><td>红外图像建筑物墙面发霉检测数据集VOC+YOLO格式142张1类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZlvZA==">下载</a></td></tr>
 <tr><td>红外图像水管管道破裂漏水检测数据集VOC+YOLO格式93张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZluaw==">下载</a></td></tr>
