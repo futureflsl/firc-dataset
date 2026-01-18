@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>铁轨轨道安全障碍物检测数据集VOC+YOLO格式620张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9wZA==">下载</a></td></tr>
 <tr><td>水下生物水下动物海洋动物检测数据集VOC+YOLO格式9333张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9vbA==">下载</a></td></tr>
 <tr><td>智慧农业树上猕猴桃检测数据集VOC+YOLO格式2810张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9vaw==">下载</a></td></tr>
 <tr><td>智慧课堂教师行为检测数据集VOC+YOLO格式3898张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ1raw==">下载</a></td></tr>
