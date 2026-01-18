@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>水下生物水下动物海洋动物检测数据集VOC+YOLO格式9333张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9vbA==">下载</a></td></tr>
+<tr><td>智慧农业树上猕猴桃检测数据集VOC+YOLO格式2810张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9vaw==">下载</a></td></tr>
 <tr><td>智慧课堂教师行为检测数据集VOC+YOLO格式3898张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ1raw==">下载</a></td></tr>
 <tr><td>智慧交通无人机视角道路路面裂缝坑洞检测数据集VOC+YOLO格式4372张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZtpbQ==">下载</a></td></tr>
 <tr><td>建筑外墙墙面墙壁裂缝瓷砖确实锈蚀剥落污渍检测数据集VOC+YOLO格式544张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZdwag==">下载</a></td></tr>
