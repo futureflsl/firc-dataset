@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>混凝土缺陷墙面钢筋外露剥落缺陷检测数据集VOC+YOLO格式1199张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZxaQ==">下载</a></td></tr>
 <tr><td>中式餐品中式菜品食物检测数据集VOC+YOLO格式6928张238类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZwaA==">下载</a></td></tr>
 <tr><td>工业磁环表面缺陷检测数据集VOC+YOLO格式2907张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrbA==">下载</a></td></tr>
 <tr><td>智慧农业玉米叶子中心部位区域检测数据集VOC+YOLO格式471张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrag==">下载</a></td></tr>
