@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>中式餐品中式菜品食物检测数据集VOC+YOLO格式6928张238类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZwaA==">下载</a></td></tr>
+<tr><td>工业磁环表面缺陷检测数据集VOC+YOLO格式2907张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrbA==">下载</a></td></tr>
 <tr><td>智慧农业玉米叶子中心部位区域检测数据集VOC+YOLO格式471张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrag==">下载</a></td></tr>
 <tr><td>西红柿番茄成熟度识别分割数据集labelme格式783张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrZQ==">下载</a></td></tr>
 <tr><td>西红柿番茄成熟度检测数据集VOC+YOLO格式2260张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrZA==">下载</a></td></tr>
