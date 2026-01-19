@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>西红柿番茄成熟度识别分割数据集labelme格式783张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrZQ==">下载</a></td></tr>
+<tr><td>西红柿番茄成熟度检测数据集VOC+YOLO格式2260张3类别有增强</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrZA==">下载</a></td></tr>
+<tr><td>红外图像墙体内部管道泄漏漏水检测数据集VOC+YOLO格式945张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZqbA==">下载</a></td></tr>
 <tr><td>铁轨轨道安全障碍物检测数据集VOC+YOLO格式620张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9wZA==">下载</a></td></tr>
 <tr><td>水下生物水下动物海洋动物检测数据集VOC+YOLO格式9333张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9vbA==">下载</a></td></tr>
 <tr><td>智慧农业树上猕猴桃检测数据集VOC+YOLO格式2810张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamZ9vaw==">下载</a></td></tr>
