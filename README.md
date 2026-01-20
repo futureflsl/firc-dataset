@@ -3,6 +3,15 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角滑坡泥石流检测数据集VOC+YOLO格式2262张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdyaw==">下载</a></td></tr>
+<tr><td>无人机视角滑坡泥石流分割数据集labelme格式2262张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdyZQ==">下载</a></td></tr>
+<tr><td>无人机视角泥石流检测数据集VOC+YOLO格式21214张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdxbQ==">下载</a></td></tr>
+<tr><td>机场地面监控车辆飞机人员飞鸟检测数据集VOC+YOLO格式1090张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdxZQ==">下载</a></td></tr>
+<tr><td>龙虾检测数据集VOC+YOLO格式605张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdsZw==">下载</a></td></tr>
+<tr><td>混凝土缺陷墙面钢筋外露剥落缺陷检测数据集VOC+YOLO格式1199张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZxaQ==">下载</a></td></tr>
+<tr><td>智慧果园树上腰果成熟度检测数据集VOC+YOLO格式4700张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdwbQ==">下载</a></td></tr>
+<tr><td>梨子病害检测数据集VOC+YOLO格式1854张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdwbA==">下载</a></td></tr>
+<tr><td>无人机视角水稻稻穗检测数据集VOC+YOLO格式2185张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdrZA==">下载</a></td></tr>
 <tr><td>混凝土缺陷墙面钢筋外露剥落缺陷检测数据集VOC+YOLO格式1199张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZxaQ==">下载</a></td></tr>
 <tr><td>中式餐品中式菜品食物检测数据集VOC+YOLO格式6928张238类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZwaA==">下载</a></td></tr>
 <tr><td>工业磁环表面缺陷检测数据集VOC+YOLO格式2907张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampZrbA==">下载</a></td></tr>
