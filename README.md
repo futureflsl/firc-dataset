@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>公交车场景下人头检测数据集VOC+YOLO格式2295张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampluZw==">下载</a></td></tr>
+<tr><td>水管管道漏水泄漏裂缝检测数据集VOC+YOLO格式1131张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampluZQ==">下载</a></td></tr>
 <tr><td>无人机视角智慧农业田间作物与杂草识别分割数据集labelme格式1359张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/mbd-YZWamphqaQ==">下载</a></td></tr>
 <tr><td>无人机视角滑坡泥石流检测数据集VOC+YOLO格式2262张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdyaw==">下载</a></td></tr>
 <tr><td>无人机视角滑坡泥石流分割数据集labelme格式2262张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampdyZQ==">下载</a></td></tr>
