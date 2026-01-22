@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>桥梁墙面混凝土裂缝风化识别分割数据集labelme格式7752张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxwag==">下载</a></td></tr>
+<tr><td>混凝土墙壁裂缝剥落识别分割数据集labelme格式1497张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxwZQ==">下载</a></td></tr>
+<tr><td>无人机视角太阳能光伏板热成像红外图像缺陷检测数据集VOC+YOLO格式1229张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxtbA==">下载</a></td></tr>
+<tr><td>智慧医疗脑肿瘤检测数据集VOC+YOLO格式2243张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamptwZg==">下载</a></td></tr>
 <tr><td>智慧铁路受电弓触角缺陷受电弓状态受电弓故障检测数据集VOC+YOLO格式1048张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamptqaA==">下载</a></td></tr>
 <tr><td>河道垃圾排水沟塑料垃圾检测数据集VOC+YOLO格式1974张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamplxZQ==">下载</a></td></tr>
 <tr><td>公交车场景下人头检测数据集VOC+YOLO格式2295张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampluZw==">下载</a></td></tr>
