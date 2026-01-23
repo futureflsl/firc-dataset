@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角土豆马铃薯洋芋苗病害检测数据集VOC+YOLO格式1539张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5vaw==">下载</a></td></tr>
+<tr><td>智慧交通车辆违停违章停车非法停车车辆违章检测数据集VOC+YOLO格式979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5vZA==">下载</a></td></tr>
 <tr><td>智慧交通高速公路城市道路路面车辆行为锥形桶抛洒物检测数据集VOC+YOLO格式2797张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5saQ==">下载</a></td></tr>
 <tr><td>罐子塑料树枝纸张玻璃聚乙烯检测数据集VOC+YOLO格式8797张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp1xbA==">下载</a></td></tr>
 <tr><td>智慧交通高速公路城市道路路面抛洒物散落货物障碍物检测数据集VOC+YOLO格式4521张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxxaA==">下载</a></td></tr>
