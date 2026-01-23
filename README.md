@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通高速公路城市道路路面车辆行为锥形桶抛洒物检测数据集VOC+YOLO格式2797张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5saQ==">下载</a></td></tr>
+<tr><td>罐子塑料树枝纸张玻璃聚乙烯检测数据集VOC+YOLO格式8797张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp1xbA==">下载</a></td></tr>
 <tr><td>智慧交通高速公路城市道路路面抛洒物散落货物障碍物检测数据集VOC+YOLO格式4521张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxxaA==">下载</a></td></tr>
 <tr><td>桥梁墙面混凝土裂缝风化识别分割数据集labelme格式7752张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxwag==">下载</a></td></tr>
 <tr><td>混凝土墙壁裂缝剥落识别分割数据集labelme格式1497张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWampxwZQ==">下载</a></td></tr>
