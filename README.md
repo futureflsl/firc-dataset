@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电子元器件电路板组件检测数据集VOC+YOLO格式995张12类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp9uag==">下载</a></td></tr>
+<tr><td>电子芯片类型识别检测数据集VOC+YOLO格式1226张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp9uaQ==">下载</a></td></tr>
 <tr><td>无人机视角土豆马铃薯洋芋苗病害检测数据集VOC+YOLO格式1539张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5vaw==">下载</a></td></tr>
 <tr><td>智慧交通车辆违停违章停车非法停车车辆违章检测数据集VOC+YOLO格式979张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5vZA==">下载</a></td></tr>
 <tr><td>智慧交通高速公路城市道路路面车辆行为锥形桶抛洒物检测数据集VOC+YOLO格式2797张7类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp5saQ==">下载</a></td></tr>
