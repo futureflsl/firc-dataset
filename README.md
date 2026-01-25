@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧铁路各种铁路上车厢类型检测数据集VOC+YOLO格式1311张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dtaw==">下载</a></td></tr>
+<tr><td>智慧交通车头车尾车方向检测数据集VOC+YOLO格式5473张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dtaQ==">下载</a></td></tr>
 <tr><td>无人机视角城市街道占道经营摆摊街摊贩检测数据集VOC+YOLO格式355张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dqbQ==">下载</a></td></tr>
 <tr><td>无人机视角城市街道占道经营识别分割数据集labelme格式359张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dqaw==">下载</a></td></tr>
 <tr><td>电力场景无人机视角电路巡检绝缘子防震锤避雷器负荷检测数据集VOC+YOLO格式1883张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWamp9wZQ==">下载</a></td></tr>
