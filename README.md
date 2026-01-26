@@ -3,6 +3,10 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧工地卡车自卸车挖机重型机械车辆扬尘电磁铁检测数据集VOC+YOLO格式9829张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hwaA==">下载</a></td></tr>
+<tr><td>智慧农业害虫检测之毛毛虫检测数据集VOC+YOLO格式500张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hwZw==">下载</a></td></tr>
+<tr><td>智慧交通卡车货车车辆防水布篷布雨布破损检测数据集VOC+YOLO格式1894张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hwZg==">下载</a></td></tr>
+<tr><td>智慧交通卡车货车车辆防水布篷布雨布破损识别分割数据集labelme格式1894张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hwZQ==">下载</a></td></tr>
 <tr><td>智慧铁路各种铁路上车厢类型检测数据集VOC+YOLO格式1311张11类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dtaw==">下载</a></td></tr>
 <tr><td>智慧交通车头车尾车方向检测数据集VOC+YOLO格式5473张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dtaQ==">下载</a></td></tr>
 <tr><td>无人机视角城市街道占道经营摆摊街摊贩检测数据集VOC+YOLO格式355张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5dqbQ==">下载</a></td></tr>
