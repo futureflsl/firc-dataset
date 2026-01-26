@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>传送带上大煤块检测数据集VOC+YOLO格式859张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5ltaw==">下载</a></td></tr>
+<tr><td>矿井下钻杆顶板锚杆钻机开关状态检测数据集VOC+YOLO格式2530张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5luZg==">下载</a></td></tr>
 <tr><td>智慧交通无人机视角城市街道消防通道占用检测数据集VOC+YOLO格式944张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5ltaQ==">下载</a></td></tr>
 <tr><td>无人机视角垂钓钓鱼游泳溺水检测数据集VOC+YOLO格式901张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5lsZg==">下载</a></td></tr>
 <tr><td>无人机视角红外图像太阳能光伏板热斑异常低温二极管短路缺陷检测数据集VOC+YOLO格式1660张5类</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5lsZw==">下载</a></td></tr>
