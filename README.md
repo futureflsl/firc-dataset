@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通卡车运输车俩车厢状态满载空车车牌沙土袋子建筑材料检测数据集VOC+YOLO格式696张8类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hxaw==">下载</a></td></tr>
+<tr><td>墙面裂缝脏污剥落检测数据集VOC+YOLO格式114张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hxZg==">下载</a></td></tr>
+<tr><td>智慧建筑墙面墙体发霉漏水剥落长植物检测数据集VOC+YOLO格式238张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hxZQ==">下载</a></td></tr>
 <tr><td>智慧工地卡车自卸车挖机重型机械车辆扬尘电磁铁检测数据集VOC+YOLO格式9829张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hwaA==">下载</a></td></tr>
 <tr><td>智慧农业害虫检测之毛毛虫检测数据集VOC+YOLO格式500张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hwZw==">下载</a></td></tr>
 <tr><td>智慧交通卡车货车车辆防水布篷布雨布破损检测数据集VOC+YOLO格式1894张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5hwZg==">下载</a></td></tr>
