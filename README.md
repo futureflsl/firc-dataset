@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>中国交通标志检测数据集VOC+YOLO格式9129张175类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5tpaA==">下载</a></td></tr>
+<tr><td>智慧交通车辆颜色识别检测数据集VOC+YOLO格式607张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5pxbQ==">下载</a></td></tr>
 <tr><td>传送带上大煤块检测数据集VOC+YOLO格式859张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5ltaw==">下载</a></td></tr>
 <tr><td>矿井下钻杆顶板锚杆钻机开关状态检测数据集VOC+YOLO格式2530张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5luZg==">下载</a></td></tr>
 <tr><td>智慧交通无人机视角城市街道消防通道占用检测数据集VOC+YOLO格式944张3类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5ltaQ==">下载</a></td></tr>
