@@ -3,6 +3,7 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>电力场景输电线路防外力破坏检测数据集VOC+YOLO格式1106张5类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5ttaA==">下载</a></td></tr>
 <tr><td>中国交通标志检测数据集VOC+YOLO格式9129张175类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5tpaA==">下载</a></td></tr>
 <tr><td>智慧交通车辆颜色识别检测数据集VOC+YOLO格式607张9类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5pxbQ==">下载</a></td></tr>
 <tr><td>传送带上大煤块检测数据集VOC+YOLO格式859张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5ltaw==">下载</a></td></tr>
