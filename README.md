@@ -3,6 +3,8 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>无人机视角动物牛羊斑马骆驼海豹驴检测数据集VOC+YOLO格式10000张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xvaw==">下载</a></td></tr>
+<tr><td>花卉及病虫害检测数据集VOC+YOLO格式2199张44类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xvaA==">下载</a></td></tr>
 <tr><td>无人机视角城市街道行人与车辆检测数据集VOC+YOLO格式5291张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtbA==">下载</a></td></tr>
 <tr><td>无人机视角工地挖机渣土车塔吊吊车检测数据集VOC+YOLO格式1363张4类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtag==">下载</a></td></tr>
 <tr><td>智慧纺织业布料孔洞节疤开缝抽丝划痕缝皱毛粒污渍撕裂缺陷检测数据集VOC+YOLO格式2045张10类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xsbA==">下载</a></td></tr>
