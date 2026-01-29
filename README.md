@@ -3,6 +3,9 @@
 <table>
 <thead><tr><th>数据集名称</th><th>详情介绍</th><th>下载地址</th></tr></thead>
 <tbody>
+<tr><td>智慧交通机场无人机检测数据集VOC+YOLO格式2000张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam55wag==">下载</a></td></tr>
+<tr><td>智慧交通机场飞鸟检测数据集VOC+YOLO格式1500张1类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam55uZQ==">下载</a></td></tr>
+<tr><td>智慧园区卡车货车运输车辆进出车头车尾车前车后检测数据集VOC+YOLO格式2483张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam55sZg==">下载</a></td></tr>
 <tr><td>无人机视角动物牛羊斑马骆驼海豹驴检测数据集VOC+YOLO格式10000张6类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xvaw==">下载</a></td></tr>
 <tr><td>花卉及病虫害检测数据集VOC+YOLO格式2199张44类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xvaA==">下载</a></td></tr>
 <tr><td>无人机视角城市街道行人与车辆检测数据集VOC+YOLO格式5291张2类别</td><td>无</td><td><a href="https://mbd.pub/o/bread/YZWam5xtbA==">下载</a></td></tr>
